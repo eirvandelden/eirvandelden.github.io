@@ -1,42 +1,42 @@
-title:            eirvandelden.com
-description:      My small part of the internet
-disqus_shortname: eirvandelden.com
+title:            Site Title
+description:      Describe your website here.
+disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://eirvandelden.github.io
+url:
 
 # Owner/author information
 owner:
-  name:           Etienne van Delden
+  name:           Your Name
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          eirvandelden@me.com
+  email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        eirvandelden
-  facebook:       eirvandelden
-  github:         eirvandelden
-#  stackexchange:  
-  linkedin:       eirvandelden
-#  instagram:      
-#  flickr:         
-#  tumblr:         
+  twitter:        
+  facebook:       
+  github:         
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-#  google_plus:    +eirvandelden#
+  google_plus:    +yourid
 
 # Background image to be tiled on all pages
-background:	  abstract-1.jpg 
+background: 
 
 # Analytics and webmaster tools stuff goes here
-#google_analytics:   
-#google_verify:      
+google_analytics:   
+google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-#bing_verify:         
+bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Amsterdam
+timezone:    America/New_York
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -50,7 +50,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 10
+paginate: 5
 
 kramdown:
   auto_ids: true
