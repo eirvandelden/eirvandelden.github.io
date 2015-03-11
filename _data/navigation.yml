@@ -1,6 +1,15 @@
 # Site navigation links
+- title: D&D
+  url: /dnd
+  excerpt: 'My adventures, campaigns and advice about D&D'
 
-- title:
-  url:
-  excerpt:
+- title: Programming
+  url: /programming
+
+- title: Inspiration
+  url: /insipration
+
+- title: About me
+  url: /about
+  excerpt: 'Who am I?'
   image:
