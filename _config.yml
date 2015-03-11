@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:
-description:
+title: eirvandelden.com
+description: A progammer and sometimes a gamer
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
@@ -22,9 +22,9 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name: Etienne van Delden
   email:
-  twitter:
+  twitter: eirvandelden
   google:
     ad-client: 
     ad-slot: 
