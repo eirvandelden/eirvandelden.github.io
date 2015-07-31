@@ -19,9 +19,9 @@ The world of Deneki is a new world, but will contain familiar elements from diff
 
 The Map of Deneki is equal to the D&D 4th Edition map of Faerun:
 {% capture images %}
-	/images/fearun.png
+	/images/faerun.png
 {% endcapture %}
-{% include gallery images=images caption="Maps of Deneki" cols=1 %}
+{% include gallery.html images=images caption="" cols=3 %}
 
 # [History]({% post_url /dnd/2015-07-27-history-of-deneki %})
 See [The History of Deneki]({% post_url /dnd/2015-07-27-history-of-deneki %})
