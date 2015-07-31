@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "The History of Deneki"
-modified:
+modified: 2015-07-31
 categories: dnd
-excerpt:
+description: "The History for the world we play in for D&D."
 tags: [dnd, 5e, NeverWinter Nights]
-date: 2015-07-27T12:12:30+01:00
 ---
 
 This is the history for our D&D World "Deneki". This history will slowly be expandend with new content, both from players and the DM.
@@ -14,18 +13,18 @@ This is the history for our D&D World "Deneki". This history will slowly be expa
 * Not much is known about these wars. This is when humanity arose.
 * The First Mortal races (Gnolls, Elves, Halflings) arise
 
-## Elven Wars
+# Elven Wars
 
 - War breaks out between elven clans. 
 - The Sun Elves are banned from the sun, turning them into the Drow 
 
-## First Divine Wars
+# First Divine Wars
 - Heaven and Hell battle over Deneki 
 - Heaven defeats Hell, claiming Deneki
 - Heavens grip on Deneki is like an iron hand. There is no hunger nor poverty, as all basic needs are provided for. But there is also no fun and no advancements in any way. 
 - The Loxodon are introduced to Deneki
 
-## Second Divine Wars
+# Second Divine Wars
 
 - Rebellion breaks out against heaven
 - Hell finds a new way to return to Earas and appears to be a saviour of the oppressed people of Earas. 
@@ -34,7 +33,7 @@ This is the history for our D&D World "Deneki". This history will slowly be expa
 - Both Heaven and Hell are expelled.
 - The Second Mortal races arise during this period: Dwarves, Gnomes, Kobolds
 
-## Gnome Banishment
+# Gnome Banishment
 - The Gnomes have an affinity for artifice, the creation of mechanics and mechanical creatures.
 - They create the Warforged, a (later sentient) race of machines
 - The Warforged view themselves as enslaved by the Gnomes. 
@@ -42,10 +41,16 @@ This is the history for our D&D World "Deneki". This history will slowly be expa
 - The Warforged won the war and exiled the Gnomes from their homeland, claiming it as their own.
 - The Gnomes now wonder the world in search of a new home, or a new army.
 
-## Creation of the Alliance Protectorate 
+# Creation of the Alliance Protectorate 
 - Elves and Gnolls join forces to defend the North from many threats, orcs, dragons and beholders
 - Later, the Halflings joined the alliance. 
 
-## Now
+# Now
 - The North has greatly prospered through the Alliance Protectorate 
 - Humans and Thieflings are trying to join the Alliance Protectorate
+
+## NeverWinter Nights
+ - The city of NeverWinter is brought down to its knees by a strange disease; the Wailing Death
+ - A call went out for new Heroes to come train at the Heroes Academy, to become the new saviour of NeverWinter
+ - The Heroes Academy is attacked, but five brave adventureres fought back and prevent the Heroes Academy of falling
+ - The cure of the Wailing Death, three creatures send by the city of Waterdeep, have gone missing.
