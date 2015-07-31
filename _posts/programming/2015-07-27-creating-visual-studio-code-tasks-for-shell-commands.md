@@ -10,7 +10,9 @@ image:
 date: 2015-07-27T12:35:40+01:00
 ---
 
-I’ve been using [Visual Studio Code](https://code.visualstudio.com) ever since it has been released and it quickly became my new favourite code editor. One of it’s cool features is that I can create tasks, like a test or build task, that you can start with a keyboard shortcut, right from your code.
+I’ve been using [Visual Studio Code](https://code.visualstudio.com) ever since it has been released and it quickly became my new favourite code editor.
+
+One of it’s cool features is that I can create tasks, like a test or build task, that you can start with a keyboard shortcut, right from your code.
 
 When working on Rails Apps, I like to have three things side-by-side; my code, my test and the test output (for that single test).
 Visual Studio Code’s tasks feature is advertised for just such a way of working, but the documentation is quite lacking on how to set this up.
