@@ -1,20 +1,18 @@
 ---
 layout: post
-title: "The World of Deneki"
+title: "The History of Deneki"
 modified:
 categories: dnd
 excerpt:
 tags: [dnd, 5e, NeverWinter Nights]
-date: 2015-06-15T12:12:30+01:00
+date: 2015-07-27T12:12:30+01:00
 ---
 
-# History
+This is the history for our D&D World "Deneki". This history will slowly be expandend with new content, both from players and the DM.
 
-## Creation wars
-
-Not much is known about these wars. This is when humanity arose.
-
-## The First Mortal races (Gnolls, Elves, Halflings) arise
+# Creation wars
+* Not much is known about these wars. This is when humanity arose.
+* The First Mortal races (Gnolls, Elves, Halflings) arise
 
 ## Elven Wars
 
@@ -50,26 +48,4 @@ Not much is known about these wars. This is when humanity arose.
 
 ## Now
 - The North has greatly prospered through the Alliance Protectorate 
-- Humans and Thieflings are trying them
-
-# Races
-
-Emphasized races are playable races
-
-- *Humans*
-- *Gnolls* (Both Hyena and Canine variants. Ask DM for stats) 
-- Elves 
-  - *Drow* (Caution, viewed as evil)
-  - *High Elves*
-  - *Wood Elves*
-- *Halflings* 
-- *Dwarves*
-- *Gnomes*
-- *Warforged* 
-- *Thieflings*
-- *Aasimar*
-
-##Otherworldly races
-- *Loxodon/Rhox* (Elephantin/Rhino, they replace Orcs)
-- *Kobolds*
-- Goblins
+- Humans and Thieflings are trying to join the Alliance Protectorate
