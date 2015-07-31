@@ -20,7 +20,7 @@ Luckily [Hurelu on StackOverflow](http://stackoverflow.com/a/30419250/2814830) f
  * Press cmd+shift+p and select “Configure Task Runner"
  * Replace the contents with the following:
 
-
+~~~ json
     {
       "command": "bundle",
       "args": ["exec"],
@@ -38,6 +38,7 @@ Luckily [Hurelu on StackOverflow](http://stackoverflow.com/a/30419250/2814830) f
         }
       ]
     }
+~~~
 
  * Open an RSpec test and press cmd+shift+t to run your test for the currently selected RSpec test and see the output!
  * You can run cmd+shift+b to start your server using foreman. Take note that only 1 task may be running at a time.
