@@ -22,6 +22,9 @@ The Map of Deneki is equal to the D&D 4th Edition map of Faerun:
 {% endcapture %}
 {% include gallery.html images=images caption="" cols=3 %}
 
+# [Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
+See [Homebrew Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
+
 # [History]({% post_url /dnd/2015-07-27-history-of-deneki %})
 See [The History of Deneki]({% post_url /dnd/2015-07-27-history-of-deneki %})
 
@@ -30,7 +33,7 @@ See [The History of Deneki]({% post_url /dnd/2015-07-27-history-of-deneki %})
 Emphasized races are playable races
 
 - *Humans*
-- *Gnolls* (Both Hyena and Canine variants. Ask DM for stats) 
+- *Gnolls* (Ask DM for stats) 
 - Elves 
   - *Drow* (Caution, viewed as evil)
   - *High Elves*
