@@ -17,6 +17,9 @@ date: 2015-08-30T11:13:51+02:00
 What happened previously in our D&D session
 
 # Session 0: The Prelude
+
+[Intro movie](https://youtu.be/-0qA7n4-E-Y?list=PL5U1SRexN7RUzwjvhTESUq0Q-yH4O8QF2)
+
  - The city of NeverWinter is brought down to its knees by a strange disease; the Wailing Death
  - A call went out for new Heroes to come train at the Heroes Academy, to become the new saviour of NeverWinter
  - The Heroes Academy is attacked, but five brave adventureres fought back and prevent the Heroes Academy of falling
