@@ -23,7 +23,7 @@ The Map of Deneki is equal to the D&D 4th Edition map of Faerun:
 {% include gallery.html images=images caption="" cols=3 %}
 
 # Adventure log
-See [Adventure log]({% post_url /dnd/2015-08-30-homebrew-rules %})
+See [Adventure log]({% post_url /dnd/2015-08-30-adventure-log %})
 
 # [Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
 See [Homebrew Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
