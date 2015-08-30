@@ -23,7 +23,7 @@ During the campaign we use the following optional and homebrew rules:
 # Color Wheel Alignment
 
 {% capture images %}
-	/images/colorwheel.png
+	/images/colorwheel.jpg
 {% endcapture %}
 {% include gallery.html images=images caption="" cols=3 %}
 

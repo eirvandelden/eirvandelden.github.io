@@ -48,9 +48,3 @@ This is the history for our D&D World "Deneki". This history will slowly be expa
 # Now
 - The North has greatly prospered through the Alliance Protectorate 
 - Humans and Thieflings are trying to join the Alliance Protectorate
-
-## NeverWinter Nights
- - The city of NeverWinter is brought down to its knees by a strange disease; the Wailing Death
- - A call went out for new Heroes to come train at the Heroes Academy, to become the new saviour of NeverWinter
- - The Heroes Academy is attacked, but five brave adventureres fought back and prevent the Heroes Academy of falling
- - The cure of the Wailing Death, three creatures send by the city of Waterdeep, have gone missing.
