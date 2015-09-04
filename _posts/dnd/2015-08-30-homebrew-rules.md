@@ -17,6 +17,7 @@ tags: [dnd, 5e, NeverWinter Nights]
 # Allowed resources
 
 These are the books and resources you may use to create your character. If you are missing something on this list, let me know!
+
 - [Basic Rules for D&D](http://dnd.wizards.com/products/tabletop-games/trpg-resources)
 - Player's Handbook
 - [Elemental Evil Player's Companion](http://www.dndclassics.com/product/145542/Elemental-Evil-Players-Companion-5e)
