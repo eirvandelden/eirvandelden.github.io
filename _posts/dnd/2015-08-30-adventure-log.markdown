@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adventure Log"
-modified: 2015-08-30
+modified: 2015-09-04
 categories: dnd
 description: "What happened previously in our D&D session"
 tags: []
@@ -14,7 +14,8 @@ share:
 date: 2015-08-30T11:13:51+02:00
 ---
 
-[Last update]
+**Last update**
+
 - Expanded sesion 0
 
 What happened previously in our D&D session

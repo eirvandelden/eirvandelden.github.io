@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The World of Deneki"
-modified: 2015-07-31
+modified: 2015-09-04
 categories: dnd
 description: "If you're in my D&D Group, this is where you go to, to learn about the world we play in."
 image:
@@ -9,7 +9,8 @@ image:
 tags: [dnd, 5e, NeverWinter Nights]
 ---
 
-**Last Update**
+**Last update**
+
 - Made clear this is the start post
 - Moved links to rules and adventure log up
 - Added maps of the area around Neverwinter and Neverwinter itself

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The History of Deneki"
-modified: 2015-07-31
+modified: 2015-09-04
 categories: dnd
 description: "The History for the world we play in for D&D."
 tags: [dnd, 5e, NeverWinter Nights]

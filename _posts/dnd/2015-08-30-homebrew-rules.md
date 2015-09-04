@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Homebrew and Optional rules"
-modified: 2015-08-30
+modified: 2015-09-04
 categories: dnd
 description: "If you're in my D&D Group; these are the homebrew and optional rules we play with."
 image:
@@ -9,7 +9,8 @@ image:
 tags: [dnd, 5e, NeverWinter Nights]
 ---
 
-[Last update]
+**Last update**
+
 - Added the type of game we are going to play (at the end of this post)
 - Added what sources are allowed
 
