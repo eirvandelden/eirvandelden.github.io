@@ -116,6 +116,7 @@ Enemies are super effective agains each other. Allies are not very effective aga
 # The type of game
 
 During the second session we, as a group, answered some questions, to determine what kind of game we want to play. Here are the results:
+
 - *Do you play to win?* b) Good play isn’t a win/lose kind of thing. We want to play our characters!
 - *Player characters are:* b)/c) expected to work together; but major conflicts might erupt. We'd might patch them up, they might stay.
 - *The GM’s role is:* b) The GM preps a map with NPCs and/or monsters. The players have their characters travel anywhere they can reach on the map, according to their own goals.
