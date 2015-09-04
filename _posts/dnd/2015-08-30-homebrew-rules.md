@@ -9,9 +9,23 @@ image:
 tags: [dnd, 5e, NeverWinter Nights]
 ---
 
-If you're in my D&D Group; these are the homebrew and optional rules we play with.
+[Last update]
+- Added the type of game we are going to play (at the end of this post)
+- Added what sources are allowed
+
+# Allowed resources
+
+These are the books and resources you may use to create your character. If you are missing something on this list, let me know!
+- [Basic Rules for D&D](http://dnd.wizards.com/products/tabletop-games/trpg-resources)
+- Player's Handbook
+- [Elemental Evil Player's Companion](http://www.dndclassics.com/product/145542/Elemental-Evil-Players-Companion-5e)
+- Unearthed Arcana articles:
+	- [Eberron](http://dnd.wizards.com/articles/features/unearthed-arcana-eberron) *Note: Only the Warforged and Artificer are allowed*
+	- [Awakaned Mystic](http://dnd.wizards.com/articles/features/awakened-mystic) *Note: this is a Psionic Class*
+- [Druid Circle: Circle of Being](https://www.reddit.com/r/DnD/comments/3av9ij/retweaked_and_rebranded_5e_druid_homebrew_circle/)
 
 # Optional rules
+
 During the campaign we use the following optional and homebrew rules:
 
 - Feats **PHB 165**
@@ -96,3 +110,18 @@ Enemies are super effective agains each other. Allies are not very effective aga
 <br />For example; if you have 3 Green token and 1 Red, you may only use you Green tokens. If you have 2 Black tokens, 2 White tokens and 1 Blue token, you may use either a Black or a White token.
 - If, at the start of the session, you have no tokens, you gain 1 Coloured Token of your choice. This should reflect your PC’s personality
 - If you end end a session with more than 0 tokens, you keep those tokens for the next session.
+
+# The type of game
+
+During the second session we, as a group, answered some questions, to determine what kind of game we want to play. Here are the results:
+- *Do you play to win?* b) Good play isn’t a win/lose kind of thing. We want to play our characters!
+- *Player characters are:* b)/c) expected to work together; but major conflicts might erupt. We'd might patch them up, they might stay.
+- *The GM’s role is:* b) The GM preps a map with NPCs and/or monsters. The players have their characters travel anywhere they can reach on the map, according to their own goals.
+- *The players’ roles are…* b)/c) …to set goals for their characters, and pursue them proactively. They might get in tough, unwise siutations
+- *Doing the smartest thing for your character’s survival…* b) …sometimes isn’t as important as other choices
+- *The GM’s role to the rules is…* b) …ignore them when they conflict with what would be good for the story
+- *After many sessions of play, during one session, a player decides to have her character side with an enemy. This is…* c) …something the player and the GM should discuss
+- *A fistfight breaks out in a bar! The details of where everything is – tables, chairs, where everyone is standing is something that…* a) …is important and will be displayed on a map or grid, perhaps using miniature figures. But anyone can come up with a detail, if it makes sense or is cool.
+- *In order to really have fun with this game, the rulebook is something that…* d) …everyone at least should know the basics of the rules.
+
+**Credits** *These questions are from the Same Page Tool*
