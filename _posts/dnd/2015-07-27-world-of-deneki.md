@@ -9,8 +9,23 @@ image:
 tags: [dnd, 5e, NeverWinter Nights]
 ---
 
+**Last Update**
+- Made clear this is the start post
+- Moved links to rules and adventure log up
+- Added maps of the area around Neverwinter and Neverwinter itself
+
+# Our current campaign
+
+If you are one of the players in my current D&D group, this is the page for you. It contains links to everything you need. The rules, the options, the adventure log and the setting.
+
+# [Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
+See [Homebrew Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
+
+# Adventure log
+See [Adventure log]({% post_url /dnd/2015-08-30-adventure-log %})
+
 # Introduction
-The world of Deneki is a "Medieval Steampunk" kind of world. Technology is a bit further than most D&D worlds, which are Lord of the Rings esque. 
+The world of Deneki is a "Medieval Steampunk" kind of world. Technology is a bit further than most D&D worlds (which are Lord of the Rings-esque). 
 The inhabitants of Deneki are experimenting with new machineries, powered by steam or magical stones.
 They have inventions like guns (which quickly replaced bows), and lamps. And plumbing, because who can live without toilets?
 
@@ -19,14 +34,11 @@ The world of Deneki is a new world, but will contain familiar elements from diff
 The Map of Deneki is equal to the D&D 4th Edition map of Faerun:
 {% capture images %}
 	/images/faerun.png
+	/images/Map_NeverwinterArea.jpg
+	/images/Map_Neverwinter.jpg
 {% endcapture %}
-{% include gallery.html images=images caption="" cols=3 %}
+{% include gallery.html images=images caption="Maps of the world, the Neverwinter Area and Neverwinter itself" cols=3 %}
 
-# Adventure log
-See [Adventure log]({% post_url /dnd/2015-08-30-adventure-log %})
-
-# [Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
-See [Homebrew Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
 
 # [History]({% post_url /dnd/2015-07-27-history-of-deneki %})
 See [The History of Deneki]({% post_url /dnd/2015-07-27-history-of-deneki %})
