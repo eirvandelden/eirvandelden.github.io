@@ -38,3 +38,16 @@ Previously, on NeverWinter Nights.
  - The man in dark leather and white eyes was heading towards one of the stables, but was stopped by the PC's. The man is revealed to be a young White Dragon
  - While the group defeated a dragon, the Waterdhavian creatures have escaped 
  
+ # Session 1: Trouble at the Jails
+
+[Intro movie](https://youtu.be/N8TUJELMwIo?list=PL5U1SRexN7RUzwjvhTESUq0Q-yH4O8QF2)
+
+- The adventurers have taken a week off, on advice of Lady Aribeth, to get some rest after their first great battle.
+- In the last week some strange things have been happening in Neverwinter.
+    - In the Scar District, prisoners roam free. The warden has released the prisoners and now the streets are no longer safe.
+    - In Black Lake District, there is a great food shortage. 
+    - The Docks are no longer safe. There is fighting on the streets between thief guilds.
+    - Rha, the goblin, has been asking about the PC's, as they told him they would help him with freeing the women and children of his clan. He is actively being ignored.
+- After a short talk with Lady Aribeth, they PC's decide to investigate the Scar District. Arriving at the Scar, they help a guard captain
+- One of the inmates is captured. Interrogation reveals that a bandit leader in the sewers has a key to allow inmates into the prison. The Warden is in control of the prison, but he released the inmates. The inmates now follow him.
+- The captured inmates leads the adventurers to the entrance of the sewer hideout. The inmate is killed and used as a distraction.
