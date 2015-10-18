@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adventure Log"
-modified: 2015-09-04
+modified: 2015-10-18
 categories: dnd
 description: "What happened previously in our D&D session"
 tags: []
@@ -14,9 +14,22 @@ share:
 date: 2015-08-30T11:13:51+02:00
 ---
 
-**Last updated 19-08-2015**
+**Last updated 19-10-2015**
 
 Previously, on NeverWinter Nights.
+
+# Session 3: Defeat the Intellect Devourer
+
+- Fairuza, Zaldar and Kraz (who was in the prison for destroying a dragon statue, which he thought was a real dragon) have defeated the Intellect Devourer. The Devourer had taken over the Warden, who was left catatonic, and resisted capture.
+- Fairuza started an investigation to the Wailing Death. Tissue samples of diseased people didn’t respond to any regular treatments, leading her to think the disease is magical in nature.
+- Entering Blacklake district, the adventurers heard a cry of help from a woman, she was being attacked by a thug.
+- Another thug tried to surprise Fairuza, but failed. A battle ensued and the woman was revealed to be the leader of the two thugs, as it was an ambush.
+- After defeating these would be assassins, it was revealed they carried descriptions of the party members, along with a short description of their specialties.
+- An investigation to the Blacklake district was started. Fairuza covered the swaps, where it was found that it is now filled with dumped Wailing Death victims.
+- The food shortage is due to a rich merchant called Meldanen.
+- Sherry, a girl across from Meldanen, revealed he never enters or leaves through his front-door. She finds Meldanen creepy and doesn’t trust her neighbor.
+- Sherry saw Meldanen’s butler leave with his suitcases, she thinks he was fired at the start of this week.
+- Jenkin’s house is a smaller home. He has boarded up his ground floor windows.
 
 # Session 2: Move until you drop!
 - Quinthya, Fairuza, Moras and Crow took care of Bandit Captain down in the sewers. Interrogation didn't reveal anything new.
