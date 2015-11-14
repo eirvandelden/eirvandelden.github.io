@@ -11,7 +11,7 @@ This is the history for our D&D World "Deneki". This history will slowly be expa
 
 # Creation wars
 * Not much is known about these wars. This is when humanity arose.
-* The First Mortal races (Gnolls, Elves, Halflings) arise
+* The First Mortal races ([Gnolls](({% post_url /dnd/2015-11-14-gnolls %})), Elves, Halflings) arise
 
 # Elven Wars
 
@@ -23,7 +23,7 @@ This is the history for our D&D World "Deneki". This history will slowly be expa
 
 # Second Divine Wars
 
-- Rebellion breaks out against heaven. Hell finds a new way to return to Denki and appears to be a saviour of the oppressed people of Denki. Druidism and Necromancy arise, both want to keep the Balance between Good and Evil, Life and Death. Both Heaven and Hell are expelled.
+- Rebellion breaks out against heaven. Hell finds a new way to return to Deneki and appears to be a saviour of the oppressed people of Deneki. Druidism and Necromancy arise, both want to keep the Balance between Good and Evil, Life and Death. Both Heaven and Hell are expelled.
 - The Second Mortal races arise during this period: Dwarves, Gnomes, Kobolds
 
 # Gnome Banishment
@@ -32,7 +32,7 @@ This is the history for our D&D World "Deneki". This history will slowly be expa
 - The Warforged won the war and exiled the Gnomes from their homeland, claiming it as their own. The Gnomes now wonder the world in search of a new home, or a new army.
 
 # Creation of the Alliance Protectorate
-- Elves, Gnolls and Halflings join forces to defend the North from many threats.
+- Elves, [Gnolls](({% post_url /dnd/2015-11-14-gnolls %})) and Halflings join forces to defend the North from many threats.
 
 # Now
 - The North has greatly prospered through the Alliance Protectorate. Humans and Thieflings are trying to join the Alliance Protectorate.

@@ -26,7 +26,7 @@ See [Homebrew Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
 See [Adventure log]({% post_url /dnd/2015-08-30-adventure-log %})
 
 # Introduction
-The world of Deneki is a "Medieval Steampunk" kind of world. Technology is a bit further than most D&D worlds (which are Lord of the Rings-esque). 
+The world of Deneki is a "Medieval Steampunk" kind of world. Technology is a bit further than most D&D worlds (which are Lord of the Rings-esque).
 The inhabitants of Deneki are experimenting with new machineries, powered by steam or magical stones.
 They have inventions like guns (which quickly replaced bows), and lamps. And plumbing, because who can live without toilets?
 
@@ -49,19 +49,16 @@ See [The History of Deneki]({% post_url /dnd/2015-07-27-history-of-deneki %})
 Emphasized races are playable races
 
 - *Humans*
-- *Gnolls* (Ask DM for stats) 
-- Elves 
-  - *Drow* (Caution, viewed as evil)
+- [*Gnolls*]({% post_url /dnd/2015-11-14-gnolls %}) (Ask DM for stats)
+- Elves
+  - *Drow* (Caution Drow are mostly Evil)
   - *High Elves*
   - *Wood Elves*
-- *Halflings* 
+- *Halflings*
 - *Dwarves*
 - *Gnomes*
-- *Warforged* 
+- *Warforged*
 - *Thieflings*
 - *Aasimar*
-
-##Otherworldly races
-- *Loxodon/Rhox* (Elephantin/Rhino, they replace Orcs)
 - *Kobolds*
 - Goblins
