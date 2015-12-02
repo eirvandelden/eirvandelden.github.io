@@ -14,9 +14,38 @@ share:
 date: 2015-08-30T11:13:51+02:00
 ---
 
-**Last updated 19-10-2015**
+**Last updated 15-11-2015**
 
 Previously, on NeverWinter Nights.
+
+# Session 4:
+
+- Quinthya, Zaldar and Fairuza visited Jenkins, the former butler of Meldanen
+- In return for the garantuee to be transported somewhere safe, Jenkins offered the key to the backdoor of Meldanen's home, along with the hint to "look around the basement". Fairuza sent Jenkins with Cyar Tanash, a yuan-ti and sent him through an Arcane Gate to a safeplace.
+- Outside the house of Meldanen was Sherry, who lost Mr.Snickles, her Eyeball familiar. After a quick search, Mr. Snickles was found again.
+- Inside the house of Meldanen two Gnoll guards were dispatched
+- In the basement were a range of strange creatures, captured.
+- Meldanen was defeated, the Dryad was completely distraught by his death
+- Actions taken:
+    - City Guard: Release all the prisoners and prisoned creatures, include medical attention
+    - City Guard: Divide food between the citizens of the Blacklake district Downtime activity
+    - City Guard:
+        1 Sue Meldanen, using the found administration as evidence
+        2 Sue Everyone in the Meldanen admisitration on charges of slave trade
+    - The Dryad returned to her Groove, but promised to keep in touch with Fairuza
+    - A message was sent back to Cyar Tanahash to return Jenkins, to sue him as an accomplice
+- Starting with finding the Yuan-Ti in the docks,
+- 2 quests: Neverwinter Theater; Neverwinter Bridge
+
+Leuk:
+- Dryad met Stockholm syndroom
+- Mini games tussendoor; Skill Challenges ++; Puzzel & Traproom; Investigate
+- Tempo, weinig momenten niks aan het doen
+- Tussendoor doelen behalen, iedere sessie doel
+
+Beter:
+- Meer combat variatie, psychologie van monsters minder damage (fixed damage)
+- Meer combat situation variation
 
 # Session 3: Defeat the Intellect Devourer
 
