@@ -20,30 +20,33 @@ Previously, on NeverWinter Nights.
 
 # Session 4:
 
-- Quinthya, Zaldar and Fairuza visited Jenkins, the former butler of Meldanen
+- Quinthya, Zaldar and Fairuza visited Jenkins, the former butler of Meldanen.
 - In return for the garantuee to be transported somewhere safe, Jenkins offered the key to the backdoor of Meldanen's home, along with the hint to "look around the basement". Fairuza sent Jenkins with Cyar Tanash, a yuan-ti and sent him through an Arcane Gate to a safeplace.
-- Outside the house of Meldanen was Sherry, who lost Mr.Snickles, her Eyeball familiar. After a quick search, Mr. Snickles was found again.
-- Inside the house of Meldanen two Gnoll guards were dispatched
-- In the basement were a range of strange creatures, captured.
-- Meldanen was defeated, the Dryad was completely distraught by his death
-- Actions taken:
-    - City Guard: Release all the prisoners and prisoned creatures, include medical attention
-    - City Guard: Divide food between the citizens of the Blacklake district Downtime activity
-    - City Guard:
-        1 Sue Meldanen, using the found administration as evidence
-        2 Sue Everyone in the Meldanen admisitration on charges of slave trade
+- Outside the house of Meldanen was Sherry, who lost Mr.Snickles, her Eyeball familiar. After a quick search, Mr. Snickles was found.
+- Inside the house of Meldanen, two Gnoll guards were dispatched
+- In the basement were a range of strange creatures, captured and kept in cells by Meldanen.
+- Meldanen was defeated, the Dryad was completely distraught by his death (probabily due to Stockholm Syndrom)
+- Actions taken after deafeating Meldanen:
+    - The City Guard have released all the prisoners and prisoned creatures and gave  medical attention to those who needed it
+    - The City Guard are dividing all the food found in Meldanen's basement. Food has been distributed to the citizens of the Blacklake district.
+    - Meldanen is post-homously sued, using the administration found in his basement as evidence
+    - Everyone mentioned in the Meldanen Admisitration is sued on charges of slave trade
     - The Dryad returned to her Groove, but promised to keep in touch with Fairuza
-    - A message was sent back to Cyar Tanahash to return Jenkins, to sue him as an accomplice
-- Starting with finding the Yuan-Ti in the docks,
-- 2 quests: Neverwinter Theater; Neverwinter Bridge
+    - A message was sent back to Cyar Tanahash to return Jenkins, to sue him as an accomplice of Meldanen
+- Starting with finding the Yuan-Ti in the docks, the PCs are surprised to see Sherry, who has lost her Eyeball familiar Mr. Snickles, again.
+- While talking with Sherry, a body fell from roof.
+- The killer tried to escape, but was captured by the PCs. He is a member of the Fire Knives and could explain that their opposition, the Blood Sailors, have opened an all out war on them. Unless the Fire Knives pay-up 100,000 GP at the end of this week, the Blood Sailors will hunt them down and kill them to the man.
+- The captured Fire Knive has revealed two quests:
+    1 Neverwinter Theater; prevent the guests from the Neverwinter Theater to be robbed
+    1 Neverwinter Bridge; there is a bomb underneath of one of the three bridges of Neverwinter
 
-Leuk:
+What was fun:
 - Dryad met Stockholm syndroom
 - Mini games tussendoor; Skill Challenges ++; Puzzel & Traproom; Investigate
 - Tempo, weinig momenten niks aan het doen
 - Tussendoor doelen behalen, iedere sessie doel
 
-Beter:
+What could go better:
 - Meer combat variatie, psychologie van monsters minder damage (fixed damage)
 - Meer combat situation variation
 
