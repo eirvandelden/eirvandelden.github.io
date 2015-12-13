@@ -16,7 +16,8 @@ date: 2015-08-30T11:13:51+02:00
 
 **Last updated 13-12-2015**
 
-Previously, on NeverWinter Nights.
+Previously, on NeverWinter Nights…
+
 # Session 5: Next up in theaters: "The Girl and her Eyeball Familiar"
 
 - The party of three, Quinthya, Fairuza and Himo Starflower, set their eyes upon the Neverwinter Theater and the coming robbery there.
@@ -29,18 +30,18 @@ Previously, on NeverWinter Nights.
 - On that square was a strange Sherry/Mr. Snickles amalgamation; the body of Sherry, but with short swords grafted to here lower arms and Mr. Snickles grafted on as a head. The Sherry/Mr. Snickles monster was attacking and killing people, while trying to "search for Mr. Snickles".
 - With great effort, both physically and mentally, the PCs defeated the Sherry/Mr. Snickles amalgamation. Investigation showed that swords and Mr. Snickles were grafted to Sherry on points were she was also affected by the Wailing Death. Aside from a Potion of Healing, she also carried a sack of dried prumes.
 
-## What was good during this session
+### What was good during this session
 
 - The Neverwinter Theater was fun and a welcome break from combat. All three players concurred
 
-## What could have gone better
+### What could have gone better
 
 - Quinthiya: gain more experience with roleplaying. Things like what can I do? And what not?
 - Himo: no experience with gridlike battle
 - Fairuza: sad to not have much to do during the Neverwinter Theater
 - Fairuza: (still) in favor of enemies with more health and lower damage
 
-## What the players are most curious about
+### What the players are most curious about
 
 - What is going to happen at the Neverwinter Bridges?
 - Whether Lady Aribeth is evil? She is suspect by Quinthiya
