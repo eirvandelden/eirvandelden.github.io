@@ -14,11 +14,39 @@ share:
 date: 2015-08-30T11:13:51+02:00
 ---
 
-**Last updated 15-11-2015**
+**Last updated 13-12-2015**
 
 Previously, on NeverWinter Nights.
+# Session 5: Next up in theaters: "The Girl and her Eyeball Familiar"
 
-# Session 4:
+- The party of three, Quinthya, Fairuza and Himo Starflower, set their eyes upon the Neverwinter Theater and the coming robbery there.
+- Quinthiya put dressed up as a theater worker and accessed the Neverwinter theater via the workers entrance. Through here she gained access to the access bridges and pully systems above the stage
+- Fairuza talked with the head security of the Neverwinter Theater, but was unable to convince him that something was afoot.
+- Himo took stock of all the exits: one larger entrance at the front for guests, one smaller employees entrance, one actors entrance
+- There were several stewards and guests that were acting suspicious. With some keen perception, investigation and stealthy encounters the Fire Knives were all identified, bound and delivered to the head of security.
+- All stolen wares were returned to their rightful owners, while the head of security proclaimed this was due to him and his team
+- While walking back to the Moonstone Mask, the PCs heard people screaming and fleeing a nearby square.
+- On that square was a strange Sherry/Mr. Snickles amalgamation; the body of Sherry, but with short swords grafted to here lower arms and Mr. Snickles grafted on as a head. The Sherry/Mr. Snickles monster was attacking and killing people, while trying to "search for Mr. Snickles".
+- With great effort, both physically and mentally, the PCs defeated the Sherry/Mr. Snickles amalgamation. Investigation showed that swords and Mr. Snickles were grafted to Sherry on points were she was also affected by the Wailing Death. Aside from a Potion of Healing, she also carried a sack of dried prumes.
+
+## What was good during this session
+
+- The Neverwinter Theater was fun and a welcome break from combat. All three players concurred
+
+## What could have gone better
+
+- Quinthiya: gain more experience with roleplaying. Things like what can I do? And what not?
+- Himo: no experience with gridlike battle
+- Fairuza: sad to not have much to do during the Neverwinter Theater
+- Fairuza: (still) in favor of enemies with more health and lower damage
+
+## What the players are most curious about
+
+- What is going to happen at the Neverwinter Bridges?
+- Whether Lady Aribeth is evil? She is suspect by Quinthiya
+- What is the deal with the grafting and Sherry. Will there be a monster with a Sherry head?
+
+# Session 4: Black Lake District
 
 - Quinthya, Zaldar and Fairuza visited Jenkins, the former butler of Meldanen.
 - In return for the garantuee to be transported somewhere safe, Jenkins offered the key to the backdoor of Meldanen's home, along with the hint to "look around the basement". Fairuza sent Jenkins with Cyar Tanash, a yuan-ti and sent him through an Arcane Gate to a safeplace.
