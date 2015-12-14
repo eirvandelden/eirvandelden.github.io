@@ -5,7 +5,7 @@ modified: 2015-09-04
 categories: dnd
 description: "Locations in my D&D World Deneki"
 image:
-  feature: fearun.png
+  feature: faerun.png
 tags: [dnd, 5e, NeverWinter Nights]
 ---
 
