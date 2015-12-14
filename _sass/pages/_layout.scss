@@ -27,9 +27,11 @@
     width: 100px;
     height: 100px;
     float: none;
-    @include media-query($medium-screen) {
-      display: none;
-    }
+    border: {
+      color: white;
+      width: 3px;
+      style: solid;
+    };
   }
   .author_name {
     display: block;
