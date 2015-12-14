@@ -3,7 +3,7 @@ layout: post
 title: "Adventure Log"
 modified: 2015-10-18
 categories: dnd
-description: "What happened previously in our D&D session"
+excerpt: "What happened previously in our D&D session? Find out here…"
 tags: []
 image:
   feature: neverwinter.jpg

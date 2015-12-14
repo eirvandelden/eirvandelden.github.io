@@ -3,7 +3,7 @@ layout: post
 title: "The World of Deneki"
 modified: 2015-09-04
 categories: dnd
-description: "If you're in my D&D Group, this is where you go to, to learn about the world we play in."
+excerpt: "If you're in my D&D Group, this is where you go to, to learn about the world we play in."
 image:
   feature: deneki.jpg
 tags: [dnd, 5e, NeverWinter Nights]
