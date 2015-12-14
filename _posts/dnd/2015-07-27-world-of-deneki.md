@@ -34,9 +34,9 @@ The world of Deneki is a new world, but will contain familiar elements from diff
 
 The Map of Deneki is equal to the D&D 4th Edition map of Faerun:
 {% capture images %}
-	/images/faerun.png
-	/images/Map_NeverwinterArea.jpg
-	/images/Map_Neverwinter.jpg
+	/img/faerun.png
+	/img/Map_NeverwinterArea.jpg
+	/img/Map_Neverwinter.jpg
 {% endcapture %}
 {% include gallery.html images=images caption="Maps of the world, the Neverwinter Area and Neverwinter itself" cols=3 %}
 

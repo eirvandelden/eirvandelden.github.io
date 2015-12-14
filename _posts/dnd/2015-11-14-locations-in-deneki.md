@@ -15,9 +15,9 @@ We know how the geography looks like, and we have hundreds of names of towns and
 Together, the players and I, we will explore this new world and find out what everything is.
 
 {% capture images %}
-  /images/faerun.png
-  /images/Map_NeverwinterArea.jpg
-  /images/Map_Neverwinter.jpg
+  /img/faerun.png
+  /img/Map_NeverwinterArea.jpg
+  /img/Map_Neverwinter.jpg
 {% endcapture %}
 {% include gallery.html images=images caption="Maps of the world, the Neverwinter Area and Neverwinter itself" cols=3 %}
 
