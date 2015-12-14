@@ -5,7 +5,7 @@
 #
 title: eirvandelden.com
 email: eirvandelden.com
-description: My random ramblings about programming, Dungeons & Dragons and life.
+description: My random ramblings about developing, Dungeons & Dragons and life.
 # the base hostname & protocol for your site
 # If your project is placed in https://github.com/yourname/yourname.github.io at master branch
 # Then, the 'url' is: http://yourname.github.io
@@ -37,8 +37,8 @@ kramdown:
 owner:
   name: Etienne van Delden
   avatar: etienne.png
-  job: "Developer & Consultant"
-  bio: "Developer. Dungeon Master. Dancer. Geeky"
+  job: "Developer. Dungeon Master."
+  bio: "All my ramblings I care to share with the world."
   email: eirvandelden@me.com
   disqus-shortname: eirvandelden
   twitter: eirvandelden
