@@ -39,6 +39,7 @@ layout: two-col
       </p>
     </div>
 
+    {% comment %}
     {% if post.image.feature %}
     <div class="post-feature-image">
       <img src=
@@ -54,6 +55,7 @@ layout: two-col
       {% endif %}
     </div><!-- /.image-wrap -->
     {% endif %}
+    {% endcomment %}
 
 </section>
 {% endfor %}
