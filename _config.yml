@@ -1,65 +1,68 @@
-title:            eirvandelden.com
-description:      The random ramblings of a Programmer/Dungeon Master
-disqus_shortname: eirvandelden
-reading_time:     true
-words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url: http://eirvandelden.com
-# url: http://localhost:4000
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: eirvandelden.com
+email: eirvandelden.com
+description: My random ramblings about programming, Dungeons & Dragons and life.
+# the base hostname & protocol for your site
+# If your project is placed in https://github.com/yourname/yourname.github.io at master branch
+# Then, the 'url' is: http://yourname.github.io
+# If your project is placed in another repository as a gh-pages branch, like: https://github.com/yourname/projectname
+# Then, the 'url' is: http://yourname.github.io/projectname
+url:
 
-# Owner/author information
-owner:
-  name:           Etienne van Delden
-  avatar:         etienne.png
-  bio:            "Programmer. Dungeon Master. Social Nerd"
-  email:          eirvandelden@me.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        eirvandelden
-  facebook:       eirvandelden
-  github:         eirvandelden
-  stackexchange:  eirvandelden
-  linkedin:       eirvandelden
-
-# Background image to be tiled on all pages
-background: 
-
-# Analytics and webmaster tools stuff goes here
-#google_analytics:   
-#google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-#bing_verify:         
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Amsterdam
-future:      true
-highlighter: pygments
+#
+###################################
+# Jekyll configuration
+####################################
+#
 markdown:    kramdown
-gems:
-  - jekyll-sitemap
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
-
-# Amount of post to show on home page
-paginate: 5
+highlighter:  pygments
+excerpt_separator: <!--more-->
 
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderay: false
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Etienne van Delden
+  avatar: etienne.png
+  job: "Developer & Consultant"
+  bio: "Developer. Dungeon Master. Dancer. Geeky"
+  email: eirvandelden@me.com
+  disqus-shortname: eirvandelden
+  twitter: eirvandelden
+  facebook: eirvandelden
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: eirvandelden
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
