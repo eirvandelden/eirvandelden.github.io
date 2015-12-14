@@ -2,13 +2,10 @@
 layout: post
 title: "GMail Tricks"
 modified:
-categories: programming
+categories: developing
 excerpt:
 tags: []
-image:
-  teaser: gmail.png
-  thumb: gmail.png
-date: 2015-03-11T12:35:40+01:00
+date: 2012-09-02
 ---
 
 Though I myself do not use gmail for privacy reasons (it scares me they scan all my mails to show me targeted ads), I do acknowledge that Google has implemented some really useful properties. I wish mail servers and  other mail suppliers would implement the same trick. It all boils down to one realisation: that email address of yours? You weren’t given just one, you have an almost infinite amount of email addresses!

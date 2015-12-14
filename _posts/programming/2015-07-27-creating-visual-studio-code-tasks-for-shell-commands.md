@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Creating Visual Studio Code Tasks for Shell Commands"
-modified:
-categories: programming
-excerpt: 
+categories: developing
+excerpt:
   "I’ve been using [Visual Studio Code](https://code.visualstudio.com) ever since it has been released and it quickly became my new favourite code editor.
 One of it’s cool features is that I can create tasks, like a test or build task, that you can start with a keyboard shortcut. Read on to learn how"
-tags: []
+tags: ['Code']
 image:
   feature: vscode.png
-date: 2015-07-27T12:35:40+01:00
+date: 2015-07-27
 ---
 
 I’ve been using [Visual Studio Code](https://code.visualstudio.com) ever since it has been released and it quickly became my new favourite code editor.

@@ -1,21 +1,16 @@
 ---
 layout: post
 title: "Installing Gitolite on an OS X Server"
-modified:
-categories: programming
-excerpt:
-tags: []
-image:
-  teaser: terminal.png
-  thumb: terminal.png
-date: 2015-03-11T12:28:35+01:00
+categories: developing
+tags: ['git']
+date: 2012-08-08
 ---
 Despite having very simple installation instruction, I’ve been fighting with installing Gitolite every single time I’ve tried. Here I present a short summary in the steps needed to install Gitolite on Mac OS X, an amalgamation of the sources linked below.
 
 Gitolite requires a (local) account on the server, with SSH access. Using a network account (created through Server.app) is certainly possible, the easiest way is to simply create a local account (with password!) and give it ssh access. Administrator privileges not advised.
 
 - Make a local user called ‘git’
-- Go to Sharing > Remote login and add the git user  
+- Go to Sharing > Remote login and add the git user
 - Create an SSH key on the machine that will be used to administer gitolite (workstation) and copy that key to the server
 -    ssh git@server: mkdir ~/.ssh/
 -    scp key.pub git@server: ~/.ssh/authorized_keys

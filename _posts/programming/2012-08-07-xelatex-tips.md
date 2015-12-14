@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "XeLaTeX Tips"
-modified:
-categories: programming
-excerpt:
-tags: [latex, tips]
-image:
-  teaser: tex.png
-  thumb: tex.png
-date: 2015-03-11T12:20:45+01:00
+categories: developing
+excerpt: Some tips & tricks for working with (Xe)LaTeX
+tags: [latex]
+date: 2012-08-07
 ---
 
 Here are a collection tricks and options for working with (Xe)LaTeX.
