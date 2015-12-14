@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: "Stay Hungry. Stay Foolish."
 modified:
 categories: inspiration
 description:
