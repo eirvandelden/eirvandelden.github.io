@@ -1,4 +1,18 @@
 /* LAYOUT CSS */
+.overlay{
+  display: none;
+  @include media-query($medium-screen){
+    display: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 25%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 10;
+  }
+}
+
 .cover {
   background-color: #454260;
   position: fixed;
@@ -22,6 +36,13 @@
 }
 .cover-card {
   color: $white;
+  @include media-query($medium-screen){
+    position: fixed;
+    width: 25%;
+    left: 0;
+    top: 50%;
+    z-index: 20;
+  }
   .avatar {
     border-radius: 50%;
     width: 100px;
