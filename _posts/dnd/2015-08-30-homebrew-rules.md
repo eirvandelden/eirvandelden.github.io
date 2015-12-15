@@ -6,7 +6,7 @@ categories: dungeons-and-dragons
 excerpt: "If you're in my D&D Group; these are the homebrew and optional rules we play with."
 image:
   feature: deneki.jpg
-tags: [5e, NeverWinter Nights]
+tags: [5e, Campaign-NeverWinter Nights]
 comments: true
 ---
 

@@ -6,7 +6,7 @@ categories: dungeons-and-dragons
 excerpt: "Locations in my D&D World Deneki"
 image:
   feature: faerun.png
-tags: [5e, NeverWinter Nights]
+tags: [5e, Campaign-NeverWinter Nights, Deneki]
 comments: true
 ---
 

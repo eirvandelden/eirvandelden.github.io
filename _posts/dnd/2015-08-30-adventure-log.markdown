@@ -4,7 +4,7 @@ title: "Adventure Log"
 modified: 2015-10-18
 categories: dungeons-and-dragons
 excerpt: "What happened previously in our D&D session? Find out here…"
-tags: [5e, Neverwinter Nights]
+tags: [5e, Campaign-NeverWinter Nights]
 image:
   feature: neverwinter.jpg
 comments: true

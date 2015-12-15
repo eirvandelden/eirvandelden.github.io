@@ -4,7 +4,7 @@ title: "The History of Deneki"
 modified: 2015-11-14
 categories: dungeons-and-dragons
 excerpt: "The History for the world we play in for D&D."
-tags: [5e, NeverWinter Nights]
+tags: [5e, Campaign-NeverWinter Nights, Deneki]
 comments: true
 ---
 
