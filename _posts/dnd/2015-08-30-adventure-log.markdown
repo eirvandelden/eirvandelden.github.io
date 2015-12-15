@@ -2,15 +2,12 @@
 layout: post
 title: "Adventure Log"
 modified: 2015-10-18
-categories: dnd
+categories: dungeons-and-dragons
 excerpt: "What happened previously in our D&D session? Find out here…"
-tags: []
+tags: [5e, Neverwinter Nights]
 image:
   feature: neverwinter.jpg
-  credit:
-  creditlink:
-comments:
-share:
+comments: true
 date: 2015-08-30T11:13:51+02:00
 ---
 

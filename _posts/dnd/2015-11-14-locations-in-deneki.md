@@ -2,11 +2,12 @@
 layout: post
 title: "Locations in Deneki"
 modified: 2015-09-04
-categories: dnd
+categories: dungeons-and-dragons
 excerpt: "Locations in my D&D World Deneki"
 image:
   feature: faerun.png
-tags: [dnd, 5e, NeverWinter Nights]
+tags: [5e, NeverWinter Nights]
+comments: true
 ---
 
 The world of Deneki is a new world, but uses the D&D 4th Edition map of Faerun.
