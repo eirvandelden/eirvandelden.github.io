@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "Science and Wisdom"
-modified:
-categories: inspiration
-description:
-tags: []
+categories: personal
 image:
   feature: buddha.png
 date: 2015-03-11T14:45:47+01:00

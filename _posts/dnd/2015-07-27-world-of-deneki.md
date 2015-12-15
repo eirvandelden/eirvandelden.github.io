@@ -2,11 +2,12 @@
 layout: post
 title: "The World of Deneki"
 modified: 2015-09-04
-categories: dnd
-description: "If you're in my D&D Group, this is where you go to, to learn about the world we play in."
+categories: dungeons-and-dragons
+excerpt: "If you're in my D&D Group, this is where you go to, to learn about the world we play in."
 image:
   feature: deneki.jpg
-tags: [dnd, 5e, NeverWinter Nights]
+tags: [5e, Campaign-NeverWinter Nights, Deneki]
+comments: true
 ---
 
 **Last update**
@@ -34,9 +35,9 @@ The world of Deneki is a new world, but will contain familiar elements from diff
 
 The Map of Deneki is equal to the D&D 4th Edition map of Faerun:
 {% capture images %}
-	/images/faerun.png
-	/images/Map_NeverwinterArea.jpg
-	/images/Map_Neverwinter.jpg
+	/img/faerun.png
+	/img/Map_NeverwinterArea.jpg
+	/img/Map_Neverwinter.jpg
 {% endcapture %}
 {% include gallery.html images=images caption="Maps of the world, the Neverwinter Area and Neverwinter itself" cols=3 %}
 

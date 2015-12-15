@@ -2,15 +2,12 @@
 layout: post
 title: "Adventure Log"
 modified: 2015-10-18
-categories: dnd
-description: "What happened previously in our D&D session"
-tags: []
+categories: dungeons-and-dragons
+excerpt: "What happened previously in our D&D session? Find out here…"
+tags: [5e, Campaign-NeverWinter Nights]
 image:
   feature: neverwinter.jpg
-  credit:
-  creditlink:
-comments:
-share:
+comments: true
 date: 2015-08-30T11:13:51+02:00
 ---
 
@@ -99,7 +96,7 @@ What could go better:
 - Quinthya, Fairuza, Morass and Crow each recieved 200 XP.
 - No loot was found.
 
- # Session 1: Trouble at the Jails
+# Session 1: Trouble at the Jails
 
 [Intro movie](https://youtu.be/N8TUJELMwIo?list=PL5U1SRexN7RUzwjvhTESUq0Q-yH4O8QF2)
 

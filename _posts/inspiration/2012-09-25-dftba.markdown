@@ -1,0 +1,10 @@
+---
+layout: post
+title: "DFTBA"
+categories: personal
+image:
+  feature: crashcourse.png
+date: 2012-09-25
+---
+“… and as they say in my home town: Don’t Forget to be Awesome”
+_John Green_

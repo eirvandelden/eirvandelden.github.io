@@ -2,9 +2,10 @@
 layout: post
 title: "The History of Deneki"
 modified: 2015-11-14
-categories: dnd
-description: "The History for the world we play in for D&D."
-tags: [dnd, 5e, NeverWinter Nights]
+categories: dungeons-and-dragons
+excerpt: "The History for the world we play in for D&D."
+tags: [5e, Campaign-NeverWinter Nights, Deneki]
+comments: true
 ---
 
 This is the history for our D&D World "Deneki". This history will slowly be expandend with new content, both from players and the DM.
