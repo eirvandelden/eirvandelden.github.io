@@ -1,15 +1,10 @@
 ---
 layout: post
 title: "Health Ritual"
-modified:
-categories: inspiration
-description:
-tags: []
+categories: personal
 image:
   feature: beach.png
-comments:
-share:
-date: 2015-03-11T14:49:58+01:00
+date: 2012-08-01
 ---
 My life is ruled by four liquids: water, coffee, wine and tea. All have their health benefits, but arguably tea rises slightly above the rest.
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Stay Hungry. Stay Foolish."
-modified:
-categories: inspiration
-description:
-tags: []
+categories: personal
 image:
   feature: hungry-foolish.png
-date: 2015-03-11T14:56:20+01:00
+date: 2012-09-02
 ---
 _Steve Jobs_
 

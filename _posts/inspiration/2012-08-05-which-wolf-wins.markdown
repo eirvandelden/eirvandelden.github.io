@@ -1,17 +1,10 @@
 ---
 layout: post
 title: "Which Wolf Wins?"
-modified:
-categories: inspiration
-description:
-tags: []
+categories: personal
 image:
   feature: wolf.png
-  credit:
-  creditlink:
-comments:
-share:
-date: 2015-03-11T14:53:36+01:00
+date: 2012-08-05
 ---
 An old Cherokee told his grandson:
 
@@ -25,6 +18,5 @@ The boy thought about it and asked:
 “Grandfather, which wolf wins?”
 
 The old man quietly replied:
-
 
 _“The one you feed”_

@@ -1,15 +1,10 @@
 ---
 layout: post
 title: "What you deserve"
-modified:
-categories: inspiration
-description:
-tags: []
+categories: personal
 image:
   feature: buddha.png
-comments:
-share:
-date: 2015-03-11T14:23:09+01:00
+date: 2012-07-16
 ---
 
 You yourself, as much as anybody in the entire universe, deserves your love and affection

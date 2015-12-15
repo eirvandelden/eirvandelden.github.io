@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Change Your Attitude"
-modified:
-categories: inspiration
-description:
-tags: []
+categories: personal
 image:
   feature: beach.png
-date: 2015-03-11T14:58:19+01:00
+date: 2012-09-25
 ---
 If you can’t change your fate, change your attitude
 _Amy Tan_

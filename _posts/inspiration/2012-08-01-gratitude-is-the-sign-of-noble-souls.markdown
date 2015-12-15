@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Gratitude Is the Sign of Noble Souls"
-modified:
-categories: inspiration
-description:
-tags: []
+categories: personal
 image:
   feature: buddha.png
-date: 2015-03-11T14:52:30+01:00
+date: 2012-08-01
 ---
 _Aesop_
 

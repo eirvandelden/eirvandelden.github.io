@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Ask Why"
-modified:
-categories: inspiration
-description:
-tags: []
+categories: personal
 image:
   feature: buddha.png
-date: 2015-03-11T14:48:07+01:00
+date: 2012-07-27
 ---
 Get fascinated when learning. Try to understand WHY something is. Find something fun, associate the material with something fun. Try to explain a fun subject, or use silly examples.
 
