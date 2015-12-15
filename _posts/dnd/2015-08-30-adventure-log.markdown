@@ -96,7 +96,7 @@ What could go better:
 - Quinthya, Fairuza, Morass and Crow each recieved 200 XP.
 - No loot was found.
 
- # Session 1: Trouble at the Jails
+# Session 1: Trouble at the Jails
 
 [Intro movie](https://youtu.be/N8TUJELMwIo?list=PL5U1SRexN7RUzwjvhTESUq0Q-yH4O8QF2)
 
