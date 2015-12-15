@@ -6,6 +6,8 @@ comments: false
 permalink: /developing/
 ---
 
+These are all my posts about developing
+
 {% for post in site.categories.developing %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
