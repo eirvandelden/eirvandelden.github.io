@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Session 6: A bridge too far"
+categories: dungeons-and-dragons
+tags: [5e, Campaign-NeverWinter Nights, Deneki]
+comments: true
+date: 2016-01-26
+---
+
+Party members of this session: _Little Crow, Fairuza, Quinthya, Moras_
+
+_**Date** 12th of Spring, 66016_
+
+- Only 1 threat is left: the bomb underneath one of the three Neverwinter Bridges (_the Sleeping Dragon, the Winged Wyvern, the Dolphin_)
+- The only information the party had, was that at the end of today the bomb would explode.
+- While Fairuza bought a small rowing boat, Morass went to find some used nets.
+- The first bridge that the group investigated was the _Sleeping Dragon_. The PCs found resistance from 6 Fire Knives, who were on the look out for anyone trying to disarm the bomb.
+- While battling the Fire Knives, two Blood Sailors showed up, both grafted with swords in the same way Sherry was grafted.
+- The Blood Sailors were both extremely hardy. A "killing blow" did not always stop them.
+- A captured Fire Knive revealed that there were similar teams at _the Winged Wyvern_ and _the Dolphin_.
+- Better prepared than at _the Sleeping Dragon_, the PCs quickly identified the Fire Knive Wizard at _the Winged Wyvern_. After a quick battle, _Quinthya_ found the bomb.
+- Retrieving the bomb went easily enough. It was loaded unto the rowing boat, pushed out to sea and brought to explode.
+
+_**Date** 13th of Spring, 66016_
+
+- Taking a long rest, the PCs contemplated where the Blood Sailor hideout would be. Going through the belongs on Sherry again, _Quinthya_ came up with the location of the hideout.
+- A sack of prumes, a musty smell on Blood Sailors, a walking cane grafted unto one of the Blood Sailors. It could only be the Neverwinter Home for the Elderly!
+- The Neverwinter Home for the Elderly basement yielded an acces way to an older building that was built, long before the Home for the Elderly was built.
+- Within it, the missing Yuan-Ti was using the bodies of Wailing Death victims to graft weaponry upon them and use them as a small army
+- The Yuan-Ti tried to put up a fight, but was eventually knocked unconscious.
