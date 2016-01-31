@@ -8,7 +8,7 @@ tags: [5e, Campaign-NeverWinter Nights]
 image:
   feature: neverwinter.jpg
 comments: true
-date: 2015-08-30T11:13:51+02:00
+date: 2015-09-07
 ---
 
 **Last updated 13-12-2015**
@@ -110,20 +110,6 @@ What could go better:
 - One of the inmates is captured. Interrogation reveals that a bandit leader in the sewers has a key to allow inmates into the prison. The Warden is in control of the prison, but he released the inmates. The inmates now follow him.
 - The captured inmates leads the adventurers to the entrance of the sewer hideout. The inmate is killed by Moras and used as a distraction.
 
-# Session 0: The Prelude
+# Session 0
 
-[Intro movie](https://youtu.be/-0qA7n4-E-Y?list=PL5U1SRexN7RUzwjvhTESUq0Q-yH4O8QF2)
-
- - The city of NeverWinter is brought down to its knees by a strange disease; the Wailing Death
- - A call went out for new Heroes to come train at the Heroes Academy, to become the new saviour of NeverWinter
- - Five brave adventurers have answered the call
- - The PCs met with their mentor Deekin and recapped their training
- - The PC's took their exams and all easily defeated the master teacher
- - The PCs met with Aribeth de Tylmarande to receive their diplomas; but were attacked by Goblins
- - They left one Goblin, Rha, alive who explained that the goblins were forced to attack the Heroes Academy, or have their women and children killed. They were forced by a black hooded man with glowin white eyes
- - Aribeth explained that they have a cure for the Wailing Death, in the form of three creatures: an Intellect Devourer, a dryad and a Yuan-Ti. Aribeth fears that the people behind this attack are after the Waterdhavian creatures.
- - The characters convinced Rha to get the other goblins to stand down, in return of their help in freeing the women and children of Rha's clan
- - Most other teachers and students were killed
- - The characters found the courtyard where the Waterdhavian creatures were held. They met up with Desther, a priest of Rathma, and Fenthik, a politician and lover of Aribeth.
- - The man in dark leather and white eyes was heading towards one of the stables, but was stopped by the PC's. The man is revealed to be a young White Dragon
- - While the group defeated a dragon, the Waterdhavian creatures have escaped
+See [Session 0]({% post_url /dnd/2015-08-30-session-0 %})
