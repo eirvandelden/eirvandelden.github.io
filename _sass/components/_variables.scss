@@ -26,6 +26,8 @@ $h6-fontsize: 1rem !default;
 // Colors
 $text-color:       rgba(0, 0, 0, 0.87) !default;
 $background-color: #f0f2f2;
+$strong-color:      contrast($background-color, darken($text-color, 32%), lighten($text-color, 32%));
+$subtle-color:      contrast($text-color, lighten($text-color, 16%), darken($text-color, 16%));
 
 $white:            #fff;
 $primary:          #006EDE;
