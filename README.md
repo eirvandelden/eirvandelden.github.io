@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/eirvandelden/eirvandelden.github.io.svg?branch=master)](https://travis-ci.org/eirvandelden/eirvandelden.github.io)
+
 # Leonids Jekyll Themes
 
 **[Leonids](http://renyuanz.github.io/leonids)** is a clean Jekyll theme perfect for powering your GitHub hosted blog.
