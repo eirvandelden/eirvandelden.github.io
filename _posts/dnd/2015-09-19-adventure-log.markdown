@@ -90,11 +90,8 @@ What could go better:
 - Jenkin’s house is a smaller home. He has boarded up his ground floor windows.
 
 # Session 2: Move until you drop!
-- Quinthya, Fairuza, Moras and Crow took care of Bandit Captain down in the sewers. Interrogation didn't reveal anything new.
-- The prison was charged, using stealth and tactical movement. Two guards were quickly put down.
-- Once inside the prison, the group stealthily approached the first guard, who was guarding a hallway. Each of the three hallways was closeable by a gate, and protected by a guard. With some cunning positioning and heavy stealthing, each of the guards fell before the might of the party.
-- Quinthya, Fairuza, Morass and Crow each recieved 200 XP.
-- No loot was found.
+
+See [Session 2]({% post_url /dnd/2015-09-19-session-2 %})
 
 # Session 1: Trouble at the Jails
 
