@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Session 6: A bridge too far"
+title: "🐲Session 6: A bridge too far"
 categories: dungeons-and-dragons
 tags: [5e, Campaign-NeverWinter Nights, Deneki]
 comments: true
