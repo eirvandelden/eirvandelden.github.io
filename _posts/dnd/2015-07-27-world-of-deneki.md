@@ -21,7 +21,7 @@ If you are one of the players in my current D&D group, this is the page for you.
 ## Resources
 
 - For Rules, see [Homebrew Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
-- For the Adventure log, see [Adventure log]({% post_url /dnd/2015-08-30-adventure-log %})
+- For the Adventure log, see [Adventure log]({% post_url /dnd/2015-09-19-adventure-log %})
 - For the history of the world, see [The History of Deneki]({% post_url /dnd/2015-07-27-history-of-deneki %})
 
 # Introduction
