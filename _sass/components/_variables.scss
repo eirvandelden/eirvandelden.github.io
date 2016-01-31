@@ -1,6 +1,4 @@
-/*
- * Global Variables
- */
+// Global Variables --------------------
 
 /*** Google font import ***/
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro|Source+Sans+Pro:700,400,700italic,400italic);
@@ -41,13 +39,13 @@ $info:             #09ABF6;
 $table-border-color: #d0d0d0 !default;
 $table-striped-color: #f2f2f2 !default;
 
-/*** Grid Variables ***/
+// Grid Variables --------------------
 $num-cols: 12 !default;
 $gutter-width: 1.5rem !default;
 $element-top-margin: $gutter-width/3 !default;
 $element-bottom-margin: ($gutter-width*2)/3 !default;
 
-/*** Media Query Ranges ***/
+// Media Query Ranges --------------------
 $small-screen: 600px !default;
 $medium-screen: 992px !default;
 $large-screen: 1200px !default;
