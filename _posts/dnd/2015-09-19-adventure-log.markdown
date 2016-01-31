@@ -15,79 +15,22 @@ date: 2015-09-19
 
 Previously, on NeverWinter Nights…
 
+# Session 6: A brdige too far…
+
+See [Session 6]({% post_url /dnd/2016-01-24-session-6 %})
+
+
 # Session 5: Next up in theaters: "The Girl and her Eyeball Familiar"
 
-- The party of three, Quinthya, Fairuza and Himo Starflower, set their eyes upon the Neverwinter Theater and the coming robbery there.
-- Quinthiya put dressed up as a theater worker and accessed the Neverwinter theater via the workers entrance. Through here she gained access to the access bridges and pully systems above the stage
-- Fairuza talked with the head security of the Neverwinter Theater, but was unable to convince him that something was afoot.
-- Himo took stock of all the exits: one larger entrance at the front for guests, one smaller employees entrance, one actors entrance
-- There were several stewards and guests that were acting suspicious. With some keen perception, investigation and stealthy encounters the Fire Knives were all identified, bound and delivered to the head of security.
-- All stolen wares were returned to their rightful owners, while the head of security proclaimed this was due to him and his team
-- While walking back to the Moonstone Mask, the PCs heard people screaming and fleeing a nearby square.
-- On that square was a strange Sherry/Mr. Snickles amalgamation; the body of Sherry, but with short swords grafted to here lower arms and Mr. Snickles grafted on as a head. The Sherry/Mr. Snickles monster was attacking and killing people, while trying to "search for Mr. Snickles".
-- With great effort, both physically and mentally, the PCs defeated the Sherry/Mr. Snickles amalgamation. Investigation showed that swords and Mr. Snickles were grafted to Sherry on points were she was also affected by the Wailing Death. Aside from a Potion of Healing, she also carried a sack of dried prumes.
-
-### What was good during this session
-
-- The Neverwinter Theater was fun and a welcome break from combat. All three players concurred
-
-### What could have gone better
-
-- Quinthiya: gain more experience with roleplaying. Things like what can I do? And what not?
-- Himo: no experience with gridlike battle
-- Fairuza: sad to not have much to do during the Neverwinter Theater
-- Fairuza: (still) in favor of enemies with more health and lower damage
-
-### What the players are most curious about
-
-- What is going to happen at the Neverwinter Bridges?
-- Whether Lady Aribeth is evil? She is suspect by Quinthiya
-- What is the deal with the grafting and Sherry. Will there be a monster with a Sherry head?
+See [Session 5]({% post_url /dnd/2016-01-24-session-5 %})
 
 # Session 4: Black Lake District
 
-- Quinthya, Zaldar and Fairuza visited Jenkins, the former butler of Meldanen.
-- In return for the garantuee to be transported somewhere safe, Jenkins offered the key to the backdoor of Meldanen's home, along with the hint to "look around the basement". Fairuza sent Jenkins with Cyar Tanash, a yuan-ti and sent him through an Arcane Gate to a safeplace.
-- Outside the house of Meldanen was Sherry, who lost Mr.Snickles, her Eyeball familiar. After a quick search, Mr. Snickles was found.
-- Inside the house of Meldanen, two Gnoll guards were dispatched
-- In the basement were a range of strange creatures, captured and kept in cells by Meldanen.
-- Meldanen was defeated, the Dryad was completely distraught by his death (probabily due to Stockholm Syndrom)
-- Actions taken after deafeating Meldanen:
-    - The City Guard have released all the prisoners and prisoned creatures and gave  medical attention to those who needed it
-    - The City Guard are dividing all the food found in Meldanen's basement. Food has been distributed to the citizens of the Blacklake district.
-    - Meldanen is post-homously sued, using the administration found in his basement as evidence
-    - Everyone mentioned in the Meldanen Admisitration is sued on charges of slave trade
-    - The Dryad returned to her Groove, but promised to keep in touch with Fairuza
-    - A message was sent back to Cyar Tanahash to return Jenkins, to sue him as an accomplice of Meldanen
-- Starting with finding the Yuan-Ti in the docks, the PCs are surprised to see Sherry, who has lost her Eyeball familiar Mr. Snickles, again.
-- While talking with Sherry, a body fell from roof.
-- The killer tried to escape, but was captured by the PCs. He is a member of the Fire Knives and could explain that their opposition, the Blood Sailors, have opened an all out war on them. Unless the Fire Knives pay-up 100,000 GP at the end of this week, the Blood Sailors will hunt them down and kill them to the man.
-- The captured Fire Knive has revealed two quests:
-    1 Neverwinter Theater; prevent the guests from the Neverwinter Theater to be robbed
-    1 Neverwinter Bridge; there is a bomb underneath of one of the three bridges of Neverwinter
-
-What was fun:
-- Dryad met Stockholm syndroom
-- Mini games tussendoor; Skill Challenges ++; Puzzel & Traproom; Investigate
-- Tempo, weinig momenten niks aan het doen
-- Tussendoor doelen behalen, iedere sessie doel
-
-What could go better:
-- Meer combat variatie, psychologie van monsters minder damage (fixed damage)
-- Meer combat situation variation
+See [Session 4]({% post_url /dnd/2015-11-15-session-4 %})
 
 # Session 3: Defeat the Intellect Devourer
 
-- Fairuza, Zaldar and Kraz (who was in the prison for destroying a dragon statue, which he thought was a real dragon) have defeated the Intellect Devourer. The Devourer had taken over the Warden, who was left catatonic, and resisted capture.
-- Fairuza started an investigation to the Wailing Death. Tissue samples of diseased people didn’t respond to any regular treatments, leading her to think the disease is magical in nature.
-- Entering Blacklake district, the adventurers heard a cry of help from a woman, she was being attacked by a thug.
-- Another thug tried to surprise Fairuza, but failed. A battle ensued and the woman was revealed to be the leader of the two thugs, as it was an ambush.
-- After defeating these would be assassins, it was revealed they carried descriptions of the party members, along with a short description of their specialties.
-- An investigation to the Blacklake district was started. Fairuza covered the swaps, where it was found that it is now filled with dumped Wailing Death victims.
-- The food shortage is due to a rich merchant called Meldanen.
-- Sherry, a girl across from Meldanen, revealed he never enters or leaves through his front-door. She finds Meldanen creepy and doesn’t trust her neighbor.
-- Sherry saw Meldanen’s butler leave with his suitcases, she thinks he was fired at the start of this week.
-- Jenkin’s house is a smaller home. He has boarded up his ground floor windows.
+See [Session 3]({% post_url /dnd/2015-10-18-session-3 %})
 
 # Session 2: Move until you drop!
 
