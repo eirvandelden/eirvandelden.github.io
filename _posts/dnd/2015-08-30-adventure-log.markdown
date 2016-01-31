@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐲Adventure Log"
+title: "Adventure Log"
 modified: 2015-10-18
 categories: dungeons-and-dragons
 excerpt: "What happened previously in our D&D session? Find out here…"

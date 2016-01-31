@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐲The History of Deneki"
+title: "The History of Deneki"
 modified: 2015-11-14
 categories: dungeons-and-dragons
 excerpt: "The History for the world we play in for D&D."
