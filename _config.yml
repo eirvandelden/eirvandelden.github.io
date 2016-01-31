@@ -18,9 +18,10 @@ url: http://eirvandelden.com
 # Jekyll configuration
 ####################################
 #
-markdown:    kramdown
-highlighter:  pygments
-excerpt_separator: <!--more-->
+markdown:           kramdown
+highlighter:        pygments
+excerpt_separator:  <!--more-->
+timezone:           Europe/Amsterdam
 
 kramdown:
   auto_ids: true
