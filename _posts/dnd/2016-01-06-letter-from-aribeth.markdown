@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Letter from Aribeth"
+title: "🐲Letter from Aribeth"
 date: 2016-01-06T12:51:11+01:00
 categories: dungeons-and-dragons
 tags: [5e, Campaign-NeverWinter Nights, Deneki]

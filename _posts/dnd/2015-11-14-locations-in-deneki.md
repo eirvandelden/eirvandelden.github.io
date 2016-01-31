@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Locations in Deneki"
+title: "🐲Locations in Deneki"
 modified: 2015-09-04
 categories: dungeons-and-dragons
 excerpt: "Locations in my D&D World Deneki"
