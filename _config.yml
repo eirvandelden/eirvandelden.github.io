@@ -19,7 +19,7 @@ url: http://eirvandelden.com
 ####################################
 #
 markdown:           kramdown
-highlighter:        pygments
+highlighter:        rouge
 excerpt_separator:  <!--more-->
 timezone:           Europe/Amsterdam
 
