@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "🐲Session 5: Next up in theaters: 'The Girl and her Eyebal Familiar'"
+categories: dungeons-and-dragons
 tags: [5e, Campaign-NeverWinter Nights, Adventure log]
 comments: true
 date: 2016-01-24
