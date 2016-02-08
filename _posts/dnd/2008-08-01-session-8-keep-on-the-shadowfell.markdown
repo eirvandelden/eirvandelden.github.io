@@ -22,5 +22,5 @@ So Albus kind of understood, I guess. After he left, I approached a stablemaster
 
 The horse is ready now. let's go.
 
-![Marc Quin]({% site.url %}/img/dnd-chronicle-5.png)
-![Marc Quin in action]({% site.url %}/img/dnd-chronicle-6.png)
+![Marc Quin]({{ site.url }}/img/dnd-chronicle-5.png)
+![Marc Quin in action]({{ site.url }}/img/dnd-chronicle-6.png)
