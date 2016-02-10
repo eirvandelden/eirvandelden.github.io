@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐲The World of Deneki"
+title: "🏰The World of Deneki"
 modified: 2016-01-06
 categories: dungeons-and-dragons
 excerpt: "If you're in my D&D Group, this is where you go to, to learn about the world we play in."

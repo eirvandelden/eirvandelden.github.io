@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐲Homebrew and Optional rules"
+title: "🏰Homebrew and Optional rules"
 modified: 2015-09-04
 categories: dungeons-and-dragons
 excerpt: "If you're in my D&D Group; these are the homebrew and optional rules we play with."
