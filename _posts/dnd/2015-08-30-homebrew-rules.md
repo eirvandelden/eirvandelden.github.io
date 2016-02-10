@@ -24,7 +24,6 @@ These are the books and resources you may use to create your character. If you a
 - Unearthed Arcana articles:
   - [Eberron](http://dnd.wizards.com/articles/features/unearthed-arcana-eberron) *Note: Only the Warforged and Artificer are allowed*
   - [Awakaned Mystic](http://dnd.wizards.com/articles/features/awakened-mystic) *Note: this is a Psionic Class*
-- [Druid Circle: Circle of Being](https://www.reddit.com/r/DnD/comments/3av9ij/retweaked_and_rebranded_5e_druid_homebrew_circle/)
 
 # Optional rules
 
@@ -34,7 +33,7 @@ During the campaign we use the following optional and homebrew rules:
 - [Action Points](http://dnd.wizards.com/articles/features/unearthed-arcana-eberron) **Unearthed Arcana: Eberron**
 - Color Wheel Alignment **Homebrew, see below**
 <br />*This replaces the Alignment section from PHB Chapter 4. It also replaces Inspiration.*
-- [Gnolls](({% post_url /dnd/2015-11-14-gnolls %})) *Playable Race*
+- [Gnolls](({% post_url 2015-11-14-gnolls %})) *Playable Race*
 
 
 # Color Wheel Alignment

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐲The History of Deneki"
+title: "🏰The History of Deneki"
 modified: 2015-11-14
 categories: dungeons-and-dragons
 excerpt: "The History for the world we play in for D&D."
@@ -12,7 +12,7 @@ This is the history for our D&D World "Deneki". This history will slowly be expa
 
 # Creation wars
 * Not much is known about these wars. This is when humanity arose.
-* The First Mortal races ([Gnolls](({% post_url /dnd/2015-11-14-gnolls %})), Elves, Halflings) arise
+* The First Mortal races ([Gnolls](({% post_url 2015-11-14-gnolls %})), Elves, Halflings) arise
 
 # Elven Wars
 
@@ -33,7 +33,7 @@ This is the history for our D&D World "Deneki". This history will slowly be expa
 - The Warforged won the war and exiled the Gnomes from their homeland, claiming it as their own. The Gnomes now wonder the world in search of a new home, or a new army.
 
 # Creation of the Alliance Protectorate
-- Elves, [Gnolls](({% post_url /dnd/2015-11-14-gnolls %})) and Halflings join forces to defend the North from many threats.
+- Elves, [Gnolls](({% post_url 2015-11-14-gnolls %})) and Halflings join forces to defend the North from many threats.
 
 # Now
 - The North has greatly prospered through the Alliance Protectorate. Humans and Thieflings are trying to join the Alliance Protectorate.

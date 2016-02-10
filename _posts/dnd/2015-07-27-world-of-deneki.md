@@ -20,9 +20,9 @@ If you are one of the players in my current D&D group, this is the page for you.
 
 ## Resources
 
-- For Rules, see [Homebrew Rules]({% post_url /dnd/2015-08-30-homebrew-rules %})
-- For the Adventure log, see [Adventure log]({% post_url /dnd/2015-09-19-adventure-log %})
-- For the history of the world, see [The History of Deneki]({% post_url /dnd/2015-07-27-history-of-deneki %})
+- For Rules, see [Homebrew Rules]({% post_url 2015-08-30-homebrew-rules %})
+- For the Adventure log, see [Adventure log]({% post_url 2015-09-19-adventure-log %})
+- For the history of the world, see [The History of Deneki]({% post_url 2015-07-27-history-of-deneki %})
 
 # Introduction
 The world of Deneki is a "Medieval Steampunk" kind of world. Technology is a bit further than most D&D worlds (which are Lord of the Rings-esque).
@@ -56,7 +56,7 @@ The Map of Deneki is equal to the D&D 4th Edition map of Faerun:
 Emphasized races are playable races
 
 - *Humans*
-- [*Gnolls*]({% post_url /dnd/2015-11-14-gnolls %}) (Ask DM for stats)
+- [*Gnolls*]({% post_url 2015-11-14-gnolls %}) (Ask DM for stats)
 - Elves
   - *Drow* (Caution Drow are mostly Evil)
   - *High Elves*
