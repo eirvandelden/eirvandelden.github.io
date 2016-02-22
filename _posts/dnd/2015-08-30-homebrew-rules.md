@@ -30,7 +30,6 @@ These are the books and resources you may use to create your character. If you a
 During the campaign we use the following optional and homebrew rules:
 
 - Feats **PHB 165**
-- [Action Points](http://dnd.wizards.com/articles/features/unearthed-arcana-eberron) **Unearthed Arcana: Eberron**
 - Color Wheel Alignment **Homebrew, see below**
 <br />*This replaces the Alignment section from PHB Chapter 4. It also replaces Inspiration.*
 - [Gnolls](({% post_url 2015-11-14-gnolls %})) *Playable Race*
@@ -99,7 +98,7 @@ Green actions have the **Thunder** keyword
 ## Allied and Enemy colours
 The allies of a colour are the two other colours that lie directly next to it, on the Color Wheel. For example, White is an Ally of Blue and Black is an Ally of Red
 The enemies of a colour are the two colours opposite on the Color Wheel. For example, Black is an enemy of White and Blue is an enemy of Green and Red.
-Enemies are super effective agains each other. Allies are not very effective against each other. Take this into account when using your Colour Tokens.
+Enemies are super effective against each other. Allies are not very effective against each other. Take this into account when using your Colour Tokens.
 
 ## When do I get tokens?
 
@@ -112,11 +111,9 @@ Your humble DM is fallable, so don't forget to ask if something is worth a token
 
 ### Rules
 
-- When ever you make a roll, you may give up a Colour Token to add an extra d6 to your role. You may declare your token before, or after rolling.
-- Whenever you use a Colour Token to gain an extra d6, the action you take gains the color of the token.
-- You may only give up a Token for a Colour you have the most.
-<br />For example; if you have 3 Green token and 1 Red, you may only use you Green tokens. If you have 2 Black tokens, 2 White tokens and 1 Blue token, you may use either a Black or a White token.
-- If, at the start of the session, you have no tokens, you gain 1 Coloured Token of your choice. This should reflect your PC’s personality
+- When ever you make a roll, you may use a Colour Token to re-roll a die
+- Whenever you use a Colour Token; the action you take gains the color of the token.
+- If, at the start of the session, you have no tokens, you gain 1 Coloured Token of your choice. This token should reflect your PC’s personality
 - If you end end a session with more than 0 tokens, you keep those tokens for the next session.
 
 # The type of game
