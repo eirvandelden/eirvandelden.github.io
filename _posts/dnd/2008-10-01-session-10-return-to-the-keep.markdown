@@ -6,6 +6,7 @@ excerpt: "After the PCs failed to defeat Kalarel, a new group of adventurers arr
 tags: [4e, Campaign-Return to the Keep, Adventure log]
 comments: true
 date: 2008-10-01
+modified_date: 2008-10-02
 ---
 
 *After the PCs failed to defeat Kalarel, a new group of adventurers arrive to assist the people of Winterhaven. "Return to the Keep" is a highly adapted version of Keep on the Shadowfell. The goal for this campaign is to get a second change at saving Winterhaven and finally defeating Kalarel.*
