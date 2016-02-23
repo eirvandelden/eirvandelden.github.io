@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Session 14: Thunderspire Labyrinth"
+title: "Session 15: Thunderspire Labyrinth"
 categories: dungeons-and-dragons
 tags: [4e, Campaign-Thundespire Labyrinth OLD, Adventure log]
 comments: true
