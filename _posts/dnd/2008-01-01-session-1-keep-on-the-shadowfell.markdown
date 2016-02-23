@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐲Session 1: Keep on the Shadowfell"
+title: "Session 1: Keep on the Shadowfell"
 categories: dungeons-and-dragons
 tags: [4e, Campaign-Keep on the Shadowfell, Adventure log]
 comments: true

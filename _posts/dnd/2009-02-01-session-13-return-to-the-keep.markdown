@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐲Session 13: Return to the Keep"
+title: "Session 13: Return to the Keep"
 categories: dungeons-and-dragons
 tags: [4e, Campaign-Return to the Keep, Adventure log]
 comments: true
