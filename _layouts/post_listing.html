@@ -10,7 +10,19 @@ layout: two-col
       <a class="post-title" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
       {% if post.link %}
       <a class="post-title-link" href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-external-link"></i></a>
+
       {% endif %}
+      <span class="post-meta">
+          &nbsp;
+        {% if post.categories.size > 0 %}
+          {% for cat in post.categories %}
+            <a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a> •
+          {% endfor %}
+        {% endif %}
+        <span class="post-date">
+            {{ post.date | date: "%-d %b %Y" | upcase }}
+        </span>
+      </span>
     </h4>
 
     {% if post.author %}
@@ -19,25 +31,7 @@ layout: two-col
       {% assign author = site.owner %}
     {% endif %}
 
-    <p class="post-meta">
-      <span class="post-date">
-        {{ post.date | date: "%-d %b %Y" | upcase }}
-      </span>
-      {% if post.categories.size > 0 %}
-      •
-      {% for cat in post.categories %}
-      <a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a>
-      {% endfor %}
-      {% endif %}
-    </p>
-
     </header>
-
-    <div class="post-description">
-      <p>
-        {{ post.excerpt | truncate: 240 }}
-      </p>
-    </div>
 
     {% comment %}
     {% if post.image.feature %}
