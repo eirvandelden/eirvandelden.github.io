@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/eirvandelden
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://eirvandelden.com
+  * I am eirvandelden (https://keybase.io/eirvandelden) on keybase.
+  * I have a public key ASAI32p7pQjIbxqFXqZIm5IAgdCxtoxm12E3F5Ck1oFBNgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012008df6a7ba508c86f1a855ea6489b920081d0b1b68c66d761371790a4d68141360a",
+            "host": "keybase.io",
+            "kid": "012008df6a7ba508c86f1a855ea6489b920081d0b1b68c66d761371790a4d68141360a",
+            "uid": "3255444fe3a34223714c016bb0b9d319",
+            "username": "eirvandelden"
+        },
+        "service": {
+            "hostname": "eirvandelden.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1460028550,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1460028498,
+        "hash": "98b87cff84b64eb02a39aea02683207c96ad6959e8d9ac12049e517ca83aed61b11e4d6bfb8a63721cbe7b08a45d6e01fac50aa70640af5c69b3c8b36840d81a",
+        "seqno": 433886
+    },
+    "prev": "b03ce5d4796926b73349b08e75cb70e5ca4d6d26faf83d821c402d85c7c97eee",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCN9qe6UIyG8ahV6mSJuSAIHQsbaMZtdhNxeQpNaBQTYKp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDhkZjZhN2JhNTA4Yzg2ZjFhODU1ZWE2NDg5YjkyMDA4MWQwYjFiNjhjNjZkNzYxMzcxNzkwYTRkNjgxNDEzNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDhkZjZhN2JhNTA4Yzg2ZjFhODU1ZWE2NDg5YjkyMDA4MWQwYjFiNjhjNjZkNzYxMzcxNzkwYTRkNjgxNDEzNjBhIiwidWlkIjoiMzI1NTQ0NGZlM2EzNDIyMzcxNGMwMTZiYjBiOWQzMTkiLCJ1c2VybmFtZSI6ImVpcnZhbmRlbGRlbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZWlydmFuZGVsZGVuLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTQifSwiY3RpbWUiOjE0NjAwMjg1NTAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2MDAyODQ5OCwiaGFzaCI6Ijk4Yjg3Y2ZmODRiNjRlYjAyYTM5YWVhMDI2ODMyMDdjOTZhZDY5NTllOGQ5YWMxMjA0OWU1MTdjYTgzYWVkNjFiMTFlNGQ2YmZiOGE2MzcyMWNiZTdiMDhhNDVkNmUwMWZhYzUwYWE3MDY0MGFmNWM2OWIzYzhiMzY4NDBkODFhIiwic2Vxbm8iOjQzMzg4Nn0sInByZXYiOiJiMDNjZTVkNDc5NjkyNmI3MzM0OWIwOGU3NWNiNzBlNWNhNGQ2ZDI2ZmFmODNkODIxYzQwMmQ4NWM3Yzk3ZWVlIiwic2Vxbm8iOjEyLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBayyVYXL8gsVKV8CrzYk5d4oOUVL35ylBA5DMAJscfkoniKDYvLg0mDjjgAob8J8PQfw472Vq+7O6pi9wSimwSoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eirvandelden
+
+==================================================================
