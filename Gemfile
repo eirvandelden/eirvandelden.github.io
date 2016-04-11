@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'github-pages'
-gem 'jekyll'
-gem 'octopress'
+gem 'github-pages', '~> 60'
+gem 'octopress', '~> 3.0'
