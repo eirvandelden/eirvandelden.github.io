@@ -2,7 +2,7 @@
 title: Installing therubyracer on OS X
 date: 2016-04-06T17:43:09+02:00
 layout: post
-categories: programming
+categories: developing
 ---
 
 Another one of those troublesome gems, here is my definite guide to installing `therubyracer`, along with an older v8 from brew.
