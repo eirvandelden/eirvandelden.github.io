@@ -24,13 +24,10 @@
 }
 
 // Post Section
-section.post {
-	margin-bottom: 80px;
-}
 
 // Post title
 .post-title {
-
+  font-weight: lighter;
 }
 
 .post-title-link {
@@ -46,7 +43,7 @@ section.post {
 // Post meta
 .post-meta {
   font-size: 13px;
-  font-weight: bold;
+  font-weight: lighter;
 	.post-date {
 		color: $secondary;
 	}
