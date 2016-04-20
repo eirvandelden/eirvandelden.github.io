@@ -2,7 +2,7 @@
 layout: post
 title: "🐲Session 8: Menzoberranzan"
 categories: dungeons-and-dragons
-tags: [5e, Campaign-NeverWinter Nights, Adventure log]
+tags: [5e, Campaign-Thunderspire Labyrinth, Adventure log]
 comments: true
 date: 2016-04-17
 ---
