@@ -6,3 +6,5 @@ categories: developing
 tags: [ link post ]
 link: https://coderwall.com/p/h6yfda/use-and-to-jump-forwards-backwards-words-in-iterm-2-on-os-x
 ---
+
+Visit the original post [here](https://coderwall.com/p/h6yfda/use-and-to-jump-forwards-backwards-words-in-iterm-2-on-os-x)

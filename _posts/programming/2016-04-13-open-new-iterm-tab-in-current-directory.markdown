@@ -5,3 +5,5 @@ layout: post
 category: developing
 link: http://nateeagle.com/2013/03/08/open-new-tabs-in-iterm-in-the-current-directory/
 ---
+
+Visit the original post [here](http://nateeagle.com/2013/03/08/open-new-tabs-in-iterm-in-the-current-directory/)
