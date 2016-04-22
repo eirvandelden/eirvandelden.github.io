@@ -2,7 +2,7 @@
 layout: post
 title: Installing Nokogiri on OS X
 date: 2016-04-06T17:29:55+02:00
-categories: programming
+categories: developing
 ---
 
 If you are developing Rails or Ruby applications, you probably have to install `nokogiri` at some point.

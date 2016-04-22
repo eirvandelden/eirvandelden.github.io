@@ -2,7 +2,7 @@
 layout: post
 title: Installing libv8 on OS X
 date: 2016-04-06T17:43:29+02:00
-categories: programming
+categories: developing
 ---
 
 Another one of those troublesome gems, here is my definite guide to installing `libv8` with the default v8 engine on OS X
