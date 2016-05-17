@@ -27,15 +27,29 @@ _**Date** 26th of Spring, 66016_
 ### What was good during this session
 
 - Nice encounters and fun twisting the story back to the inn
+- Good mix between combat, rp'ing and strategy. Atmosphere/tone was good due to the artwork and battlemaps.
+- The Watermelon; Great map / mobs; Personal things (like my vision, Zaldar's secret quest, etc.); Deekin's "Keep Rain from Deekin's Head" Shop.
 
 ### What could have gone better
 
 - I need to learn how to play an arcane trickster better :)
+- Quality was already very good, I would like to see more atmosphere though, the Underdark is a scary place (with sparse bright spots of hope), but it doesn't "feel" like underground at the moment.
+- I missed the background music :-)
 
 ### What are the players most curious about
 
 - What we will find at the inn
+- I love Drow lore and customs and would like to see more of that. Hopefully, there will come a Drow sidequest or some underdark exploring. Unfortunately, I'm not really interested in Seldra herself. Her schemes seem too vage and we have not encountered the character enough to have made a real impact.
+- Michiel's quest; where my own visions will lead me; and what ridiculous weapons extensions Fairuza will come up with next :-)
 
 ### Anything else?
 
--
+- Nope. Keep being awesome <3
+- I have some general remarks which has nothing to with your DM'ing (which is really good) but more with the current iteration of D&D.
+  - I think the encounters are too easy and too short.
+    - I understand that the reason for this is that you have way less powers compared to 4th edition and even less than 3rd edition and the damage per level is lower and you have less health but they overdid it a little bit.
+    - We have a very well balanced party and good team work so I think we can handle more difficult encounters than prescribed in WotC standards. Also we like to employ strategy in our battles which really isn't needed at the moment.
+  - The encounter rewards are very unsatisfying.
+    - Most encounters give only a sparse amount of gold (and a few potions), which is fine regarding the difficulty of the encounters (rewards should be proportional to challenge). I'm quite sure that the interesting items that we do find are in fact put there by you and not WotC. At the moment there is no Game Mechanical incentive to try and defeat challenges. Story motivations are fine but the best motivator is when story and gameplay go hand in hand. Now, people even forget to loot after a battle because there are low expectations for rewards.
+  - Combat is very repetitive.
+    - I notice that almost every turn I take the same actions, there is not much to do other than make your attack, which sometimes has its damage boosted by an ability. At the moment my level 5 character has 5 abilities available (in combat, the sheet has more abilities but these are for roleplaying or do not play a part in combat), 1 passive ability (killshot) and 4 spellslots. Since we rest about every 3 encounters there are 4 + 2 + 2 spellslots available for those encounters (and that is counting not using any heals, and having the ability to regain half your slots per encounter) which results in 8 / 3 = 2.66 abilities per encounter. One of which is my Hunters Mark, which leads to slightly (2.66 - 1 = 1.66) more than 1 "strategic" ability choice per encounter which is not much, which most of the time is used for a heal anyway. We do a lot of strategic movement, using stealth and positioning, but to be honest this is not really necessary when regarding the difficulty of the encounters. Movement in general seems a bit superfluous, your actual position doesn't matter for flanking, as long as two people are in melee with a single creature they are considered flanking. Your position also doesn't matter for opportunity attacks as these now only trigger when you take a specific action ("going out of melee") and not on your position. Cover rules have been greatly simplified and most of the time do not play a part, and ranged attackers never had to position themselves to begin with. If it were not for distance and visibility the battlegrid could actually be removed. On a positive note, I think it is smart what you do by having battles take place on staircase, around furniture and through difficult terrain because this adds way more strategic diversity. Positioning is not the only strategic option, in other games creatures had certain weaknesses and strengths that could be exploited. Simple examples would be using for example fire attacks on a troll, but other things exist as well. At the moment every attack deals "damage", we don't even specify the type of this damage most of the time and they are almost exclusive single target attacks vs a single defense. In my opinion, the way it is currently set up there are few "true" strategic options available.
