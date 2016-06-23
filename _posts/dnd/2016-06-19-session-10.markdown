@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐲Session 9: Menzoberranzan"
+title: "🐲Session 10: A vision, a murder in cold blood, a sad story and standing in the way of good"
 categories: dungeons-and-dragons
 tags: [5e, Campaign-Thunderspire Labyrinth, Adventure log]
 comments: true
