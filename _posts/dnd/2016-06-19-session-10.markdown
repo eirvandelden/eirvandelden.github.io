@@ -22,9 +22,10 @@ Each of the available floors had a spoken diary message:
 
 
 # Intermezzo: Entering Menzoberranzan
+
 ## _**Date** 25th of Spring, 66016_
 
-* Nearing the entrance of Menzoberranzan, there was a queue before the gates. This time the queue was far, far larger. Everyone was being checked and frisked, more so than last time the party entered Menzoberranzan. 
+* Nearing the entrance of Menzoberranzan, there was a queue before the gates. This time the queue was far, far larger. Everyone was being checked and frisked, more so than last time the party entered Menzoberranzan.
 * The leader of the guards was Brugg, a draegloth (half-Drow, half-Demon), who was patrolling the queues and exclaiming to uphold three rules:
 
   1. Don't stand in the way of a Matron Mother
@@ -37,6 +38,7 @@ During this long and boring wait, Morass and Zaldar decided to have some mischie
   * **Zaldar** Used his "Minor Illusion" spell underneath the foot of a big burly Warrior, to replicate the sound of spider "squishing". He was promptly whipped to death by a Drow Priestess and stomped on by Brugg
 
 # Confronting Taffarof
+
 ## _**Date** 26th of Spring, 66016_
 
 * The party went to Redil, talked to him about their findings and decided to confront his father Taffarof
@@ -58,6 +60,7 @@ During this long and boring wait, Morass and Zaldar decided to have some mischie
 
 
 # The Well of Demons and Rebaroff the Gnoll
+
 ## _**Date** 28th of Spring, 66016_
 
 * Plan worked flawlessly, until they reached the Well of Demons
