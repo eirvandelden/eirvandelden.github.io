@@ -1,0 +1,93 @@
+---
+layout: post
+title: "🐲Session 9: Menzoberranzan"
+categories: dungeons-and-dragons
+tags: [5e, Campaign-Thunderspire Labyrinth, Adventure log]
+comments: true
+date: 2016-04-17
+---
+
+Party members of this session: _Little Crow, Fairuza, Moras, Zaldar_
+
+# Intermezzo: A mysterious vision
+
+## _**Date** 24th of Spring, 66016_
+
+* On the way back to Menzoberranzan, the group encountered a vision. It was a vision of an office building that has once been ransacked and then left. Years of age have taken it's toll and nature is slowly retaking it.
+* Within the office building, there was an elevator. It could go up to floor 8, but only floors 1 and 2 were available.
+* The group explored this strange building, which feels to be not from the future, but _after_ the future. Phones, office chairs, monitors, all kinds of strange futury things.
+Each of the available floors had a spoken diary message:
+  * <a href="{{ site.base.url }}/sounds/entry1.aiff">Journal entry 1</a>
+  * <a href="{{ site.base.url }}/sounds/entry1.aiff">Journal entry 2</a>
+
+
+# Intermezzo: Entering Menzoberranzan
+## _**Date** 25th of Spring, 66016_
+
+* Nearing the entrance of Menzoberranzan, there was a queue before the gates. This time the queue was far, far larger. Everyone was being checked and frisked, more so than last time the party entered Menzoberranzan. 
+* The leader of the guards was Brugg, a draegloth (half-Drow, half-Demon), who was patrolling the queues and exclaiming to uphold three rules:
+
+  1. Don't stand in the way of a Matron Mother
+  1. Don't harm any spiders or spider webs
+  1. Don't stand in the way of Brugg, the "peacekeeper"
+
+During this long and boring wait, Morass and Zaldar decided to have some mischief:
+
+  * **Morass** Used his magehand to push a well clothed and fat merchant, right in front of Brugg's path. The merchant was trampled upon by Brugg and is scarred from Bruggs clawed feet
+  * **Zaldar** Used his "Minor Illusion" spell underneath the foot of a big burly Warrior, to replicate the sound of spider "squishing". He was promptly whipped to death by a Drow Priestess and stomped on by Brugg
+
+# Confronting Taffarof
+## _**Date** 26th of Spring, 66016_
+
+* The party went to Redil, talked to him about their findings and decided to confront his father Taffarof
+* Taffarof explained his sad story:
+    * He, his wife and his son, Rendill, lived as slaves to the Quavfrynn Dill
+    * When he spilled the Matron Mother's drink, his wife and son were killed before his eyes. He was run over with a lizard driven stagecoach
+    * Seldra, and a deep dark voice, arrived and offered him the chance to save them all. He said yes.
+    * They have been grafted. Taffarof is a lot stronger. He now works for Seldra
+    * He brings slaves to excavations run by the Quavfryinn Dill.
+* Taffarof has agreed to help the party stop Seldra
+
+# The ploy
+* A Plan was forged to find and stop Seldra
+  * Little Crow will pretend to be a slave in Taffarof's next shipment
+  * Fairuza has cast a spell to keep track of Little Crow
+  * Zaldar will periodically contact Little Crow via sending
+  * When shit hits the fan, the party will come to rescue Little Crow and Taffarof
+* Zaldar contacted Tjorven and explained everything. Tjorven agreed to help. When the party cannot handle things themselves, Rendil and Tjorven will contact an enemy house of the _Quavfrynn Dill_; the _Pellanra_
+
+
+# The Well of Demons and Rebaroff the Gnoll
+## _**Date** 28th of Spring, 66016_
+
+* Plan worked flawlessly, until they reached the Well of Demons
+* Taffarof was surprised by Rebaroff, a Gnoll.
+* Rebaroff tried to free the slaves. Little Crow helped Taffarof defend against Rebaroff. The rest of the party ran to the Well of Demons, all in stealth mode
+* Rebaroff was convinced to listen to the party's story, while Taffarof continued to deliver the slaves (where Little Crow is one).
+
+# Evaluation
+
+## How happy were you with last session?
+
+![Image of the happiness](/img/dnd/happiness/session10.png)
+
+## What was good during this session
+
+* Everything with the slave trader. Randall, and his father and the Gnoll hero.
+* Lots of role playing and many options/ways to go.
+
+
+## What could have gone better
+
+* Nothing in particular, but perhaps more clear objectives would be nice.
+* I do like it better if there is a combination of role playing and fighting.
+
+
+## What are the players most curious about
+
+* What are the Drow excavating?
+* The vision from the distant past, how what why
+
+## Anything else?
+
+* This is just my personal opinion, but I don't like the explicit mixing of the real world and Faerun. While I'm not against the concept per se, I feel that having real life aspects in the story does not match the tone that D&D is trying to set, namely that of escapism and being the hero in a world filled with evil monsters.
