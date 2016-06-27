@@ -16,6 +16,6 @@ Party members of this session: _a Bard, a Fighter and a Ranger_
 - The group visited the girl parents:
   - The parents claim that they buried their daughter 2 weeks ago. They had a body
   - This girl looks like their own daughter, even smells like her
-  - If the group can explain to the parents what really happened at the Docks, then they parents will believe them and accept that this girl really is their Estrela.
+  - If the group can explain to the parents what really happened at the Docks, then the parents will believe them and accept that this girl really is their Estrela.
 - Visiting the Docks, a pier was found with a trapdoor underneath it.
 - Underneath the pier is a tunnel. The group, and Estrella, followed the tunnel to a hatch
