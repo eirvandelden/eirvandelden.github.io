@@ -4,7 +4,7 @@ title: "🐲Kabisa Session 2: The Search for Truth"
 categories: dungeons-and-dragons
 tags: [5e, Campaign-Dealings of the Dark Mistress, Adventure log, Kabisa-D&D]
 comments: true
-date: 2016-05-13
+date: 2016-06-24
 ---
 
 Party members of this session: _a Bard, a Fighter and a Ranger_
