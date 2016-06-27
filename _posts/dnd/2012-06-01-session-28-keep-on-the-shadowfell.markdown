@@ -40,4 +40,4 @@ _"The Magnificent Buddy Bag, straight from Waterdeep!"_
   * **Althea** Where is Steven? _Make sure they find out Steven is being corrupted_
   * **Kylar** Where is my girlfriend? _Tie in Mask and transforming into a Shade to this_
   * **Antioch** Where is the Hammer of Tiamat?
-  * **Naivara** ???
+  * **Naivara** ?

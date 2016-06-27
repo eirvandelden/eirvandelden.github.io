@@ -19,7 +19,7 @@ When you return to the Moonstone Mask, you see a sealed letter on your bed. Open
 > I haven’t heard from you all since.
 > Have you been able to track down the Waterdhavian creatures? Is your mission successful?
 >
-> More and more people are afflicted with the Wailing Death each day. The death toll has risen to 5,000 people, almost 1/5th of Neverwinter’s entire population! We must find the Waterdhavian creatures and make a cure, fast!
+> More and more people are afflicted with the Wailing Death each day. The death toll has risen to 5,000 people, almost 1/5th of Neverwinter’s entire population. We must find the Waterdhavian creatures and make a cure, fast!
 >
 > Luckily, I have also received good news; the Warden of the Neverwinter Prison has been found and the escaped prisoners have been captured, bringing relative peace again to the Scar District.
 > I have also heard that the famish in the Blacklake District has ended with the discovery of a huge stash in the basement of Merchant Meldanen, along with records of a large slave trade within our city.

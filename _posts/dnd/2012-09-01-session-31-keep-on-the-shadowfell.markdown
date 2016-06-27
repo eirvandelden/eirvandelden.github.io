@@ -9,7 +9,7 @@ date: 2012-09-01
 
 _Fling the Halfling!_
 
-  * _The group hasn't found the secret room yet!_
+  * _The group hasn't found the secret room yet_
   * Group baricaded the door of Area 4 DC: 23
   * Group followed Snuff to the crypt
   * Antioch first stayed upstairs, because it was dark in the crypt. Only when Snuff went to fetch Antioch did he go down, lighting a torch. _Anthioch plays his fear of darkness, the others have no clue_

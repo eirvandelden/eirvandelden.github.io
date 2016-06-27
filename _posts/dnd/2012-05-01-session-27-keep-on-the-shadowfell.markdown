@@ -8,5 +8,5 @@ date: 2012-05-01
 ---
 
   * Party went inside, deafeted Urtok
-  * Very tough battle, but was enjoyable
+  * Tough battle, but was enjoyable
   * First time fighting against push effect
