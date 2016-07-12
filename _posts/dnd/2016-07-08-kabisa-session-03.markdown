@@ -7,7 +7,7 @@ comments: true
 date: 2016-06-24
 ---
 
-_a Bard, a Fighter, a Barbarian and a Cleric_ walk into a random session
+_a Bard, a Fighter, a Barbarian, a Rogue and a Cleric_ walk into a random session
 
 - The hatch from previous session ends up in a ramsshackle warehouse
 - The PC's find, fight and defeat Lurg, a giant of a man who was hiding in the warehouse
