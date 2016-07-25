@@ -4,7 +4,7 @@ title: "🐲Kabisa Session 3: Unsatisfying Ending"
 categories: dungeons-and-dragons
 tags: [5e, Campaign-Dealings of the Dark Mistress, Adventure log, Kabisa-D&D]
 comments: true
-date: 2016-06-24
+date: 2016-07-08
 ---
 
 _a Bard, a Fighter, a Barbarian, a Rogue and a Cleric_ walk into a random session
