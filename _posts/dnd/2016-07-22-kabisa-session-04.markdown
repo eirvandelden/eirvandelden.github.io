@@ -25,19 +25,24 @@ Death is imminent. Will the group survive?
 
 ## How happy were you with last session?
 
-
+![Image of the happiness](/img/dnd/happiness/kabisa-session04.png)
 
 ## What was good during this session
 
-
+- Good balance between RP, battle and puzzling. Also, dying characters. This adds more variety to the game. The 'Help Us' note on the door was a nice touch.
+- Playing a "traditional" D&D game
 
 ## What could have gone better
 
-
+- Moar playa's!
+- Getting there on time :) Maybe one or two players more.
 
 ## What are the players most curious about
 
-
+- How we're going to survive (if at all) the horde of dwarf skeletons and what we're going to find next.
+- What else there is to explore. I hope we don't find the ?-stone in the chest that the skeleton dwarf is standing on, it'd be over too soon :D
 
 ## Anything else?
 
+- Keep on doing that thing you do! :-)
+- I think I'm starting to form an answer to the 30-year old question "Would D&D be something for me?"
