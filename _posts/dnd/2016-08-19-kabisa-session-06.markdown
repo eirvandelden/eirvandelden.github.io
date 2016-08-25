@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐲Kabisa Session 6: You hear chicken noises"
+title: "🐲Kabisa Session 6: You hear some chickens…🐔"
 categories: dungeons-and-dragons
 tags: [5e, Campaign-Mines of Madness, Adventure log, Kabisa-D&D]
 comments: true
@@ -17,7 +17,7 @@ Players present: _Hacklor, Roël, La'urens_
 - The party heard chicken noises and found a group of 4 very large chickens. They later found out these were Cockatrices. Underneath an overturned mining cart the group found HugHug. HugHug is the sole survivor of a group of Goblins who enterend the Mines of Madness.
 
 ![Upper level Explored map](/img/dnd/sessions/mines-of-madness_lower-level-explored-map.png)
-![Lower level Explored map](/img/dnd/sessions/mines-of-upper-level-explored-map.png)
+![Lower level Explored map](/img/dnd/sessions/mines-of-madness_upper-level-explored-map.png)
 
 # Evaluation
 
