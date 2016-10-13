@@ -1,0 +1,32 @@
+---
+layout: post
+title: "🐲Session 13: Thran Robotics and Completion revealed"
+categories: dungeons-and-dragons
+tags: [5e, Campaign-Thunderspire Labyrinth, Adventure log]
+comments: true
+date: 2016-09-17
+---
+
+Party members of this session: _Fairuza, Fairuza_
+
+# _**Date** 29th of Spring, 66016_
+
+- Put all 4 objects on the magic circles. Door is slowly opening, but traps are triggering in all rooms
+- Huge black Doom Sphere spawned and rolls around the inner track.
+- A green dragon awoke
+- Tricked dragon to get stuck in the path of the Doom Sphere.
+- Killed dragon, but almost died in the process
+- Found a dig site with Completed  Drow, a Completed Drider and Completed slaves
+- Rigged the Doom Sphere to roll into the room, killing the Completed Slaves.
+- Defeated the Completed Drider and Completed Drow.
+- Saved a gnome archeologist, called the Archeologist. It was her that Rebaroff was trying to save
+- Found a large stash of magical items
+- Received a new Backwards-Flash-Forward-vision
+    - <a href="{{ site.base.url }}/sounds/entry3.aiff">Journal 3</a>
+    - <a href="{{ site.base.url }}/sounds/entry4.aiff">Journal 4</a>
+    - Discovered that Zaldar ring blocks these visions when worn
+- Inn and shop of Rendill and Taffarof are empty. The deed to the inn was left on the counter
+
+# Evaluation
+
+Due to my holiday, no evaluation was sent.
