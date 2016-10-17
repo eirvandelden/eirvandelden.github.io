@@ -7,7 +7,7 @@ comments: true
 date: 2016-09-17
 ---
 
-Party members of this session: _Fairuza, Fairuza_
+Party members of this session: _Fairuza, Zaldar_
 
 # _**Date** 29th of Spring, 66016_
 
@@ -21,6 +21,7 @@ Party members of this session: _Fairuza, Fairuza_
 - Defeated the Completed Drider and Completed Drow.
 - Saved a gnome archeologist, called the Archeologist. It was her that Rebaroff was trying to save
 - Found a large stash of magical items
+- Found <a href="{{ site.base.url }}/sounds/the-last-clue.aiff">the last clue</a> where Seldra is
 - Received a new Backwards-Flash-Forward-vision
     - <a href="{{ site.base.url }}/sounds/entry3.aiff">Journal 3</a>
     - <a href="{{ site.base.url }}/sounds/entry4.aiff">Journal 4</a>
