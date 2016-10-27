@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: two-col
 title: "🏰Races of Deneki: Gnolls"
 modified: 2015-11-14
 date: 2015-11-14

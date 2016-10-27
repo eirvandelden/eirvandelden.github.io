@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: two-col
 title: "🏰Races of Deneki: Gnomes"
 categories: dungeons-and-dragons
 excerpt: "Gnomes are tinkerers, they have a unique gift for artifice…"

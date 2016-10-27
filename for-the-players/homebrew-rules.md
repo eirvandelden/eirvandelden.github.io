@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: two-col
 title: "🏰Homebrew and Optional rules"
 modified: 2015-09-04
 categories: dungeons-and-dragons
@@ -32,7 +32,7 @@ During the campaign we use the following optional and homebrew rules:
 - Feats **PHB 165**
 - Color Wheel Alignment **Homebrew, see below**
 <br />*This replaces the Alignment section from PHB Chapter 4. It also replaces Inspiration.*
-- [Gnolls](({% post_url 2015-11-14-gnolls %})) *Playable Race*
+- [Gnolls](/for-the-players/gnolls) *Playable Race*
 
 
 # Color Wheel Alignment
