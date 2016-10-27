@@ -13,17 +13,17 @@ layout: two-col
       {% else %}
       <a class="post-title" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
       {% endif %}
-      <span class="post-meta">
+      <div class="post-meta">
           &nbsp;
+        <span class="post-date">
+            {{ post.date | date: "%-d %b %Y" | upcase }} •
+        </span>
         {% if post.categories.size > 0 %}
           {% for cat in post.categories %}
-            <a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a> •
+            <a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a>
           {% endfor %}
         {% endif %}
-        <span class="post-date">
-            {{ post.date | date: "%-d %b %Y" | upcase }}
-        </span>
-      </span>
+      </div>
     </h4>
 
     {% if post.author %}
