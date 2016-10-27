@@ -61,7 +61,7 @@
   .author_name {
     display: block;
     color: #dce3ef;
-    font-size: 3em;
+    font-size: 2.1em;
     font-weight: 700;
     text-transform: lowercase;
     font-style: italic;
@@ -69,7 +69,7 @@
   }
   .author_job {
     display: block;
-    color: $primary;
+    color: $danger;
     font-size: 0.8em;
     font-weight: 700;
     text-transform: uppercase;
@@ -94,10 +94,10 @@
       display: inline-block;
       margin-left: 1em;
       a.social-link-item {
-        color: $secondary;
+        color: $warning;
         &:hover,
         &:focus {
-          color: lighten($secondary, 14%);
+          color: lighten($warning, 14%);
         }
       }
     }
@@ -116,10 +116,10 @@
       text-transform: lowercase;
       font-size: 85%;
       @include text-shadow;
-      color: $secondary;
+      color: $warning;
       &:hover,
       &:focus {
-        color: lighten($secondary, 14%);
+        color: lighten($warning, 14%);
       }
     }
   }
