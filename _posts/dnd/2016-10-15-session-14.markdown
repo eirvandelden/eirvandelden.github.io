@@ -7,7 +7,7 @@ comments: true
 date: 2016-10-15
 ---
 
-Party members of this session: _Fairuza, Fairuza_
+Party members of this session: _Fairuza, Zaldar, Crow, Moras_
 
 # _**Date** 30th of Spring, 66016_
 
@@ -19,28 +19,63 @@ Party members of this session: _Fairuza, Fairuza_
 
 ## Treasure
 
-**todo**
+- Wand of the War Magi +1
+- Staff of Frost
+- Ring of the Ram
+- Slippers of Spider Climbing (shaped as women's shoes with a low heel)
+- Sentinel Shield
+- Gloves of Missile Snaring
+- Figurines of Wondrous Power (Golden Lions)
+- Dust of Sneezing and Choking
 
 ## Tokens
 
-**todo**
+- _Fairuza_ Green, one of your choice
+- _Zaldar_ Black, one of your choice
+- _Crow_ White, one of your choice
+- _Moras_ Blue, one of your choice
 
 # _**Date** 37th of Spring, 66016_
 
 - After some resting, the party travelled towards Derrin's Ferry in the Elsir Vale
-- During travel, they were ambushed by Completed Hobgoblins. They were murderized.
+- During travel, they were ambushed by Completed Hobgoblins. The completed hobgoblinss were murderized.
 
 ## Treasure
 
-**todo**
+8 gp
 
 ## Tokens
 
-**todo**
-
+- _Fairuza_ One of your choice
+- _Zaldar_ One of your choice
+- _Crow_ One of your choice
+- _Moras_ One of your choice
 
 # Footnotes
 *: During the session he was called Harvester. I renamed him to Harbinger for future clarity.
 
 # Evaluation
 
+## How happy were you with last session?
+
+![Image of the happiness](/img/dnd/happiness/session14.png)
+
+## What was good during this session
+
+- Difficulty was high which I liked
+- Cool boss fight in different phases.
+
+## What could have gone better
+
+- I would like the environments / personae to be more detailed properly. I had difficulty imagining the environment I was in.
+- To many interuptions from the story, when we leveled up and looking up magical items. This could be done in between sessions. And we will have more time for the story.
+
+## What are the players most curious about
+
+- I would like to see what completion will add to our encounters. Also if there will be loot and or powers that use it or are related to it.
+- Magic items!!! :P
+
+## Anything else?
+
+- I still think the enemies are too unpredictable, both in stats and their abilities. I would still say that statwise enemies need more HP and less damage. Ability wise if creatures have 3 abilities and they live around 3 rounds because of their HP they will effectively have a new unknown to the players ability each round which will mean the players have no possibility to predict their actions. Having such a large degree of RNG diminishes decision making.
+- Keep up the good work
