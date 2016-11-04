@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <item>
+    <name>The Nit Picker</name>
+    <type>W</type>
+    <weight>1</weight>
+    <text>Resembles a miniature garden gnome that carries lock picking tools in his hands. When not in use, looks like a 4" inch tall statue.</text>
+    <text />
+    <text>Twice daily, can be placed in front of a locked object to unlock it (functions as the spell “Knock”). At this point, the statue comes to life in order to pick the lock. After the lock is picked (or if he is unable to open it), reverts back to an inanimate statue.</text>
+    <text />
+    <text>While picking the lock, the Nit Picker critiques any or all members of the party on their recent performance in the campaign. Nothing escapes the critical eye of the Nit Picker, no matter how small the perceived offense.</text>
+    <text />
+    <text>Source: The Adventure Zone podcast</text>
+  </item>
+</compendium>

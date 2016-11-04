@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <item>
+    <name>Potion of Growth</name>
+    <type>P</type>
+    <weight>0.5</weight>
+    <text>Rarity: Uncommon</text>
+    <text>When you drink this potion, you gain the "enlarge" effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.</text>
+    <text />
+    <text>Source: Dungeon Master's Guide, page 187</text>
+    <roll>1d4</roll>
+  </item>
+</compendium>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <item>
+    <name>Bracers of Bolting</name>
+    <type>W</type>
+    <weight>0.5</weight>
+    <text>Requires Attunement</text>
+    <text />
+    <text>Your unarmed strikes deal lightning damage.</text>
+    <text>On your turn when you damage a creature with an unarmed strike, you may choose to teleport to an unoccupied space within 5 feet of that creature. If you choose to do so you appear to pass through that creature as a bolt of lightning.</text>
+    <text />
+    <text>Source: Etienne van Delden</text>
+  </item>
+</compendium>

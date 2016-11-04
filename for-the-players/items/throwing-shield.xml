@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <item>
+    <name>Throwing Shield</name>
+    <type>S</type>
+    <weight>6</weight>
+    <ac>2</ac>
+    <modifier category="bonus">ac +1</modifier>
+    <range>30/30</range>
+    <property>T</property>
+    <dmg1>1d8</dmg1>
+    <text>Confers the same AC bonus as a regular shield, and can be used as a thrown weapon.</text>
+    <text/>
+    <text>Can travel IN A STRAIGHT LINE up to 30 feet, and deals 1d8 + STR/Prof. Damage.</text>
+    <text/>
+    <text>IT DOESN’T COME BACK TO YOU AFTERWARDS. AND DON’T TRY TO RICOCHET THIS SHIT.</text>
+    <text/>
+    <text>Source: The Adventure Zone podcast</text>
+  </item>
+</compendium>

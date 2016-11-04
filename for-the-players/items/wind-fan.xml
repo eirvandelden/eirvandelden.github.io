@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <item>
+    <name>Wind Fan</name>
+    <type>W</type>
+    <text>Rarity: Uncommon</text>
+    <text>While holding this fan, you can use an action to cast the gust of wind spell (save DC 13) from it. Once used, the fan shouldn't be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.</text>
+    <text />
+    <text>Source: Dungeon Master's Guide, page 213</text>
+  </item>
+</compendium>

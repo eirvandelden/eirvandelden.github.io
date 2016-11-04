@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+	<item>
+		<name>Bracers of Defense</name>
+		<type>W</type>
+		<text>Requires Attunement</text>
+		<text />
+		<text>While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.</text>
+		<text />
+		<text>Source: Dungeon Master's Guide, page 156</text>
+		<modifier category="bonus">ac +2</modifier>
+	</item>
+</compendium>

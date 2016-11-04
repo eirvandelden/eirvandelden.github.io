@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <item>
+    <name>Fork of Gluttony</name>
+    <type>W</type>
+    <weight>0.5</weight>
+    <text>Once per day you may tap a non-magical item and it turns edible. If you eat the turned item, you regain 2d6 hit points.</text>
+    <text />
+    <text>Source: Etienne van Delden</text>
+    <roll>2d6</roll>
+  </item>
+</compendium>

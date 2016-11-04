@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <item>
+    <name>Leopard 2A7 Mark I</name>
+    <type>W</type>
+    <text>Portable mode:</text>
+    <text>While in portable mode, the Leopard 2A7 Mark I is a key with button on it. When the button is pressed, the Leopard 2A7 Mark I toggles to battle mode.</text>
+    <text>Battle Mode:</text>
+    <text>While in battle mode the Leopard 2A7 Mark I is a Medium-sized tank, that counts as a mount.</text>
+    <text>The Leopard 2A7 Mark I retains any damage it takes between transformations.</text>
+    <text>If the Leopard 2A7 Mark I is destroyed, it reverts back to its Portable Mode. Seven days later, all damage it took is reset to 0 and the Leopard 2A7 Mark I can be used again</text>
+    <text>The Leopard 2A7 Mark I has the following stats.</text>
+    <text>AC: 16</text>
+    <text>HP: 4+2d8 (rolled each time it transforms into Battle Mode. Then apply all damage it took.)</text>
+    <text>Speed: 30 ft.</text>
+    <text>Mounted Cannon Attack: Make a Ranged Weapon Attack; +6 to hit, range 30/60 ft, one target. Hit: 2d10 fire damage</text>
+    <text />
+    <text>source: Etienne van Delden</text>
+    <roll>2d8+4</roll>
+    <range>30/60</range>
+    <dmg2>2d10</dmg2>
+  </item>
+</compendium>

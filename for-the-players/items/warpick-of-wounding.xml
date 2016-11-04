@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <item>
+    <name>Warpick of Wounding</name>
+    <type>M</type>
+    <weight>2</weight>
+    <dmg1>1d8</dmg1>
+    <dmgType>P</dmgType>
+    <property>F</property>
+    <text>Requires Attunement</text>
+    <text>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target.</text>
+    <text>At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</text>
+    <text/>
+    <text>Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.</text>
+    <text/>
+    <text>Source: Etienne van Delden</text>
+    <roll>1d4</roll>
+  </item>
+</compendium>

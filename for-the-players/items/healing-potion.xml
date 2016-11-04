@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <item>
+    <name>Potion of Healing</name>
+    <type>P</type>
+    <weight>0.5</weight>
+    <text>You regain 2d4 + 2 hit points when you drink this potion.  The potion's red liquid glimmers when agitated.</text>
+    <text />
+    <text>Source: Dungeon Master's Guide, page 187</text>
+    <roll>2d4+2</roll>
+  </item>
+</compendium>
