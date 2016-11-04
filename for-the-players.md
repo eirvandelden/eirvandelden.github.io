@@ -1,0 +1,63 @@
+---
+layout: two-col
+title: For the players
+description: "All things Dungeon & Dragons."
+image:
+  feature: deneki.jpg
+comments: false
+permalink: /for-the-players/
+---
+
+  Are you in my *friday afternoon* D&D session? Are you in my *saturday* D&D session?
+
+  This page contains all the rules, homebrew options and world information you need!
+
+# Rules
+
+* [Optional & Hombrew Rules]({{site.url}}/for-the-players/homebrew-rules)
+* [Items]({{site.url}}/for-the-players/items/)
+
+# Deneki
+
+* [World]({{site.url}}/for-the-players/world-of-deneki)
+* [History]({{site.url}}/for-the-players/history-of-deneki)
+* [Location]({{site.url}}/for-the-players/locations-in-deneki)
+
+
+# Player Characters
+
+## Friday group
+
+* Grimkyl Bronzehead
+* Bhalrik Bronzehead
+* Astro Beamtwig
+* Quen Starflower
+
+## Saturday group
+
+* Fairuza
+* Little Crow
+* Moras
+* Zaldar
+* Quinthia
+
+# Races
+_Emphasized_ races are playable races
+
+* _Humans_
+* Elven subraces:
+  * _High Elves_
+  * _Wood Elves_
+  * _Dark Elves_, commonly known as Drow
+* Dwarven Subraces:
+  * _Hill Dwarf_
+  * _Mountain Dwarf_
+  * Gray Dwarf, commonly known as Duergar
+* [_Gnolls_]({{site.url}}/for-the-players/gnolls)
+* [_Gnomes_]({{site.url}}/for-the-players/gnomes)
+* _Warforged_
+* _Halflings_
+* _Thieflings_
+* _Aasimar_
+* Kobolds
+
