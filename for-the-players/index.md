@@ -40,8 +40,8 @@ permalink: /for-the-players/
 * Fairuza
 * Little Crow
 * Moras
-* Zaldar
-* Quinthia
+* [Quinthia]({{site.url}}/for-the-players/pcs/quinthia)
+* [Zaldar]({{site.url}}/for-the-players/pcs/zaldar)
 
 # Races
 _Emphasized_ races are playable races
