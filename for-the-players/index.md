@@ -15,6 +15,8 @@ permalink: /for-the-players/
 # Rules
 
 * [Optional & Hombrew Rules]({{site.url}}/for-the-players/homebrew-rules)
+
+# Items
 * [Items]({{site.url}}/for-the-players/items/)
 
 # Deneki
@@ -28,10 +30,10 @@ permalink: /for-the-players/
 
 ## Friday group
 
-* Grimkyl Bronzehead
-* Bhalrik Bronzehead
-* Astro Beamtwig
-* Quen Starflower
+* [Grimkyl Bronzehead]({{site.url}}/for-the-players/pcs/grimkyl)
+* [Bhalrik Bronzehead]({{site.url}}/for-the-players/pcs/bhalrik)
+* [Astro Beamtwig]({{site.url}}/for-the-players/pcs/astro)
+* [Quen Starflower]({{site.url}}/for-the-players/pcs/quen)
 
 ## Saturday group
 
