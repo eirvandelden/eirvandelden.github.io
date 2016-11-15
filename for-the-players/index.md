@@ -34,6 +34,8 @@ permalink: /for-the-players/
 * [Bhalrik Bronzehead]({{site.url}}/for-the-players/pcs/bhalrik)
 * [Astro Beamtwig]({{site.url}}/for-the-players/pcs/astro)
 * [Quen Starflower]({{site.url}}/for-the-players/pcs/quen)
+* [Quarion O'Carrick]({{site.url}}/for-the-players/pcs/quarion)
+* Hacklor
 
 ## Saturday group
 
