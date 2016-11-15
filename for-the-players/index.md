@@ -53,10 +53,10 @@ _Emphasized_ races are playable races
   * _High Elves_
   * _Wood Elves_
   * _Dark Elves_, commonly known as Drow
-* Dwarven Subraces:
+* [Dwarven](({{site.url}}/for-the-players/dwarves)) Subraces:
   * _Hill Dwarf_
   * _Mountain Dwarf_
-  * Gray Dwarf, commonly known as Duergar
+  * Dark Dwarf, commonly known as Duergar
 * [_Gnolls_]({{site.url}}/for-the-players/gnolls)
 * [_Gnomes_]({{site.url}}/for-the-players/gnomes)
 * _Warforged_
