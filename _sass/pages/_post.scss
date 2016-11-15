@@ -31,26 +31,27 @@
 }
 
 .post-title-link {
-	color: $primary;
-	font-size: 14px;
-	margin-left: 10px;
-	&:hover,
-	&:focus {
-		color: lighten($primary, 14%);
-	}
+  color: $primary;
+  font-size: 14px;
+  margin-left: 10px;
+  &:hover,
+  &:focus {
+    color: lighten($primary, 14%);
+  }
 }
 
 // Post meta
 .post-meta {
   font-size: 13px;
   font-weight: lighter;
-	.post-date {
-		color: $secondary;
-	}
-	.post-cat {
-		text-transform: uppercase;
-		color: $primary;
-	}
+  .post-date {
+    text-transform: lowercase;
+    color: $secondary;
+  }
+  .post-cat {
+    text-transform: lowercase;
+    color: $secondary;
+  }
   .read-time {
     color: $primary;
   }
