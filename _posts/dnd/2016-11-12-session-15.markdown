@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐲Session 15: "
+title: "🐲Session 15: Trouble in Drellin's Ferry and Vraath Keep"
 categories: dungeons-and-dragons
 tags: [5e, Campaign-Red Hand of Doom, Adventure log]
 comments: true
