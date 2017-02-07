@@ -17,6 +17,7 @@ permalink: /for-the-players/
 * [Optional & Hombrew Rules]({{site.url}}/for-the-players/homebrew-rules)
 
 # Items
+
 * [Items]({{site.url}}/for-the-players/items/)
 
 # Deneki
@@ -30,22 +31,30 @@ permalink: /for-the-players/
 
 ## Friday group
 
-* [Grimkyl Bronzehead]({{site.url}}/for-the-players/pcs/grimkyl)
 * [Bhalrik Bronzehead]({{site.url}}/for-the-players/pcs/bhalrik)
 * [Astro Beamtwig]({{site.url}}/for-the-players/pcs/astro)
 * [Quen Starflower]({{site.url}}/for-the-players/pcs/quen)
 * [Quarion O'Carrick]({{site.url}}/for-the-players/pcs/quarion)
+* [Elphísh]({{site.url}}/for-the-players/pcs/elphish)
 * Hacklor
+
+### Former members of Friday group
+
+* [Grimkyl Bronzehead]({{site.url}}/for-the-players/pcs/grimkyl)
 
 ## Saturday group
 
 * Fairuza
 * Little Crow
 * Moras
-* [Quinthia]({{site.url}}/for-the-players/pcs/quinthia)
 * [Zaldar]({{site.url}}/for-the-players/pcs/zaldar)
 
+### Former members of Saturday group
+
+* [Quinthia]({{site.url}}/for-the-players/pcs/quinthia)
+
 # Races
+
 _Emphasized_ races are playable races
 
 * _Humans_
@@ -64,4 +73,3 @@ _Emphasized_ races are playable races
 * _Thieflings_
 * _Aasimar_
 * Kobolds
-
