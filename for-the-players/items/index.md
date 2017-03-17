@@ -25,6 +25,7 @@ _Deekin has his shop in Neverwinter. Help Deekin expand his availability around 
 * [Fork of Gluttony]({{site.url}}/for-the-players/items/fork-of-gluttony)
 * [Haunted Doll]({{site.url}}/for-the-players/items/haunted-doll)
 * [Healing Potion]({{site.url}}/for-the-players/items/healing-potion)
+* [Horn of Valhalla (Brass)]({{site.url}}/for-the-players/items/brass-horn-of-valhalla)
 * [Hunters Sniper Rifle]({{site.url}}/for-the-players/items/hunters-sniper-rifle)
 * [Javelin of Lightning]({{site.url}}/for-the-players/items/javelin-of-lightning)
 * [Leopard 2A7 Mark I Tank]({{site.url}}/for-the-players/items/leopard-2a7-mark-1)
