@@ -9,7 +9,7 @@ categories: dungeons-and-dragons
 Human Sorcerer
 
 * Sister: Zara Mensk
-* Brother: Boldr Mensk
+* Brother: Bord Mensk
 * Teacher: Tjorven
 
 ## Biography
