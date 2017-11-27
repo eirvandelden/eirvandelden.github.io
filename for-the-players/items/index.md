@@ -18,6 +18,7 @@ _Deekin has his shop in Neverwinter. Help Deekin expand his availability around 
 
 ## Items for sale
 * [Battle Standard of Rathma's Healing]({{site.url}}/for-the-players/items/battle-standard-of-rathmas-healing)
+* [Battle Standard of Rathma's Might]({{site.url}}/for-the-players/items/battle-standard-of-rathmas-might)
 * [Beads of Force]({{site.url}}/for-the-players/items/beads-of-force)
 * [Bracers of Bolting]({{site.url}}/for-the-players/items/bracers-of-bolting)
 * [Bracers of Defense]({{site.url}}/for-the-players/items/bracers-of-defense)
@@ -32,6 +33,7 @@ _Deekin has his shop in Neverwinter. Help Deekin expand his availability around 
 * [Nit Picker]({{site.url}}/for-the-players/items/nit-picker)
 * [Phone a friend scrying bones]({{site.url}}/for-the-players/items/phone-a-friend-scrying-bones)
 * [Potion of Growth]({{site.url}}/for-the-players/items/potion-of-growth)
+* [Protector's sash]({{site.url}}/for-the-players/items/protectors-sash)
 * [Shield of Heroic Memories]({{site.url}}/for-the-players/items/shield-of-heroic-memories)
 * [Smoke Grenade]({{site.url}}/for-the-players/items/smoke-grenade)
 * [Teapot of Endless Tea]({{site.url}}/for-the-players/items/teapot-of-endless-tea)

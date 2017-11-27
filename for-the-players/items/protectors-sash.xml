@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <item>
+    <name>Protector's Sash</name>
+    <type>W</type>
+    <weight>0.5</weight>
+    <text>Requires Attunement</text>
+    <text />
+    <text>These sashes are a favorite by servants in hot climates. They come in a variety of colors and slightly increases the reflexes of the wearer.</text>
+    <text>Whenever an adjacent enemy attacks an ally, you can use your reaction to make one melee attack against the provoking creature.</text>
+    <text />
+    <text>Source: Etienne van Delden</text>
+  </item>
+</compendium>
