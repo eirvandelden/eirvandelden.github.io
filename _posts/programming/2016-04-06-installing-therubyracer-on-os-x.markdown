@@ -15,4 +15,4 @@ Another one of those troublesome gems, here is my definite guide to installing `
 
     bundle install
 
-**Note** If you only need `libv8`, see [my post about installing libv8 on OS X]({% post_url 2016-04-06-installing-libv8-on-os-x %})
+**Note** If you only need `libv8`, see [my post about installing libv8 on OS X]({% post_url /programming/2016-04-06-installing-libv8-on-os-x %})

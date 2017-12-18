@@ -10,4 +10,4 @@ Another one of those troublesome gems, here is my definite guide to installing `
     bundle config build.libv8 --with-system-v8
     bundle install
 
-**Note** If you also need `therubyracer`, see [my post about installing therubyracer on OS X]({% post_url 2016-04-06-installing-therubyracer-on-os-x %})
+**Note** If you also need `therubyracer`, see [my post about installing therubyracer on OS X]({% post_url /programming/2016-04-06-installing-therubyracer-on-os-x %})
