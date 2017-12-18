@@ -2,21 +2,51 @@
 %}
 <div class="overlay"></div>
 <div class="cover-card table-cell table-bottom">
-	{% if author.avatar %}
-	<img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar"> {% endif %}
-	<span class="author_name">{{ author.name }}</span>
-	<span class="author_job">{{ author.job }}</span>
-	<span class="author_bio mbm">{{ author.bio }}</span>
-	<nav class="nav">
-		<ul class="nav-list">
-			<li class="nav-item">
-				<a href="/">Home</a><span> •</span>
-			</li>
-			<li class="nav-item"><a href="/dnd/">Dungeons & Dragons</a><span> •</span></li>
-			<li class="nav-item"><a href="/for-the-players/">For the players</a><span> •</span></li>
-			<li class="nav-item"><a href="/developing/">developing</a><span> •</span></li>
-			</li>
-		</ul>
-	</nav>
-	{% include social-links.html %}
+  {% if author.avatar %}
+  <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar"> {% endif %}
+  <span class="author_name">{{ author.name }}</span>
+  <span class="author_job">{{ author.job }}</span>
+  <span class="author_bio mbm">{{ author.bio }}</span>
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-item">
+        <a><strong>Blog posts</strong><span><br /></span></a>
+      </li>
+    </ul>
+    <ul class="nav-list">
+      <li class="nav-item">
+          <a href="/developing/">all</a><span> •</span>
+      </li>
+      <li class="nav-item"><a href="/dnd/">Dungeons & Dragons</a><span> •</span></li>
+      <li class="nav-item"><a href="/developing/">developing</a><span> •</span></li>
+      <li class="nav-item"><a href="/inspiration/">inspirational</a><span> •</span></li>
+      </li>
+    </ul>
+    <ul class="nav-list">
+      <li class="nav-item">
+          <a><strong>For my D&D players</strong><span><br /></span></a>
+        </li>
+    </ul>
+  </nav>
+  <nav class="nav">
+      <ul class="nav-list">
+        <li class="nav-item">
+          <a href="/for-the-players/world-of-deneki">World</a><span> •</span>
+        </li>
+        <li class="nav-item">
+          <a href="/for-the-players/history-of-deneki">History</a><span> •</span>
+        </li>
+        <li class="nav-item">
+          <a href="/for-the-players/homebrew-rules">Homebrew/Optional Rules</a><span> •</span>
+        </li>
+        <li class="nav-item">
+          <a href="/for-the-players/items">Items</a><span> •</span>
+        </li>
+        <li class="nav-item"><a href="/for-the-players/gnolls">Gnolls</a><span> •</span></li>
+        <li class="nav-item"><a href="/for-the-players/gnomes">Gnomes</a><span> •</span></li>
+        <li class="nav-item"><a href="/for-the-players/dwarves">Dwarves</a></li>
+        </li>
+      </ul>
+    </nav>
+  {% include social-links.html %}
 </div>
