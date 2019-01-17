@@ -13,6 +13,11 @@ description: My random ramblings about developing, Dungeons & Dragons and life.
 # Then, the 'url' is: http://yourname.github.io/projectname
 url: http://eirvandelden.com
 
+collections:
+  dnd-events:
+    output: true
+    permalink: /dnd-history-events/:path/
+
 #
 ###################################
 # Jekyll configuration
@@ -22,6 +27,7 @@ markdown:           kramdown
 highlighter:        rouge
 excerpt_separator:  <!--more-->
 timezone:           Europe/Amsterdam
+remote_theme: swanson/lagom
 
 kramdown:
   auto_ids: true
@@ -40,7 +46,7 @@ owner:
   avatar: etienne.png
   job: "Dungeon Master. Software Artisan."
   bio: ""
-  email: eirvandelden@me.com
+  email: etienne@vandelden.family
   disqus-shortname: eirvandelden
   twitter: eirvandelden
   facebook: eirvandelden
@@ -52,7 +58,7 @@ owner:
     ad-slot:
   bing-verify:
   github: eirvandelden
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 3350705/etienne-van-delden #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
