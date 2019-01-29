@@ -13,9 +13,11 @@ If you have a project where you have:
 
 Then you are stuck using `mysql2 -v 0.3.x` branch, which does not natively build anymore. To "fix" this, we have to install MySQL5.7 and point bundler to the mysql config file:
 
-    brew install mysql@5.7
-    brew info mysql@5.7 (take note of the install direcotry)
-    bundle config build.mysql2 --with-mysql-config=/usr/local/Cellar/mysql\@5.7/5.7.24/bin/mysql_config
-    bundle install
+````bash
+  brew install mysql@5.7
+  brew info mysql@5.7 #take note of the install direcotry
+  bundle config build.mysql2 --with-mysql-config=/usr/local/Cellar/mysql\@5.7/5.7.24/bin/mysql_config
+  bundle install
+```
 
 Now fix that bug and tell your client that we have maintenance to do and upgrade to Rails 4.2.2 or higher and gain a free speed improvement by upgrading to Ruby 2.3.
