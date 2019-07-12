@@ -9,6 +9,7 @@ image:
   feature: gnoll-feature.jpg
 tags: [5e, Deneki, Race]
 comments: true
+published: false
 ---
 
 Gnolls, Worgen, Werewolves, these are all names for the same canine like race.

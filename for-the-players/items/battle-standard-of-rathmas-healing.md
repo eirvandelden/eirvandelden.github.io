@@ -4,6 +4,7 @@ title:  "Battle Standard of Rathma's Healing"
 date:   2016-08-29
 categories: jekyll update
 excerpt: "Deekin always puts one of these in his bags!"
+published: false
 ---
 
 With the press of a button, this small stick expands to a full 8 feet banner. The flag is a white flag, emblazoned with runes of healing. In the centre is the imagery of a sickle and bone, crossed upon a field of grain, the symbol of Rathma.

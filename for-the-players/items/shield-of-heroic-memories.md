@@ -3,6 +3,7 @@ layout: post
 title:  "Shield of Heroic Memories  (1200 GP)"
 date:   2016-03-10 12:36:11 +0100
 categories: jekyll update
+published: false
 ---
 
 This perfectly round silver shield initially has a mirror finish. As a hero takes it into battle it remembers the enemies encountered, gaining a +1 to AC on any subsequent battle with creatures of that type. The events of the battle are intricately engraved onto the shield’s surface (which has a seemingly endless capacity for detail).

@@ -4,6 +4,7 @@ title:  "Throwing Shield  (1200 GP)"
 date:   2016-03-10 12:36:11 +0100
 categories: jekyll update
 excerpt: "Confers the same AC bonus as a regular shield, and can be used as a thrown weapon."
+published: false
 ---
 
 Confers the same AC bonus as a regular shield, and can be used as a thrown weapon. Can travel IN A STRAIGHT LINE up to 30 feet, and deals 1d8 + STR/Prof. Damage.

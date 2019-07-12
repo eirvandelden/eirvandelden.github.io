@@ -1,7 +1,8 @@
 ---
 layout: two-col
-title:  "Items"
+title: "Items"
 categories: jekyll update
+published: false
 ---
 
 

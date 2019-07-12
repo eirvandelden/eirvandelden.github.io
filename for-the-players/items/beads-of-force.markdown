@@ -4,6 +4,7 @@ title:  "Beads of Force"
 date:   2016-08-29
 categories: jekyll update
 excerpt: "In a _puff_ of smoke"
+published: false
 ---
 
 This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 beads of force are found together.

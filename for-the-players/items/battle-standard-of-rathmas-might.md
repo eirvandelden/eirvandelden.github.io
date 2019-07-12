@@ -4,6 +4,7 @@ title:  "Battle Standard of Rathma's Might (750GP)"
 date:   2017-08-17
 categories: jekyll update
 excerpt: "Deekin Smash!"
+published: false
 ---
 
 With the press of a button, this small stick expands to a full 8 feet banner. The flag is a red flag, emblazoned with runes of strength. In the centre is the imagery of a sickle and bone, crossed upon a field of grain, the symbol of Rathma.

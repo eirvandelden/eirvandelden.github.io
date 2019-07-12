@@ -4,6 +4,7 @@ title:  "Bracers of Bolting  (500 GP)"
 date:   2016-03-31 12:36:11 +0100
 categories: jekyll update
 excerpt: "Power! Unlimited Power!"
+published: false
 ---
 
 These red leather bracers cover almost your entire lower arm and are etched with a yellow lightning bolt. When you reach out for the bracers, you stung by static electricity.
