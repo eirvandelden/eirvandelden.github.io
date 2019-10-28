@@ -70,3 +70,5 @@ owner:
 
 plugins:
   - jemoji
+
+theme: jekyll-theme-minimal
