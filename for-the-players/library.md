@@ -42,6 +42,7 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/4e-ess-hfk.jpg" style="width:200px;">
 <img src="/img/library/4e-ess-mv-box.jpg" style="width:200px;">
 <img src="/img/library/4e-ess-rc.jpg" style="width:200px;">
+<img src="/img/library/4e-redbox.jpg" style="width:200px;">
 <img src="/img/library/4e-core-slip.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-screen.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-dscreen.jpg" style="width:200px;">
@@ -70,6 +71,7 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/4e-dn6.jpg" style="width:200px;">
 <img src="/img/library/4e-dn7.jpg" style="width:200px;">
 <img src="/img/library/4e-du1.jpg" style="width:200px;">
+<img src="/img/library/4e-du7.jpg" style="width:200px;">
 
 # 3.5th Edition
 
