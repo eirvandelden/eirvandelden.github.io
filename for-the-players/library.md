@@ -20,6 +20,7 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/5e-dmg.jpg" style="width:200px;">
 <img src="/img/library/5e-adv-hb-aver-le.jpg" style="width:200px;">
 <img src="/img/library/5e-foesb.jpg" style="width:200px;">
+<img src="/img/library/5e-acc-rising-le.jpg" style="width:200px;">
 <img src="/img/library/5e-acc-screen-re.jpg" style="width:200px;">
 <img src="/img/library/5e-acc-tac.jpg" style="width:200px;">
 <img src="/img/library/5e-dt-dung.jpg" style="width:200px;">
