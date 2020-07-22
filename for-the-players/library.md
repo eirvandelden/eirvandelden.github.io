@@ -51,13 +51,14 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/4e-acc-screen.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-dscreen.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-record.jpg" style="width:200px;">
-<img src="/img/library/4e-h1.jpg" style="width:200px;">
 <img src="/img/library/4e-fr-hb-camp.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-hb-menzo.jpg" style="width:200px;">
 <img src="/img/library/4e-fr-hb-never.jpg" style="width:200px;">
-<!-- <img src="/img/library/4e-h3.jpg" style="width:200px;"> -->
-<!-- <img src="/img/library/4e-p1.jpg" style="width:200px;"> -->
-<!-- <img src="/img/library/4e-p2.jpg" style="width:200px;"> -->
+<img src="/img/library/4e-h1.jpg" style="width:200px;">
+<img src="/img/library/4e-h2.jpg" style="width:75px;">
+<img src="/img/library/4e-h3.jpg" style="width:200px;">
+<img src="/img/library/4e-p1.jpg" style="width:200px;">
+<img src="/img/library/4e-p2.jpg" style="width:200px;">
 <img src="/img/library/4e-p3.jpg" style="width:200px;">
 <img src="/img/library/4e-hs1.jpg" style="width:200px;">
 <img src="/img/library/4e-hs2.jpg" style="width:200px;">
@@ -66,10 +67,6 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/4e-adv-hb-tomb.jpg" style="width:200px;">
 <img src="/img/library/4e-reward-hommlet.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-vile.jpg" style="width:200px;">
-<!-- <img src="/img/library/4e-enc-evard.jpg" style="width:200px;"> -->
-<!-- <img src="/img/library/4e-la-dawntitan.jpg" style="width:200px;"> -->
-<!-- <img src="/img/library/4e-la-talon.jpg" style="width:200px;"> -->
-<!-- <img src="/img/library/4e-la-tyrant.jpg" style="width:200px;"> -->
 <img src="/img/library/4e-acc-hb-delve.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-hb-av.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-hb-av2.jpg" style="width:200px;">
@@ -77,7 +74,7 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/4e-po-shadow.jpg" style="width:200px;">
 <img src="/img/library/4e-power-arcane.jpg" style="width:200px;">
 <img src="/img/library/4e-power-divine.jpg" style="width:200px;">
-<!-- <img src="/img/library/4e-acc-hb-above.jpg" style="width:200px;"> -->
+<img src="/img/library/4e-acc-hb-above.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-hb-strat.jpg" style="width:200px;">
 <img src="/img/library/4e-ess-city.jpg" style="width:200px;">
 <img src="/img/library/4e-ess-dun.jpg" style="width:200px;">
@@ -86,12 +83,13 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/4e-dn6.jpg" style="width:200px;">
 <img src="/img/library/4e-dn7.jpg" style="width:200px;">
 <img src="/img/library/4e-du1.jpg" style="width:200px;">
-<!-- <img src="/img/library/4e-du6" style="width:200px;"> -->
+<img src="/img/library/4e-du6" style="width:200px;">
 <img src="/img/library/4e-du7.jpg" style="width:200px;">
 
 # 3rd Edition
 
 <img src="/img/library/3d-hb-cs.jpg" style="width:200px;">
+<!-- <img src="/img/library/3e2-heart.jpg" style="width:200px;"> -->
 
 # 2nd Edition
 
@@ -103,7 +101,7 @@ At the bottom is a list of things I still want for D&D.
 
 <img src="/img/library/mcdm-stronghold-and-followers.jpg" style="width:200px;">
 <img src="/img/library/the-monsters-know-what-theyre-doing.jpg" style="width:200px;">
-
+<!-- <img src="/img/library/13thage.jpg" style="width:200px;"> -->
 
 ## Wanted: 5th Edition
 
@@ -127,7 +125,6 @@ This is the current edition, all books should be in print.
 This is an earlier edition; everything can only be found at the secondhand market.
 
 * <img src="/img/library/4e-box-gloom.jpg" style="width:75px;"> The Shadowfell: Gloomwrought and beyond
-* <img src="/img/library/4e-h2.jpg" style="width:75px;"> H2
 * <img src="/img/library/4e-e1.jpg" style="width:75px;"> E1
 * <img src="/img/library/4e-e2.jpg" style="width:75px;"> E2
 * <img src="/img/library/4e-e3.jpg" style="width:75px;"> E3
