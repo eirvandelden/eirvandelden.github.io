@@ -23,10 +23,10 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/5e-acc-rising-le.jpg" style="width:200px;">
 <img src="/img/library/5e-adv-hb-aver-le.jpg" style="width:200px;">
 <img src="/img/library/5e-acc-screen-re.jpg" style="width:200px;">
-<img src="/img/library/5e-acc-tac.jpg" style="width:200px;">
-<img src="/img/library/5e-acc-grid.jpg" style="width:200px;">
 <img src="/img/library/5e-dt-dung.jpg" style="width:200px;">
 <img src="/img/library/5e-dt-wild.jpg" style="width:200px;">
+<img src="/img/library/5e-acc-tac.jpg" style="width:200px;">
+<img src="/img/library/5e-acc-grid.jpg" style="width:200px;">
 <img src="/img/library/5e-map-rav.jpg" style="width:200px;">
 <img src="/img/library/5e-dice-rav.jpg" style="width:200px;">
 
@@ -55,7 +55,7 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/4e-acc-hb-menzo.jpg" style="width:200px;">
 <img src="/img/library/4e-fr-hb-never.jpg" style="width:200px;">
 <img src="/img/library/4e-h1.jpg" style="width:200px;">
-<img src="/img/library/4e-h2.jpg" style="width:75px;">
+<img src="/img/library/4e-h2.jpg" style="width:200px;">
 <img src="/img/library/4e-h3.jpg" style="width:200px;">
 <img src="/img/library/4e-p1.jpg" style="width:200px;">
 <img src="/img/library/4e-p2.jpg" style="width:200px;">
@@ -83,13 +83,13 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/4e-dn6.jpg" style="width:200px;">
 <img src="/img/library/4e-dn7.jpg" style="width:200px;">
 <img src="/img/library/4e-du1.jpg" style="width:200px;">
-<img src="/img/library/4e-du6" style="width:200px;">
+<img src="/img/library/4e-du6.jpg" style="width:200px;">
 <img src="/img/library/4e-du7.jpg" style="width:200px;">
 
 # 3rd Edition
 
 <img src="/img/library/3d-hb-cs.jpg" style="width:200px;">
-<!-- <img src="/img/library/3e2-heart.jpg" style="width:200px;"> -->
+<img src="/img/library/3e2-heart.jpg" style="width:200px;">
 
 # 2nd Edition
 
@@ -101,21 +101,22 @@ At the bottom is a list of things I still want for D&D.
 
 <img src="/img/library/mcdm-stronghold-and-followers.jpg" style="width:200px;">
 <img src="/img/library/the-monsters-know-what-theyre-doing.jpg" style="width:200px;">
-<!-- <img src="/img/library/13thage.jpg" style="width:200px;"> -->
+<img src="/img/library/13thage.jpg" style="width:200px;">
 
 ## Wanted: 5th Edition
 
 This is the current edition, all books should be in print.
 
-* <img src="/img/library/5e-adv-hb-tales.jpg" style="width:75px;"> Tales of the Yawning Portal
-* <img src="/img/library/5e-adv-hb-tod.jpg" style="width:75px;"> Tyranny of Dragons
-* <img src="/img/library/5e-adv-hb-curse.jpg" style="width:75px;"> Curse of Strahd
-* <img src="/img/library/5e-adv-hb-abyss.jpg" style="width:75px;"> Out of the Abyss
-* <img src="/img/library/5e-volo.jpg" style="width:75px;"> Volo's Guide to Monters
-* <img src="/img/library/5e-adv-hb-storm.jpg" style="width:75px;"> Storm King's Thunder
-* <img src="/img/library/5e-adv-hb-heist.jpg" style="width:75px;"> Waterdeep: Dragon Heist
-* <img src="/img/library/5e-adv-hb-mad.jpg" style="width:75px;"> Waterdeep: Dungeon of the Mad Mage
-* <img src="/img/library/5e-adv-hb-tomb.jpg" style="width:75px;"> Tomb of Annihilation
+<img src="/img/library/5e-adv-hb-tales.jpg" style="width:75px;"> Tales of the Yawning Portal
+<img src="/img/library/5e-adv-hb-tod.jpg" style="width:75px;"> Tyranny of Dragons
+<img src="/img/library/5e-adv-hb-curse.jpg" style="width:75px;"> Curse of Strahd
+<img src="/img/library/5e-adv-hb-abyss.jpg" style="width:75px;"> Out of the Abyss
+<img src="/img/library/5e-volo.jpg" style="width:75px;"> Volo's Guide to Monters
+<img src="/img/library/5e-adv-hb-storm.jpg" style="width:75px;"> Storm King's Thunder
+<img src="/img/library/5e-adv-hb-heist.jpg" style="width:75px;"> Waterdeep: Dragon Heist
+<img src="/img/library/5e-adv-hb-mad.jpg" style="width:75px;"> Waterdeep: Dungeon of the Mad Mage
+<img src="/img/library/5e-adv-hb-tomb.jpg" style="width:75px;"> Tomb of Annihilation
+
 * Monster Manual
 * Starter Set
 * Essentials Kit
@@ -124,41 +125,42 @@ This is the current edition, all books should be in print.
 
 This is an earlier edition; everything can only be found at the secondhand market.
 
-* <img src="/img/library/4e-box-gloom.jpg" style="width:75px;"> The Shadowfell: Gloomwrought and beyond
-* <img src="/img/library/4e-e1.jpg" style="width:75px;"> E1
-* <img src="/img/library/4e-e2.jpg" style="width:75px;"> E2
-* <img src="/img/library/4e-e3.jpg" style="width:75px;"> E3
-* <img src="/img/library/4e-ds-mar.jpg" style="width:75px;"> Marauders of the Dune Sea
-* <img src="/img/library/4e-ess-dm-box.jpg" style="width:75px;"> Dungeon Master's Kit
-* <img src="/img/library/4e-ds-hb-campaign.jpg" style="width:75px;"> Darksun Campaign Setting
-* <img src="/img/library/4e-ds-hb-creature.jpg" style="width:75px;"> Darksun Creature Catalog
-* <img src="/img/library/4e-eb-hb-camp.jpg" style="width:75px;"> Eberron Campaign Guide
-* <img src="/img/library/4e-adv-hb-giants.jpg" style="width:75px;"> Revenge of the Giants
-* <img src="/img/library/4e-adv-hb-halls.jpg" style="width:75px;"> Halls of Undermountain
-* <img src="/img/library/4e-box-start.jpg" style="width:75px;"> Roleplaying game starter set
-* <img src="/img/library/4e-power-martial.jpg" style="width:75px;"> Martial Power
-* <img src="/img/library/4e-power-martial2.jpg" style="width:75px;"> Martial Power 2
-* <img src="/img/library/4e-acc-hb-planes.jpg" style="width:75px;"> Manual of the Planes
-* <img src="/img/library/4e-acc-hb-below.jpg" style="width:75px;"> Plane below
-* <img src="/img/library/4e-acc-hb-demon.jpg" style="width:75px;"> Demonomicon
-* <img src="/img/library/4e-acc-hb-chrom.jpg" style="width:75px;"> Draconomicon: Chromatic Dragons
-* <img src="/img/library/4e-acc-hb-metal.jpg" style="width:75px;"> Draconomicon: Metallic Dragons
-* <img src="/img/library/4e-power-primal.jpg" style="width:75px;"> Primal Power
-* <img src="/img/library/4e-power-psionic.jpg" style="width:75px;"> Psionic Power
-* <img src="/img/library/4e-po-chaos.jpg" style="width:75px;"> Heroes of Elemental Chaos
-* <img src="/img/library/4e-po-feywild.jpg" style="width:75px;"> Heroes of the Feywild
-* <img src="/img/library/4e-site-vr.jpg" style="width:75px;"> Vor Rukoth
-* <img src="/img/library/4e-site-hammer.jpg" style="width:75px;"> Hammerfast
-* <img src="/img/library/4e-acc-hb-dungann.jpg" style="width:75px;"> Dungeon Magazine Annual
-* <img src="/img/library/4e-fr-hb-pg.jpg" style="width:75px;"> Forgotten Realms Players Guide
-* <img src="/img/library/4e-eb-hb-pg.jpg" style="width:75px;"> Eberron's Players Guide
+<img src="/img/library/4e-box-gloom.jpg" style="width:75px;"> The Shadowfell: Gloomwrought and beyond
+<img src="/img/library/4e-e1.jpg" style="width:75px;"> E1: Death's Reach
+<img src="/img/library/4e-e2.jpg" style="width:75px;"> E2: Kingdom of Ghouls
+<img src="/img/library/4e-e3.jpg" style="width:75px;"> E3: Price of Undeath
+
+<img src="/img/library/4e-ds-mar.jpg" style="width:75px;"> Marauders of the Dune Sea
+<img src="/img/library/4e-ess-dm-box.jpg" style="width:75px;"> Dungeon Master's Kit
+<img src="/img/library/4e-ds-hb-campaign.jpg" style="width:75px;"> Darksun Campaign Setting
+<img src="/img/library/4e-ds-hb-creature.jpg" style="width:75px;"> Darksun Creature Catalog
+<img src="/img/library/4e-eb-hb-camp.jpg" style="width:75px;"> Eberron Campaign Guide
+<img src="/img/library/4e-adv-hb-giants.jpg" style="width:75px;"> Revenge of the Giants
+<img src="/img/library/4e-adv-hb-halls.jpg" style="width:75px;"> Halls of Undermountain
+<img src="/img/library/4e-box-start.jpg" style="width:75px;"> Roleplaying game starter set
+<img src="/img/library/4e-power-martial.jpg" style="width:75px;"> Martial Power
+<img src="/img/library/4e-power-martial2.jpg" style="width:75px;"> Martial Power 2
+<img src="/img/library/4e-acc-hb-planes.jpg" style="width:75px;"> Manual of the Planes
+<img src="/img/library/4e-acc-hb-below.jpg" style="width:75px;"> Plane below
+<img src="/img/library/4e-acc-hb-demon.jpg" style="width:75px;"> Demonomicon
+<img src="/img/library/4e-acc-hb-chrom.jpg" style="width:75px;"> Draconomicon: Chromatic Dragons
+<img src="/img/library/4e-acc-hb-metal.jpg" style="width:75px;"> Draconomicon: Metallic Dragons
+<img src="/img/library/4e-power-primal.jpg" style="width:75px;"> Primal Power
+<img src="/img/library/4e-power-psionic.jpg" style="width:75px;"> Psionic Power
+<img src="/img/library/4e-po-chaos.jpg" style="width:75px;"> Heroes of Elemental Chaos
+<img src="/img/library/4e-po-feywild.jpg" style="width:75px;"> Heroes of the Feywild
+<img src="/img/library/4e-site-vr.jpg" style="width:75px;"> Vor Rukoth
+<img src="/img/library/4e-site-hammer.jpg" style="width:75px;"> Hammerfast
+<img src="/img/library/4e-acc-hb-dungann.jpg" style="width:75px;"> Dungeon Magazine Annual
+<img src="/img/library/4e-fr-hb-pg.jpg" style="width:75px;"> Forgotten Realms Players Guide
+<img src="/img/library/4e-eb-hb-pg.jpg" style="width:75px;"> Eberron's Players Guide
 
 ## Wanted: 3rd Edition
 
 This is an earlier edition; everything can only be found at the secondhand market.
 
-* <img src="/img/library/3e2-mon-drow.jpg" style="width:75px;"> Drow of the Underdark
-* <img src="/img/library/3f-hb-cs.jpg" style="width:75px;"> Forgotten Realms Campaign Setting
-* <img src="/img/library/3e2-core35-phb.jpg" style="width:75px;"> Player's Handbook (3.5)
-* <img src="/img/library/3e2-core35-dmg.jpg" style="width:75px;"> Dungeon Master's Guide (3.5)
-* <img src="/img/library/3e2-core35-mm.jpg" style="width:75px;"> Monster Manual (3.5)
+<img src="/img/library/3e2-mon-drow.jpg" style="width:75px;"> Drow of the Underdark
+<img src="/img/library/3f-hb-cs.jpg" style="width:75px;"> Forgotten Realms Campaign Setting
+<img src="/img/library/3e2-core35-phb.jpg" style="width:75px;"> Player's Handbook (3.5)
+<img src="/img/library/3e2-core35-dmg.jpg" style="width:75px;"> Dungeon Master's Guide (3.5)
+<img src="/img/library/3e2-core35-mm.jpg" style="width:75px;"> Monster Manual (3.5)
