@@ -1,6 +1,6 @@
 ---
 title: Installing therubyracer on macOS Catalina
-date: 20202-01-14
+date: 2020-01-14
 layout: post
 categories: developing
 ---
