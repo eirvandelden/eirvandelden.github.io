@@ -20,6 +20,7 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/5e-dmg.jpg" style="width:200px;">
 <img src="/img/library/5e-foesb.jpg" style="width:200px;">
 <img src="/img/library/5e-acc-rav.jpg" style="width:200px;">
+<img src="/img/library/5e-acc-sj-le.jpg" style="width:200px;">
 <img src="/img/library/5e-acc-rising-le.jpg" style="width:200px;">
 <img src="/img/library/5e-adv-hb-aver-le.jpg" style="width:200px;">
 <img src="/img/library/5e-acc-screen-re.jpg" style="width:200px;">
@@ -29,6 +30,8 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/5e-acc-grid.jpg" style="width:200px;">
 <img src="/img/library/5e-map-rav.jpg" style="width:200px;">
 <img src="/img/library/5e-dice-rav.jpg" style="width:200px;">
+<img src="/img/library/5e-adv-hb-abyss.jpg" style="width:200px;">
+<img src="/img/library/5e-volo.jpg" style="width:200px;">
 
 
 # 4th Edition
@@ -45,6 +48,7 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/4e-ess-hfl.jpg" style="width:200px;">
 <img src="/img/library/4e-ess-hfk.jpg" style="width:200px;">
 <img src="/img/library/4e-ess-mv-box.jpg" style="width:200px;">
+<img src="/img/library/4e-ess-rc.jpg" style="width:200px;">
 <img src="/img/library/4e-ess-rc.jpg" style="width:200px;">
 <img src="/img/library/4e-redbox.jpg" style="width:200px;">
 <img src="/img/library/4e-core-slip.jpg" style="width:200px;">
@@ -74,6 +78,8 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/4e-po-shadow.jpg" style="width:200px;">
 <img src="/img/library/4e-power-arcane.jpg" style="width:200px;">
 <img src="/img/library/4e-power-divine.jpg" style="width:200px;">
+<img src="/img/library/4e-wp-races.jpg" style="width:200px;">
+<img src="/img/library/4e-wp-worlds.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-hb-above.jpg" style="width:200px;">
 <img src="/img/library/4e-acc-hb-strat.jpg" style="width:200px;">
 <img src="/img/library/4e-ess-city.jpg" style="width:200px;">
@@ -88,6 +94,7 @@ At the bottom is a list of things I still want for D&D.
 
 # 3rd Edition
 
+<img src="/img/library/3f-hb-cs.jpg" style="width:200px;">
 <img src="/img/library/3d-hb-cs.jpg" style="width:200px;">
 <img src="/img/library/3e2-heart.jpg" style="width:200px;">
 
@@ -96,30 +103,25 @@ At the bottom is a list of things I still want for D&D.
 <img src="/img/library/add-2e-core-phb-rev-1st.jpg" style="width:200px;">
 <img src="/img/library/add-2e-core-mm-7th.jpg" style="width:200px;">
 <img src="/img/library/add-2e-core-dmg-rev-1st.jpg" style="width:200px;">
+<img src="/img/library/fr-box-maz.jpg" style="width:200px;">
 
 # Third Party
 
 <img src="/img/library/mcdm-stronghold-and-followers.jpg" style="width:200px;">
 <img src="/img/library/the-monsters-know-what-theyre-doing.jpg" style="width:200px;">
+<img src="/img/library/how-to-defend-your-lair.png" style="width:200px;">
+<img src="/img/library/pf-2e-cover.jpeg" style="width:200px;">
 <img src="/img/library/13thage.jpg" style="width:200px;">
+<img src="/img/library/stargate-rpg.jpeg" style="width:200px;">
+
 
 ## Wanted: 5th Edition
 
 This is the current edition, all books should be in print.
 
 <img src="/img/library/5e-adv-hb-tales.jpg" style="width:75px;"> Tales of the Yawning Portal
-<img src="/img/library/5e-adv-hb-tod.jpg" style="width:75px;"> Tyranny of Dragons
 <img src="/img/library/5e-adv-hb-curse.jpg" style="width:75px;"> Curse of Strahd
-<img src="/img/library/5e-adv-hb-abyss.jpg" style="width:75px;"> Out of the Abyss
-<img src="/img/library/5e-volo.jpg" style="width:75px;"> Volo's Guide to Monters
-<img src="/img/library/5e-adv-hb-storm.jpg" style="width:75px;"> Storm King's Thunder
-<img src="/img/library/5e-adv-hb-heist.jpg" style="width:75px;"> Waterdeep: Dragon Heist
-<img src="/img/library/5e-adv-hb-mad.jpg" style="width:75px;"> Waterdeep: Dungeon of the Mad Mage
-<img src="/img/library/5e-adv-hb-tomb.jpg" style="width:75px;"> Tomb of Annihilation
-
-* Monster Manual
-* Starter Set
-* Essentials Kit
+<img src="/img/library/5e-adv-hb-tod.jpg" style="width:75px;"> Tyranny of Dragons
 
 ## Wanted: 4th Editon
 
@@ -129,7 +131,6 @@ This is an earlier edition; everything can only be found at the secondhand marke
 <img src="/img/library/4e-e1.jpg" style="width:75px;"> E1: Death's Reach
 <img src="/img/library/4e-e2.jpg" style="width:75px;"> E2: Kingdom of Ghouls
 <img src="/img/library/4e-e3.jpg" style="width:75px;"> E3: Price of Undeath
-
 <img src="/img/library/4e-ds-mar.jpg" style="width:75px;"> Marauders of the Dune Sea
 <img src="/img/library/4e-ess-dm-box.jpg" style="width:75px;"> Dungeon Master's Kit
 <img src="/img/library/4e-ds-hb-campaign.jpg" style="width:75px;"> Darksun Campaign Setting
@@ -159,8 +160,4 @@ This is an earlier edition; everything can only be found at the secondhand marke
 
 This is an earlier edition; everything can only be found at the secondhand market.
 
-<img src="/img/library/3e2-mon-drow.jpg" style="width:75px;"> Drow of the Underdark
-<img src="/img/library/3f-hb-cs.jpg" style="width:75px;"> Forgotten Realms Campaign Setting
-<img src="/img/library/3e2-core35-phb.jpg" style="width:75px;"> Player's Handbook (3.5)
-<img src="/img/library/3e2-core35-dmg.jpg" style="width:75px;"> Dungeon Master's Guide (3.5)
-<img src="/img/library/3e2-core35-mm.jpg" style="width:75px;"> Monster Manual (3.5)
+<img src="/img/library/3e2-mon-drow.jpg" style="width:75px;"> Drow of the Underdark (3E)
