@@ -3,7 +3,6 @@ layout: post
 title:  "Protector's Sash (750 GP)"
 date:   2016-03-31 12:36:11 +0100
 categories: jekyll update
-excerpt: "Deekin likes these. It is soft!"
 published: false
 ---
 

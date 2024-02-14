@@ -3,7 +3,6 @@ layout: post
 title:  "Leopard 2A7 Mark I Tank  (5.000 GP)"
 date:   2016-02-14 12:36:11 +0100
 categories: jekyll update
-excerpt: "Summon a tank as your mount."
 published: false
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Session 10: Return to the Keep"
 categories: dungeons-and-dragons
-excerpt: "After the PCs failed to defeat Kalarel, a new group of adventurers arrive to assist the people of Winterhaven."
 tags: [4e, Campaign-Return to the Keep, Adventure log]
 comments: true
 date: 2008-10-01

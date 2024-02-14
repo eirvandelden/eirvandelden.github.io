@@ -2,8 +2,6 @@
 layout: post
 title:  "Potion of Growth"
 date:   2016-08-29
-categories: jekyll update
-excerpt: "Someone once ordered these potions in the shape of mushrooms"
 published: false
 ---
 

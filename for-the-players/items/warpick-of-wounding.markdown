@@ -3,7 +3,6 @@ layout: post
 title:  "Warpick of Wounding  (3.000 GP)"
 date:   2016-02-14 12:36:11 +0100
 categories: jekyll update
-excerpt: "Wound your target for extra damage"
 published: false
 ---
 

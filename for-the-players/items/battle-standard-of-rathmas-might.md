@@ -3,7 +3,6 @@ layout: post
 title:  "Battle Standard of Rathma's Might (750GP)"
 date:   2017-08-17
 categories: jekyll update
-excerpt: "Deekin Smash!"
 published: false
 ---
 

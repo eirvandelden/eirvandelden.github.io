@@ -2,7 +2,6 @@
 layout: post
 title: "Emacs Bindings for Word for Mac"
 categories: developing
-excerpt: 'How to enable Emacs shortcuts in MS Word for Mac'
 comments: true
 date: 2015-08-28
 ---

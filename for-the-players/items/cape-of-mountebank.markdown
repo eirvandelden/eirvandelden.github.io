@@ -3,7 +3,6 @@ layout: post
 title:  "Cape of Mountebank"
 date:   2016-08-29
 categories: jekyll update
-excerpt: "In a _puff_ of smoke"
 published: false
 ---
 

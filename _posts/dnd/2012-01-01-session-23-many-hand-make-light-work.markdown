@@ -2,7 +2,6 @@
 layout: post
 title: "Session 23: Many hands make light work"
 categories: dungeons-and-dragons
-excerpt: "The party agrees to help Sunrise, as they have nothing to do…"
 tags: [4e, Campaign-Many Hand Make Light Work, Adventure log]
 comments: true
 date: 2012-01-01

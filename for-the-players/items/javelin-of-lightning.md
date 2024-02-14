@@ -3,7 +3,6 @@ layout: post
 title:  "Javelin of Lightning"
 date:   2016-08-29
 categories: jekyll update
-excerpt: "Some guy named Zeus has one too!"
 published: false
 ---
 

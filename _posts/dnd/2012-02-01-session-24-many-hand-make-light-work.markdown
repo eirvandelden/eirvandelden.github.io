@@ -2,7 +2,6 @@
 layout: post
 title: "Session 24: Many hands make light work"
 categories: dungeons-and-dragons
-excerpt: "The party agreed to help the sisters of Selûne, but for a price…"
 tags: [4e, Campaign-Many Hand Make Light Work, Adventure log]
 comments: true
 date: 2012-02-01

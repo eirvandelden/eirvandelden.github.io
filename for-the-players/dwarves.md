@@ -2,7 +2,6 @@
 layout: two-col
 title: "🏰Races of Deneki: Dwarves"
 categories: dungeons-and-dragons
-excerpt: "The Dwarves of Deneki"
 tags: [5e, Deneki, Race]
 published: false
 ---

@@ -5,7 +5,6 @@ categories: personal
 image:
   feature: wolf.png
 date: 2012-08-05
-excerpt: "An old Cherokee told his grandson: …"
 ---
 An old Cherokee told his grandson:
 

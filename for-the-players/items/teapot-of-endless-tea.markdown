@@ -3,7 +3,6 @@ layout: post
 title:  "Teapot of Endless Tea  (1.500 GP)"
 date:   2016-02-14 12:36:11 +0100
 categories: jekyll update
-excerpt: "Pour Tea. OR Summon a tea geyser!"
 published: false
 ---
 

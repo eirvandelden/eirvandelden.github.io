@@ -3,7 +3,6 @@ layout: post
 title:  "Wind Fan"
 date:   2016-08-29
 categories: jekyll update
-excerpt: "Also useful on a hot summer day!"
 published: false
 ---
 

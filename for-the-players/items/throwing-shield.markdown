@@ -3,7 +3,6 @@ layout: post
 title:  "Throwing Shield  (1200 GP)"
 date:   2016-03-10 12:36:11 +0100
 categories: jekyll update
-excerpt: "Confers the same AC bonus as a regular shield, and can be used as a thrown weapon."
 published: false
 ---
 

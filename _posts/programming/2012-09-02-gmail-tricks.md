@@ -3,7 +3,6 @@ layout: post
 title: "GMail Tricks"
 modified:
 categories: developing
-excerpt:
 tags: []
 date: 2012-09-02
 ---

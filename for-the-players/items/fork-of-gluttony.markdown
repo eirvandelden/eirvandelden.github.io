@@ -3,7 +3,6 @@ layout: post
 title:  "Fork of Gluttony  (750 GP)"
 date:   2016-03-31 12:36:11 +0100
 categories: jekyll update
-excerpt: "For that moment when you just gotta eat."
 published: false
 ---
 

@@ -2,7 +2,6 @@
 layout: two-col
 title: "📚Library"
 categories: dungeons-and-dragons
-excerpt: "Etienne's library of books"
 tags: [5e, 4e]
 published: true
 ---

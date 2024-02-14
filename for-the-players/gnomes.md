@@ -2,7 +2,6 @@
 layout: two-col
 title: "🏰Races of Deneki: Gnomes"
 categories: dungeons-and-dragons
-excerpt: "Gnomes are tinkerers, they have a unique gift for artifice…"
 tags: [5e, Deneki, Race]
 date: 2016-02-10
 comments: true

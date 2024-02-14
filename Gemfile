@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby "3.2.2"
 
-gem "github-pages", "=228"
+gem "github-pages"
 gem "octopress"
 gem "rack-jekyll"
 

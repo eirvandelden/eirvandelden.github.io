@@ -3,7 +3,6 @@ layout: post
 title:  "Battle Standard of Rathma's Healing"
 date:   2016-08-29
 categories: jekyll update
-excerpt: "Deekin always puts one of these in his bags!"
 published: false
 ---
 

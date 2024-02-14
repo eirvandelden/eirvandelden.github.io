@@ -3,7 +3,6 @@ layout: two-col
 title: "🏰Locations in Deneki"
 modified: 2015-09-04
 categories: dungeons-and-dragons
-excerpt: "Locations in my D&D World Deneki"
 image:
   feature: faerun.png
 tags: [5e, Campaign-NeverWinter Nights, Deneki]

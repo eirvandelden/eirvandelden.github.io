@@ -2,7 +2,6 @@
 layout: post
 title: "XeLaTeX Tips"
 categories: developing
-excerpt: Some tips & tricks for working with (Xe)LaTeX
 tags: [latex]
 date: 2012-08-07
 ---

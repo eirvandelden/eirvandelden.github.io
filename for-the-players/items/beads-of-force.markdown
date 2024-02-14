@@ -3,7 +3,6 @@ layout: post
 title:  "Beads of Force"
 date:   2016-08-29
 categories: jekyll update
-excerpt: "In a _puff_ of smoke"
 published: false
 ---
 
