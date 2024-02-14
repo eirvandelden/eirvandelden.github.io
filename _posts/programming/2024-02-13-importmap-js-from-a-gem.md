@@ -29,8 +29,8 @@ Note: I _did not_ find a way to get `pin_all_from` to work. So we will add all f
 In this tutorial we will call refer to the gem that holds the JS as "MyGem" or "my_gem" and the Rails application is called "ExampleBlog" or "example_blog". Change those names to your own gems name accordingly.
 
 I added a gem and example Rails application on Github to showcase how an implementation works:
-- Gem: https://github.com/eirvandelden/gem_with_importmappable_js
-- Rails application importing JS from gem: https://github.com/eirvandelden/example-railsapp-importmap-from-gem
+- Gem: [https://github.com/eirvandelden/gem_with_importmappable_js](https://github.com/eirvandelden/gem_with_importmappable_js)
+- Rails application importing JS from gem: [https://github.com/eirvandelden/example-railsapp-importmap-from-gem](https://github.com/eirvandelden/example-railsapp-importmap-from-gem)
 
 Clone both repositories, do a bundle install and run the server. You should see a "hi, i'm your engine" on the root page and "Hello world!" in your browser console, which are defined in `my_gem/app/assets/javascripts/my_gem/index.js` and `my_gem/app/assets/javascripts/hello.js` respectively.
 
@@ -42,6 +42,7 @@ First we make sure your gems' JS is available in the asset pipeline of the rails
     * This is either the code you write OR the result from your buildstep. Or both 😄
     * It is not necessary to use a `my_gem` subdirectory, but it is always smart to keep it in a separate namespace to prevent clashes.
     * In the example gem, we will add a `my_gem/index.js` and exported class `my_gem/hello.js`
+
 ```js
 // my_gem/app/assets/javascripts/my_gem/index.js
 import Hello from "my_gem/hello"
