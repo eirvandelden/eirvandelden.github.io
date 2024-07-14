@@ -16,4 +16,4 @@ The following characters were created:
 - *Astro Beamtwig* Wood Elf _Rogue_
 - *Quendhongilphant "Quen" Starflower* Wood Elf _Cleric_ of Sune
 
-For more information about the characters, see the ["For the players"](http://eirvandelden.com/for-the-players/) part of this site
+For more information about the characters, see the ["For the players"](http://etienne.vandelden.family/for-the-players/) part of this site
