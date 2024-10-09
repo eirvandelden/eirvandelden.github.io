@@ -8,6 +8,6 @@ gem "rack-jekyll"
 
 gem "puma", "~> 6.4"
 
-gem "rack-livereload", "~> 0.5"
+gem "rack-livereload", "~> 0.6"
 
 gem "webrick", "~> 1.8"
