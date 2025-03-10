@@ -254,7 +254,7 @@ GEM
     puma (6.4.3)
       nio4r (~> 2.0)
     racc (1.8.1)
-    rack (3.0.11)
+    rack (3.0.14)
     rack-jekyll (0.3.5)
       jekyll
       rack
