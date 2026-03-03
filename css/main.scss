@@ -8,6 +8,7 @@
 
 // Variables --------------------
 @import "components/variables";
+@import "components/4e-variables";
 
 // Reset --------------------
 @import "components/normalize";
@@ -20,6 +21,10 @@
 @import "components/buttons";
 @import "components/syntax-highlighting";
 @import "components/navigation";
+
+// 4e Book Aesthetic + Game Components --------------------
+@import "components/4e-book";
+@import "components/4e-components";
 
 // Pages styling --------------------
 @import "pages/layout";
