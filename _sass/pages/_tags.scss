@@ -17,18 +17,19 @@ ul.tag-cloud {
   .tag-group {
     margin-bottom: 2em;
     .tag-group-title {
-      color: $warning;
-      text-transform: capitalize;
+      color: var(--accent-blue);
+      font-variant: small-caps;
+      font-weight: 400;
     }
 
     .tag-item {
       padding-left: 1em;
       margin-bottom: .5em;
       a {
-        color: $danger;
+        color: var(--fg-1);
         &:hover,
         &:focus {
-          color: lighten($danger, 24%);
+          color: var(--accent-blue);
         }
       }
     }
@@ -39,18 +40,19 @@ ul.tag-cloud {
   .cat-group {
     margin-bottom: 2em;
     .cat-group-title {
-      color: $warning;
-      text-transform: capitalize;
+      color: var(--accent-blue);
+      font-variant: small-caps;
+      font-weight: 400;
     }
 
     .cat-item {
       padding-left: 1em;
       margin-bottom: .5em;
       a {
-        color: $danger;
+        color: var(--fg-1);
         &:hover,
         &:focus {
-          color: lighten($danger, 24%);
+          color: var(--accent-blue);
         }
       }
     }

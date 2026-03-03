@@ -1,0 +1,34 @@
+// D&D 4th Edition — Verified Color Constants
+// Source: ~/Sites/4e-css/4e.css (official WotC stylesheet)
+
+// --- Game mechanic header colors ---
+$dnd-player-header:    #1d3d5e;  // player-facing content header (navy)
+$dnd-dm-header:        #5c1f34;  // DM / trap header (dark maroon)
+$dnd-atwill:           #619869;  // at-will power card header (green)
+$dnd-encounter:        #961334;  // encounter power card header (red)
+$dnd-daily:            #4d4d4f;  // daily power card header (dark gray)
+$dnd-utility:          #1c3d5f;  // utility power card header (blue)
+$dnd-monster:          #4e5c2e;  // monster / familiar header (olive)
+$dnd-magic-item:       #DA9722;  // magic item header (gold)
+$dnd-artifact:         #254950;  // artifact heading variant (teal)
+$dnd-trap:             #45133C;  // trap/hazard header (purple)
+$dnd-trap-sub:         #65345D;  // trap subheader (lighter purple)
+$dnd-poison:           #000000;  // poison header (black)
+$dnd-miset:            #22444B;  // magic item set header (dark teal)
+
+// --- Background and texture colors ---
+$dnd-flavor-bg:        #d6d6c2;  // flavor text / default stat block rows
+$dnd-alt-row:          #c3c6ad;  // alternating table rows
+$dnd-monster-row:      #CADBB7;  // monster stat block rows
+$dnd-magic-item-cream: #F8E9D5;  // magic item stat rows
+$dnd-magic-item-tan:   #EFD09F;  // magic item flavor / subheader
+$dnd-trap-body:        #E8F2D6;  // trap/hazard body rows
+$dnd-link-color:       #3e141e;  // in-content links (dark maroon)
+
+// --- Book page aesthetic colors ---
+$dnd-page-bg:          #F2EBD8;  // warm parchment — page background
+$dnd-content-bg:       #FAF6EE;  // slightly lighter parchment for reading area
+$dnd-drop-cap:         #8B1A1A;  // dark red drop cap
+$dnd-heading-color:    #2a1a0a;  // warm dark brown heading text on parchment
+$dnd-rule-color:       #c3a96e;  // warm gold-tan for decorative dividers
+$dnd-blockquote-bg:    #F8F4EC;  // blockquote / flavor text background
