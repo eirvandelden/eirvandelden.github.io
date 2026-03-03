@@ -1,0 +1,147 @@
+// D&D 4th Edition — Book Aesthetic
+// ALL styles scoped under body.dnd-theme — only applies to D&D pages.
+// Main site uses the LaTeX/Selenized theme from _variables.scss.
+
+// Parchment background + serif body font (override LaTeX/Selenized)
+body.dnd-theme {
+  background-color: $dnd-page-bg;
+  font-family: 'Source Serif 4', Georgia, serif;
+  color: #1a1a1a;
+}
+
+// Content area — slightly lighter parchment
+body.dnd-theme .post-listing,
+body.dnd-theme .container {
+  background-color: $dnd-content-bg;
+}
+
+// Drop caps for first paragraph
+body.dnd-theme .post-content > p:first-of-type::first-letter {
+  font-family: 'Vecna', serif;
+  font-size: 4em;
+  font-weight: 700;
+  color: $dnd-drop-cap;
+  float: left;
+  line-height: 0.8;
+  margin: 0.05em 0.08em 0 0;
+}
+
+// Remove LaTeX paragraph indentation on D&D pages
+body.dnd-theme .post-content p + p {
+  text-indent: 0;
+  margin-bottom: 0.8em;
+}
+
+// Decorative horizontal rules
+body.dnd-theme .post-content hr,
+body.dnd-theme .dnd-divider {
+  border: none;
+  height: 2px;
+  background: linear-gradient(to right, transparent, $dnd-rule-color, transparent);
+  margin: 1.5em 0;
+}
+
+// Chapter-style post title (override LaTeX small-caps h2)
+body.dnd-theme #post .post-header h2 {
+  font-family: 'Vecna', serif;
+  font-size: 2.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: $dnd-heading-color;
+  border-bottom: 2px solid $dnd-rule-color;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.5em;
+  font-variant: normal;
+}
+
+// Post header border color
+body.dnd-theme #post .post-header {
+  border-bottom-color: $dnd-rule-color;
+}
+
+// Post title in listing
+body.dnd-theme .post-title {
+  font-family: 'Vecna', serif;
+  font-variant: normal;
+  color: $dnd-heading-color;
+}
+
+// Post meta bar
+body.dnd-theme .post-meta {
+  font-family: 'Asul', sans-serif;
+  background: $dnd-flavor-bg;
+  padding: 4px 8px;
+  color: $dnd-heading-color;
+
+  .post-date,
+  .post-cat {
+    color: $dnd-heading-color;
+  }
+
+  .read-time {
+    color: $dnd-player-header;
+  }
+}
+
+// Section headers h2 (override LaTeX small-caps)
+body.dnd-theme .post-content h2 {
+  font-family: 'Marcellus SC', serif;
+  font-size: 1.4em;
+  color: $dnd-heading-color;
+  border-bottom: 1px solid $dnd-rule-color;
+  margin: 1.5em 0 0.5em;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+// Sub-section headers h3
+body.dnd-theme .post-content h3 {
+  font-family: 'Marcellus SC', serif;
+  font-size: 1.15em;
+  color: $dnd-player-header;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+// Blockquotes as italic flavor text (override LaTeX theorem box)
+body.dnd-theme .post-content blockquote {
+  background: $dnd-blockquote-bg;
+  border-left: 3px solid $dnd-rule-color;
+  padding: 0.75em 1em;
+  font-style: italic;
+  color: #4a3a2a;
+}
+
+// In-content links
+body.dnd-theme .post-content a {
+  color: $dnd-link-color;
+  &:hover,
+  &:focus {
+    color: lighten($dnd-link-color, 20%);
+  }
+}
+
+// Post navigation
+body.dnd-theme .post-navigation {
+  border-color: $dnd-rule-color;
+}
+
+// Archive — year headers
+body.dnd-theme .archive .archive-year {
+  background: $dnd-player-header;
+  color: #fff;
+  font-family: 'Vecna', serif;
+}
+
+body.dnd-theme .archive #timeline:before {
+  background: $dnd-rule-color;
+}
+
+// Tags — group titles
+body.dnd-theme .tag-group-title,
+body.dnd-theme .cat-group-title {
+  background: $dnd-monster;
+  color: #fff;
+  font-family: 'Vecna', serif;
+}

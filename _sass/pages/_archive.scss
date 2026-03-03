@@ -31,12 +31,11 @@
         margin-top: -4px;
         width: 8px;
         height: 8px;
-        background: #bbb;
+        background: var(--dim-0);
         border-radius: 50%;
       }
     }
   }
-
 
   ul {
     list-style: none;

@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<body>
+<body{% if page.dnd_theme or page.categories contains 'dungeons-and-dragons' %} class="dnd-theme"{% endif %}>
   {% include navigation.html %}
   <div class="post-listing">
     {{ content }}
