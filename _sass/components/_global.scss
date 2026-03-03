@@ -4,58 +4,84 @@
 *:after {
   @include box-sizing;
 }
+
 .notice {
-  border: 1px solid lighten($text-color, 45%);
-  border-radius: 0.4em;
-  padding: 0.5em 1em;
+  border: 1px solid var(--bg-2);
+  border-radius: 0.25rem;
+  padding: 0.5rem 1rem;
 }
+
 img {
   height: auto;
   max-width: 100%;
 }
 
-// Tables --------------------
+// Blockquotes (LaTeX theorem-box style)
+blockquote {
+  display: block;
+  position: relative;
+  margin: 1.5rem 0;
+  padding: 1rem 1rem 1rem 3rem;
+  background: var(--bg-1);
+  border-left: 3px solid var(--accent-blue);
+  border-right: 1px solid var(--bg-2);
+  border-top: 1px solid var(--bg-2);
+  border-bottom: 1px solid var(--bg-2);
+  font-style: italic;
+
+  &::before {
+    content: "Note:";
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    font-weight: bold;
+    font-style: normal;
+    font-variant: small-caps;
+    color: var(--accent-blue);
+  }
+}
+
+// Tables (booktabs style: horizontal rules only)
 table,
 th,
 td {
   border: none;
 }
-.table {
-  display: table;
-}
-.table-cell {
-  display: table-cell;
-}
-.table-top {
-  vertical-align: top;
-}
-.table-middle {
-  vertical-align: middle;
-}
-.table-bottom {
-  vertical-align: bottom;
-}
+
+.table        { display: table; }
+.table-cell   { display: table-cell; }
+.table-top    { vertical-align: top; }
+.table-middle { vertical-align: middle; }
+.table-bottom { vertical-align: bottom; }
+
 table {
   width: 100%;
   display: table;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+
   &.bordered > thead > tr,
   &.bordered > tbody > tr {
-    border-bottom: 1px solid $table-border-color;
+    border-bottom: 1px solid var(--dim-0);
   }
+
   &.striped > tbody {
     > tr:nth-child(odd) {
-      background-color: $table-striped-color;
+      background-color: var(--bg-1);
     }
+
     > tr > td {
       border-radius: 0;
     }
   }
+
   &.highlight > tbody > tr {
     @include transition(background-color .25s ease);
     &:hover {
-      background-color: $table-striped-color;
+      background-color: var(--bg-1);
     }
   }
+
   &.centered {
     thead tr th,
     tbody tr td,
@@ -64,19 +90,28 @@ table {
     }
   }
 }
+
 thead {
-  border-bottom: 1px solid $table-border-color;
+  border-top: 1.5px solid var(--dim-0);
+  border-bottom: 1px solid var(--dim-0);
+
+  th {
+    font-variant: small-caps;
+    font-weight: 400;
+  }
 }
+
 td,
 th {
-  padding: 15px 5px;
+  padding: 0.5rem 0.75rem;
   display: table-cell;
   text-align: left;
   vertical-align: middle;
-  border-radius: 2px;
+  border-radius: 0;
 }
+
 tfoot {
-  border-top: 1px solid $table-border-color;
+  border-top: 1.5px solid var(--dim-0);
 }
 
 // Global transition --------------------
@@ -101,17 +136,25 @@ a {
 // Footer --------------------
 footer {
   text-align: center;
-  padding: 3em 0;
+  padding: 3rem 0;
+  color: var(--dim-0);
+  font-size: 0.875rem;
+
   .heart-icon {
     color: $danger;
     text-shadow: 0 0 5px $white, 0 0 10px $danger;
   }
 }
+
 .related-articles {
-  margin-top: 2em;
+  margin-top: 2rem;
+
   h4 {
     font-family: $base-font-family;
+    font-variant: small-caps;
+    font-weight: 400;
   }
+
   ul {
     margin: 0;
     padding: 0;

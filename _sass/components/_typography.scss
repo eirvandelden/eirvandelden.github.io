@@ -1,23 +1,25 @@
 // Typography --------------------
 
-// HTML --------------------
+// Links
 a {
-   text-decoration: none;
-   color: $primary;
-   &:hover,
-   &:focus {
-     color: lighten($primary, 14%);
-     text-decoration: none;
-   }
+  text-decoration: none;
+  color: var(--accent-blue);
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+    opacity: 0.85;
+  }
 }
 
 html {
   line-height: $base-line-height;
   font-family: $base-font-family;
   font-weight: normal;
-  color: $text-color;
+  color: var(--fg-1);
+  background: var(--bg-0);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+
   @media only screen and (min-width: 0) {
     font-size: $small-font-size;
   }
@@ -31,37 +33,89 @@ html {
   }
 }
 
-// Headings --------------------
-blockquote {
-  display: block;
-	position: relative;
-  padding-left: 20px;
-  font-style: italic;
-  border-left: 5px solid $secondary;
+body {
+  background: var(--bg-0);
+  color: var(--fg-1);
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+// Headings (LaTeX style: regular weight, small-caps for h1/h2)
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 700;
-	line-height: 1.1;
+  font-weight: 400;
+  line-height: 1.2;
+  color: var(--fg-1);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
-// Header Styles
-h1 { font-size: 2.4em; font-weight: 300; }
-h2 { font-size: 1.8em; font-weight: 300; }
-h3 { font-size: 1.5em; font-weight: 600; }
-h4 { font-size: 1.2em; font-weight: 600; }
-h5 { font-size: 1.1em; font-weight: 600; }
-h6 { font-size: 1.0em; font-weight: 600; }
+h1 {
+  font-size: $h1-fontsize;
+  font-variant: small-caps;
+}
+
+h2 {
+  font-size: $h2-fontsize;
+  font-variant: small-caps;
+}
+
+h3 { font-size: $h3-fontsize; }
+h4 { font-size: $h4-fontsize; }
+h5 { font-size: $h5-fontsize; }
+h6 { font-size: $h6-fontsize; }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-weight: inherit;
-  color: $text-color;
+  color: var(--fg-1);
+  text-decoration: none;
   &:hover,
   &:focus {
-    color: lighten($text-color, 24%);
+    color: var(--accent-blue);
+    text-decoration: none;
+    opacity: 1;
   }
 }
+
+// Paragraph styling (LaTeX first-line indent)
+p {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+p + p {
+  text-indent: 1.5rem;
+  margin-top: 0;
+}
+
+// Reset indent after block elements
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p,
+ul + p, ol + p, blockquote + p, pre + p, figure + p,
+.highlight + p, hr + p {
+  text-indent: 0;
+}
+
+// Justified text on desktop
+@media only screen and (min-width: $small-screen) {
+  p {
+    text-align: justify;
+    hyphens: auto;
+  }
+}
+
+// Mobile: block paragraphs (no indent, left-aligned)
+@media only screen and (max-width: $small-screen) {
+  p + p {
+    text-indent: 0;
+    margin-top: 0.75rem;
+  }
+
+  p {
+    text-align: left;
+  }
+}
+
 // Text Styles
-em { font-style: italic; }
+em     { font-style: italic; }
 strong { font-weight: 700; }
-small { font-size: 75%; }
+small  { font-size: 75%; }

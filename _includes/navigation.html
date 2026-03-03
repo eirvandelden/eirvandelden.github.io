@@ -1,0 +1,16 @@
+<nav class="site-nav">
+  <div class="nav-container">
+    <a href="{{ site.url }}/" class="site-branding">
+      <span class="site-name">{{ site.title }}</span>
+    </a>
+
+    <ul class="nav-menu">
+      <li><a href="{{ site.url }}/" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
+      <li><a href="{{ site.url }}/blog.html" {% if page.url contains '/blog' %}class="active"{% endif %}>Blog</a></li>
+      <li><a href="{{ site.url }}/dnd.html" {% if page.url contains '/dnd' %}class="active"{% endif %}>D&amp;D</a></li>
+      <li><a href="{{ site.url }}/developing.html" {% if page.url contains '/developing' %}class="active"{% endif %}>Dev</a></li>
+      <li><a href="{{ site.url }}/tags.html" {% if page.url contains '/tags' %}class="active"{% endif %}>Tags</a></li>
+    </ul>
+
+  </div>
+</nav>
