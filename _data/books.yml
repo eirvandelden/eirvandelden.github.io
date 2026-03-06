@@ -1,0 +1,580 @@
+# D&D book collection
+# Images sourced from https://www.tsrarchive.com/
+
+# --- 5th Edition (owned) ---
+- cover: /img/library/5e-phb.jpg
+  title: Player's Handbook
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-dmg.jpg
+  title: Dungeon Master's Guide
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-foesb.jpg
+  title: Foe Folio
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-acc-rav.jpg
+  title: Guildmasters' Guide to Ravnica
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-acc-sj-le.jpg
+  title: Spelljammer (Limited Edition)
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-acc-rising-le.jpg
+  title: Baldur's Gate — Descent into Avernus (Limited Edition)
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-adv-hb-aver-le.jpg
+  title: Baldur's Gate — Avernus Hardcover (Limited Edition)
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-acc-screen-re.jpg
+  title: Dungeon Master's Screen Reincarnated
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-dt-dung.jpg
+  title: Dungeon Tiles
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-dt-wild.jpg
+  title: Dungeon Tiles — Wilderness Kit
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-acc-tac.jpg
+  title: Tactical Maps
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-acc-grid.jpg
+  title: Dungeon Master's Screen — Grid
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-map-rav.jpg
+  title: Ravnica Map
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-dice-rav.jpg
+  title: Ravnica Dice
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-adv-hb-abyss.jpg
+  title: Out of the Abyss
+  edition: 5e
+  status: owned
+
+- cover: /img/library/5e-volo.jpg
+  title: Volo's Guide to Monsters
+  edition: 5e
+  status: owned
+
+# --- 4th Edition (owned) ---
+- cover: /img/library/4e-core-phb.jpg
+  title: Player's Handbook
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-core-phb2.jpg
+  title: Player's Handbook 2
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-core-phb3.jpg
+  title: Player's Handbook 3
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-core-mm.jpg
+  title: Monster Manual
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-core-mm2.jpg
+  title: Monster Manual 2
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-core-mm3.jpg
+  title: Monster Manual 3
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-core-dmg.jpg
+  title: Dungeon Master's Guide
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-core-dmg2.jpg
+  title: Dungeon Master's Guide 2
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-ess-hfl.jpg
+  title: "Heroes of the Fallen Lands"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-ess-hfk.jpg
+  title: "Heroes of the Forgotten Kingdoms"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-ess-mv-box.jpg
+  title: Monster Vault (Box Set)
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-ess-rc.jpg
+  title: Rules Compendium
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-redbox.jpg
+  title: Red Box Starter Set
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-core-slip.jpg
+  title: Core Rulebook Slipcase
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-screen.jpg
+  title: Dungeon Master's Screen
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-dscreen.jpg
+  title: Deluxe Dungeon Master's Screen
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-record.jpg
+  title: Character Record Sheets
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-fr-hb-camp.jpg
+  title: Forgotten Realms Campaign Guide
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-hb-menzo.jpg
+  title: Menzoberranzan — City of Intrigue
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-fr-hb-never.jpg
+  title: Neverwinter Campaign Setting
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-h1.jpg
+  title: "H1: Keep on the Shadowfell"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-h2.jpg
+  title: "H2: Thunderspire Labyrinth"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-h3.jpg
+  title: "H3: Pyramid of Shadows"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-p1.jpg
+  title: "P1: King of the Trollhaunt Warrens"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-p2.jpg
+  title: "P2: Demon Queen's Enclave"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-p3.jpg
+  title: "P3: Assault on Nightwyrm Fortress"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-hs1.jpg
+  title: "HS1: The Slaying Stone"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-hs2.jpg
+  title: "HS2: Orcs of Stonefang Pass"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-fr-tower.jpg
+  title: Tower of the Fallen
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-eb-seek.jpg
+  title: The Seekers of the Ashen Crown
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-adv-hb-tomb.jpg
+  title: Tomb of Horrors
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-reward-hommlet.jpg
+  title: Return to the Temple of Elemental Evil
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-vile.jpg
+  title: Book of Vile Darkness
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-hb-delve.jpg
+  title: Dungeon Delve
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-hb-av.jpg
+  title: Adventurer's Vault
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-hb-av2.jpg
+  title: Adventurer's Vault 2
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-hb-mme.jpg
+  title: Mordenkainen's Magnificent Emporium
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-po-shadow.jpg
+  title: Heroes of Shadow
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-power-arcane.jpg
+  title: Arcane Power
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-power-divine.jpg
+  title: Divine Power
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-wp-races.jpg
+  title: "Worlds & Monsters: Races"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-wp-worlds.jpg
+  title: "Worlds & Monsters"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-hb-above.jpg
+  title: The Plane Above
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-acc-hb-strat.jpg
+  title: The Plane Below
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-ess-city.jpg
+  title: "Essentials: The City"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-ess-dun.jpg
+  title: "Essentials: The Dungeon"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-dn3.jpg
+  title: "DN3: Dungeons of Dread"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-dn5.jpg
+  title: "DN5: Against the Giants"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-dn6.jpg
+  title: "DN6: Hall of the Fire Giant King"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-dn7.jpg
+  title: "DN7: Into the Underdark"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-du1.jpg
+  title: "DU1: Dungeon Tiles Master Set — The Dungeon"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-du6.jpg
+  title: "DU6: Dungeon Tiles — Ruins of the Wild"
+  edition: 4e
+  status: owned
+
+- cover: /img/library/4e-du7.jpg
+  title: "DU7: Dungeon Tiles — Desert of Athas"
+  edition: 4e
+  status: owned
+
+# --- 3rd Edition (owned) ---
+- cover: /img/library/3f-hb-cs.jpg
+  title: "D&D 3.5 — Core Set"
+  edition: 3e
+  status: owned
+
+- cover: /img/library/3d-hb-cs.jpg
+  title: "D&D 3.0 — Core Set"
+  edition: 3e
+  status: owned
+
+- cover: /img/library/3e2-heart.jpg
+  title: Heart of Nightfang Spire
+  edition: 3e
+  status: owned
+
+# --- 2nd Edition (owned) ---
+- cover: /img/library/add-2e-core-phb-rev-1st.jpg
+  title: "Player's Handbook (Revised, 1st print)"
+  edition: 2e
+  status: owned
+
+- cover: /img/library/add-2e-core-mm-7th.jpg
+  title: "Monstrous Manual (7th print)"
+  edition: 2e
+  status: owned
+
+- cover: /img/library/add-2e-core-dmg-rev-1st.jpg
+  title: "Dungeon Master Guide (Revised, 1st print)"
+  edition: 2e
+  status: owned
+
+- cover: /img/library/fr-box-maz.jpg
+  title: Maztica Campaign Set
+  edition: 2e
+  status: owned
+
+# --- Third Party (owned) ---
+- cover: /img/library/mcdm-stronghold-and-followers.jpg
+  title: Strongholds & Followers
+  edition: third-party
+  status: owned
+
+- cover: /img/library/the-monsters-know-what-theyre-doing.jpg
+  title: The Monsters Know What They're Doing
+  edition: third-party
+  status: owned
+
+- cover: /img/library/how-to-defend-your-lair.png
+  title: How to Defend Your Lair
+  edition: third-party
+  status: owned
+
+- cover: /img/library/pf-2e-cover.jpeg
+  title: "Pathfinder 2e — Core Rulebook"
+  edition: third-party
+  status: owned
+
+- cover: /img/library/13thage.jpg
+  title: 13th Age
+  edition: third-party
+  status: owned
+
+- cover: /img/library/stargate-rpg.jpeg
+  title: Stargate RPG
+  edition: third-party
+  status: owned
+
+# --- Wanted: 5th Edition ---
+- cover: /img/library/5e-adv-hb-tales.jpg
+  title: Tales of the Yawning Portal
+  edition: 5e
+  status: wanted
+
+- cover: /img/library/5e-adv-hb-curse.jpg
+  title: Curse of Strahd
+  edition: 5e
+  status: wanted
+
+- cover: /img/library/5e-adv-hb-tod.jpg
+  title: Tyranny of Dragons
+  edition: 5e
+  status: wanted
+
+# --- Wanted: 4th Edition ---
+- cover: /img/library/4e-box-gloom.jpg
+  title: "The Shadowfell: Gloomwrought and Beyond"
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-e1.jpg
+  title: "E1: Death's Reach"
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-e2.jpg
+  title: "E2: Kingdom of Ghouls"
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-e3.jpg
+  title: "E3: Price of Undeath"
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-ds-mar.jpg
+  title: Marauders of the Dune Sea
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-ess-dm-box.jpg
+  title: Dungeon Master's Kit
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-ds-hb-campaign.jpg
+  title: Dark Sun Campaign Setting
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-ds-hb-creature.jpg
+  title: Dark Sun Creature Catalog
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-eb-hb-camp.jpg
+  title: Eberron Campaign Guide
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-adv-hb-giants.jpg
+  title: Revenge of the Giants
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-adv-hb-halls.jpg
+  title: Halls of Undermountain
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-box-start.jpg
+  title: Roleplaying Game Starter Set
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-power-martial.jpg
+  title: Martial Power
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-power-martial2.jpg
+  title: Martial Power 2
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-acc-hb-planes.jpg
+  title: Manual of the Planes
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-acc-hb-below.jpg
+  title: The Plane Below
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-acc-hb-demon.jpg
+  title: Demonomicon
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-acc-hb-chrom.jpg
+  title: "Draconomicon: Chromatic Dragons"
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-acc-hb-metal.jpg
+  title: "Draconomicon: Metallic Dragons"
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-power-primal.jpg
+  title: Primal Power
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-power-psionic.jpg
+  title: Psionic Power
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-po-chaos.jpg
+  title: Heroes of Elemental Chaos
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-po-feywild.jpg
+  title: Heroes of the Feywild
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-site-vr.jpg
+  title: Vor Rukoth
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-site-hammer.jpg
+  title: Hammerfast
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-acc-hb-dungann.jpg
+  title: Dungeon Magazine Annual
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-fr-hb-pg.jpg
+  title: Forgotten Realms Player's Guide
+  edition: 4e
+  status: wanted
+
+- cover: /img/library/4e-eb-hb-pg.jpg
+  title: Eberron Player's Guide
+  edition: 4e
+  status: wanted
+
+# --- Wanted: 3rd Edition ---
+- cover: /img/library/3e2-mon-drow.jpg
+  title: Drow of the Underdark (3E)
+  edition: 3e
+  status: wanted
