@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body{% if page.dnd_theme %} class="dnd-theme"{% endif %}>
+{% assign is_dnd = false %}{% if page.dnd_theme %}{% assign is_dnd = true %}{% endif %}{% for cat in page.categories %}{% if cat == 'dungeons-and-dragons' %}{% assign is_dnd = true %}{% endif %}{% endfor %}
+<body{% if is_dnd %} class="dnd-theme"{% endif %}>
   {% include navigation.html %}
   {{ content }}
   {% include nav.html %}

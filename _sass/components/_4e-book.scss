@@ -9,9 +9,8 @@ body.dnd-theme {
   color: #1a1a1a;
 }
 
-// Content area — slightly lighter parchment
-body.dnd-theme .post-listing,
-body.dnd-theme .container {
+// Content area — parchment (main already gets #FAF6EE globally; override for D&D outer body)
+body.dnd-theme main {
   background-color: $dnd-content-bg;
 }
 
