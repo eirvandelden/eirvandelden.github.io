@@ -1,0 +1,71 @@
+/* Selenized Light palette */
+:root {
+  --bg-0:           #fbf3db;
+  --bg-1:           #ece3cc;
+  --bg-2:           #d5cdb6;
+  --dim-0:          #909995;
+  --fg-0:           #53676d;
+  --fg-1:           #3a4d53;
+  --accent-blue:    #0072d4;
+  --accent-cyan:    #009c8f;
+  --accent-green:   #489100;
+  --accent-red:     #d2212d;
+  --accent-yellow:  #ad8900;
+  --accent-orange:  #c25d1e;
+  --accent-violet:  #8762c6;
+  --accent-magenta: #ca4898;
+}
+
+/* Selenized Dark palette */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-0:           #103c48;
+    --bg-1:           #184956;
+    --bg-2:           #2d5b69;
+    --dim-0:          #72898f;
+    --fg-0:           #adbcbc;
+    --fg-1:           #cad8d9;
+    --accent-blue:    #4695f7;
+    --accent-cyan:    #41c7b9;
+    --accent-green:   #75b938;
+    --accent-red:     #fa5750;
+    --accent-yellow:  #dbb32d;
+    --accent-orange:  #ed8649;
+    --accent-violet:  #af88eb;
+    --accent-magenta: #f275be;
+  }
+}
+
+/* D&D 4e palette — game mechanic header colors */
+:root {
+  --dnd-player-header:    #1d3d5e;
+  --dnd-dm-header:        #5c1f34;
+  --dnd-atwill:           #619869;
+  --dnd-encounter:        #961334;
+  --dnd-daily:            #4d4d4f;
+  --dnd-utility:          #1c3d5f;
+  --dnd-monster:          #4e5c2e;
+  --dnd-magic-item:       #DA9722;
+  --dnd-artifact:         #254950;
+  --dnd-trap:             #45133C;
+  --dnd-trap-sub:         #65345D;
+  --dnd-poison:           #000000;
+  --dnd-miset:            #22444B;
+
+  /* D&D background and texture colors */
+  --dnd-flavor-bg:        #d6d6c2;
+  --dnd-alt-row:          #c3c6ad;
+  --dnd-monster-row:      #CADBB7;
+  --dnd-magic-item-cream: #F8E9D5;
+  --dnd-magic-item-tan:   #EFD09F;
+  --dnd-trap-body:        #E8F2D6;
+  --dnd-link-color:       #3e141e;
+
+  /* D&D book page aesthetic colors */
+  --dnd-page-bg:          #F2EBD8;
+  --dnd-content-bg:       #FAF6EE;
+  --dnd-drop-cap:         #8B1A1A;
+  --dnd-heading-color:    #2a1a0a;
+  --dnd-rule-color:       #c3a96e;
+  --dnd-blockquote-bg:    #F8F4EC;
+}

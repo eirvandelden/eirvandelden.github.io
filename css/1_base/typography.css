@@ -1,0 +1,200 @@
+html {
+  line-height: 1.6;
+  font-family: 'TeX Gyre Termes', 'TeX Gyre Pagella', 'Georgia', 'Times New Roman', serif;
+  font-weight: normal;
+  color: var(--fg-1);
+  background: var(--bg-0);
+  font-size: 12.84px; /* small-font-size */
+}
+
+@media only screen and (min-width: 600px) {
+  html {
+    font-size: 14.67px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  html {
+    font-size: 16.14px; /* 14.67 * 1.1 */
+  }
+}
+
+body {
+  background: var(--bg-0);
+  color: var(--fg-1);
+  padding: 0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: var(--accent-blue);
+  transition: all 0.1s ease;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+  opacity: 0.85;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  line-height: 1.2;
+  color: var(--fg-1);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  transition: all 0.1s ease;
+}
+
+h1 { font-size: 1.728rem; }
+h2 { font-size: 1.44rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1.1rem; }
+h5 { font-size: 1.0rem; }
+h6 { font-size: 0.9rem; }
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  font-weight: inherit;
+  color: var(--fg-1);
+  text-decoration: none;
+}
+
+h1 a:hover, h1 a:focus,
+h2 a:hover, h2 a:focus,
+h3 a:hover, h3 a:focus,
+h4 a:hover, h4 a:focus,
+h5 a:hover, h5 a:focus,
+h6 a:hover, h6 a:focus {
+  color: var(--accent-blue);
+  text-decoration: none;
+  opacity: 1;
+}
+
+/* Paragraphs */
+p {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  transition: all 0.1s ease;
+}
+
+p + p {
+  text-indent: 1.5rem;
+  margin-top: 0;
+}
+
+/* Reset indent after block elements */
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p,
+ul + p, ol + p, blockquote + p, pre + p, figure + p,
+.highlight + p, hr + p {
+  text-indent: 0;
+}
+
+/* Justified text on desktop */
+@media only screen and (min-width: 600px) {
+  p {
+    text-align: justify;
+    hyphens: auto;
+  }
+}
+
+/* Mobile: block paragraphs */
+@media only screen and (max-width: 600px) {
+  p + p {
+    text-indent: 0;
+    margin-top: 0.75rem;
+  }
+
+  p {
+    text-align: left;
+  }
+}
+
+/* Inline text */
+em     { font-style: italic; transition: all 0.1s ease; }
+strong { font-weight: 700; transition: all 0.1s ease; }
+small  { font-size: 75%; }
+
+/* Blockquotes */
+blockquote {
+  display: block;
+  position: relative;
+  margin: 1.5rem 0;
+  padding: 1rem 1rem 1rem 3rem;
+  background: var(--bg-1);
+  border-left: 3px solid var(--accent-blue);
+  border-right: 1px solid var(--bg-2);
+  border-top: 1px solid var(--bg-2);
+  border-bottom: 1px solid var(--bg-2);
+  font-style: italic;
+  transition: all 0.1s ease;
+}
+
+blockquote::before {
+  content: "Note:";
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  font-weight: bold;
+  font-style: normal;
+  font-variant: small-caps;
+  color: var(--accent-blue);
+}
+
+/* Global transitions */
+b, i, q, span, figure, img, h1, h2, header, input {
+  transition: all 0.1s ease;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 3rem 0;
+  color: var(--dim-0);
+  font-size: 0.875rem;
+}
+
+footer .heart-icon {
+  color: #f83e4b;
+  text-shadow: 0 0 5px #fff, 0 0 10px #f83e4b;
+}
+
+/* Notice box */
+.notice {
+  border: 1px solid var(--bg-2);
+  border-radius: 0.25rem;
+  padding: 0.5rem 1rem;
+}
+
+/* Related articles */
+.related-articles {
+  margin-top: 2rem;
+}
+
+.related-articles h4 {
+  font-family: 'TeX Gyre Termes', 'TeX Gyre Pagella', 'Georgia', 'Times New Roman', serif;
+  font-variant: small-caps;
+  font-weight: 400;
+}
+
+.related-articles ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Utility display classes */
+.block        { display: block; }
+.inline-block { display: inline-block; }
+
+.hidden-md {
+  display: none;
+}
+
+@media only screen and (min-width: 992px) {
+  .hidden-md {
+    display: inline-block;
+  }
+}

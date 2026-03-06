@@ -1,0 +1,4 @@
+.is-active {
+  color: var(--accent-blue);
+  border-bottom: 2px solid var(--accent-blue);
+}

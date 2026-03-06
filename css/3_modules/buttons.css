@@ -1,0 +1,50 @@
+.btn {
+  --button-bg:     var(--accent-blue);
+  --button-color:  #fff;
+  --button-border: var(--accent-blue);
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 8px 20px;
+  font-size: 0.875em;
+  font-family: 'TeX Gyre Termes', 'TeX Gyre Pagella', 'Georgia', 'Times New Roman', serif;
+  font-weight: 700;
+  background-color: var(--button-bg);
+  color: var(--button-color);
+  border-width: 2px !important;
+  border-style: solid !important;
+  border-color: var(--button-border);
+  text-decoration: none !important;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+
+.btn:visited {
+  color: var(--button-color);
+  border-color: var(--button-border);
+}
+
+.btn:hover {
+  background-color: #fff;
+  color: var(--button-bg);
+  border-color: var(--button-border);
+}
+
+.btn-success {
+  --button-bg:     #65e892;
+  --button-border: #65e892;
+}
+
+.btn-warning {
+  --button-bg:     #F5A623;
+  --button-border: #F5A623;
+}
+
+.btn-danger {
+  --button-bg:     #f83e4b;
+  --button-border: #f83e4b;
+}
+
+.btn-info {
+  --button-bg:     #09ABF6;
+  --button-border: #09ABF6;
+}

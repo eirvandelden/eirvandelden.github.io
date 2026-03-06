@@ -1,0 +1,126 @@
+pre, code {
+  font-family: 'TeX Gyre Cursor', 'Courier New', monospace;
+  font-size: 0.875rem;
+}
+
+/* Inline code */
+code {
+  background: var(--bg-1);
+  color: var(--fg-1);
+  border: 1px solid var(--bg-2);
+  padding: 0.1em 0.3em;
+  word-break: break-all;
+  white-space: normal;
+  border-radius: 0;
+}
+
+/* Code blocks */
+pre {
+  overflow: auto;
+  display: block;
+  padding: 1rem;
+  margin: 0 0 1rem;
+  line-height: 1.48; /* 1.6 * 0.925 */
+  word-break: normal;
+  word-wrap: break-word;
+  background: var(--bg-1);
+  border: 1px solid var(--bg-2);
+  border-radius: 0;
+  font-weight: normal;
+}
+
+pre code {
+  background: transparent;
+  border: none;
+  padding: 0;
+  white-space: pre;
+  overflow: auto;
+  word-wrap: normal;
+  color: var(--fg-0);
+}
+
+pre code span {
+  word-break: break-all;
+}
+
+/* Highlighted code block */
+.highlight {
+  margin: 0 0 1rem;
+  background: var(--bg-1);
+  border: 1px solid var(--bg-2);
+}
+
+.highlight pre {
+  border: none;
+  margin: 0;
+}
+
+.highlight pre code {
+  color: var(--fg-0);
+}
+
+/* Rouge / Pygments token classes */
+.highlight .hll { background-color: var(--bg-2); }
+.highlight .c   { color: var(--dim-0); font-style: italic; }  /* Comment */
+.highlight .err { color: var(--accent-red); }                  /* Error */
+.highlight .k   { color: var(--accent-violet); }               /* Keyword */
+.highlight .l   { color: var(--accent-orange); }               /* Literal */
+.highlight .n   { color: var(--fg-0); }                        /* Name */
+.highlight .o   { color: var(--accent-cyan); }                 /* Operator */
+.highlight .p   { color: var(--fg-0); }                        /* Punctuation */
+.highlight .cm  { color: var(--dim-0); font-style: italic; }   /* Comment.Multiline */
+.highlight .cp  { color: var(--dim-0); }                       /* Comment.Preproc */
+.highlight .c1  { color: var(--dim-0); font-style: italic; }   /* Comment.Single */
+.highlight .cs  { color: var(--dim-0); }                       /* Comment.Special */
+.highlight .gd  { color: var(--accent-red); }                  /* Generic.Deleted */
+.highlight .ge  { font-style: italic; }                        /* Generic.Emph */
+.highlight .gh  { color: var(--fg-1); font-weight: bold; }     /* Generic.Heading */
+.highlight .gi  { color: var(--accent-green); }                /* Generic.Inserted */
+.highlight .gp  { color: var(--dim-0); font-weight: bold; }    /* Generic.Prompt */
+.highlight .gs  { font-weight: bold; }                         /* Generic.Strong */
+.highlight .gu  { color: var(--accent-cyan); font-weight: bold; } /* Generic.Subheading */
+.highlight .kc  { color: var(--accent-violet); }               /* Keyword.Constant */
+.highlight .kd  { color: var(--accent-violet); }               /* Keyword.Declaration */
+.highlight .kn  { color: var(--accent-cyan); }                 /* Keyword.Namespace */
+.highlight .kp  { color: var(--accent-violet); }               /* Keyword.Pseudo */
+.highlight .kr  { color: var(--accent-violet); }               /* Keyword.Reserved */
+.highlight .kt  { color: var(--accent-yellow); }               /* Keyword.Type */
+.highlight .ld  { color: var(--accent-green); }                /* Literal.Date */
+.highlight .m   { color: var(--accent-orange); }               /* Literal.Number */
+.highlight .s   { color: var(--accent-green); }                /* Literal.String */
+.highlight .na  { color: var(--accent-blue); }                 /* Name.Attribute */
+.highlight .nb  { color: var(--fg-0); }                        /* Name.Builtin */
+.highlight .nc  { color: var(--accent-yellow); }               /* Name.Class */
+.highlight .no  { color: var(--accent-red); }                  /* Name.Constant */
+.highlight .nd  { color: var(--accent-cyan); }                 /* Name.Decorator */
+.highlight .ni  { color: var(--fg-0); }                        /* Name.Entity */
+.highlight .ne  { color: var(--accent-red); }                  /* Name.Exception */
+.highlight .nf  { color: var(--accent-blue); }                 /* Name.Function */
+.highlight .nl  { color: var(--fg-0); }                        /* Name.Label */
+.highlight .nn  { color: var(--accent-yellow); }               /* Name.Namespace */
+.highlight .nx  { color: var(--accent-blue); }                 /* Name.Other */
+.highlight .py  { color: var(--fg-0); }                        /* Name.Property */
+.highlight .nt  { color: var(--accent-cyan); }                 /* Name.Tag */
+.highlight .nv  { color: var(--accent-red); }                  /* Name.Variable */
+.highlight .ow  { color: var(--accent-cyan); }                 /* Operator.Word */
+.highlight .w   { color: var(--fg-0); }                        /* Text.Whitespace */
+.highlight .mf  { color: var(--accent-orange); }               /* Literal.Number.Float */
+.highlight .mh  { color: var(--accent-orange); }               /* Literal.Number.Hex */
+.highlight .mi  { color: var(--accent-orange); }               /* Literal.Number.Integer */
+.highlight .mo  { color: var(--accent-orange); }               /* Literal.Number.Oct */
+.highlight .sb  { color: var(--accent-green); }                /* Literal.String.Backtick */
+.highlight .sc  { color: var(--fg-0); }                        /* Literal.String.Char */
+.highlight .sd  { color: var(--dim-0); }                       /* Literal.String.Doc */
+.highlight .s2  { color: var(--accent-green); }                /* Literal.String.Double */
+.highlight .se  { color: var(--accent-orange); }               /* Literal.String.Escape */
+.highlight .sh  { color: var(--accent-green); }                /* Literal.String.Heredoc */
+.highlight .si  { color: var(--accent-orange); }               /* Literal.String.Interpol */
+.highlight .sx  { color: var(--accent-green); }                /* Literal.String.Other */
+.highlight .sr  { color: var(--accent-green); }                /* Literal.String.Regex */
+.highlight .s1  { color: var(--accent-green); }                /* Literal.String.Single */
+.highlight .ss  { color: var(--accent-green); }                /* Literal.String.Symbol */
+.highlight .bp  { color: var(--fg-0); }                        /* Name.Builtin.Pseudo */
+.highlight .vc  { color: var(--accent-red); }                  /* Name.Variable.Class */
+.highlight .vg  { color: var(--accent-red); }                  /* Name.Variable.Global */
+.highlight .vi  { color: var(--accent-red); }                  /* Name.Variable.Instance */
+.highlight .il  { color: var(--accent-orange); }               /* Literal.Number.Integer.Long */

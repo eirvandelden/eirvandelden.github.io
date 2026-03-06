@@ -1,0 +1,71 @@
+table {
+  width: 100%;
+  display: table;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 1.5rem 0;
+}
+
+table,
+th,
+td {
+  border: none;
+}
+
+thead {
+  border-top: 1.5px solid var(--dim-0);
+  border-bottom: 1px solid var(--dim-0);
+}
+
+thead th {
+  font-variant: small-caps;
+  font-weight: 400;
+}
+
+tfoot {
+  border-top: 1.5px solid var(--dim-0);
+}
+
+td,
+th {
+  padding: 0.5rem 0.75rem;
+  display: table-cell;
+  text-align: left;
+  vertical-align: middle;
+  border-radius: 0;
+}
+
+/* Table layout helpers */
+.table        { display: table; }
+.table-cell   { display: table-cell; }
+.table-top    { vertical-align: top; }
+.table-middle { vertical-align: middle; }
+.table-bottom { vertical-align: bottom; }
+
+/* Table variants */
+table.bordered > thead > tr,
+table.bordered > tbody > tr {
+  border-bottom: 1px solid var(--dim-0);
+}
+
+table.striped > tbody > tr:nth-child(odd) {
+  background-color: var(--bg-1);
+}
+
+table.striped > tbody > tr > td {
+  border-radius: 0;
+}
+
+table.highlight > tbody > tr {
+  transition: background-color 0.25s ease;
+}
+
+table.highlight > tbody > tr:hover {
+  background-color: var(--bg-1);
+}
+
+table.centered thead tr th,
+table.centered tbody tr td,
+table.centered tfoot tr td {
+  text-align: center;
+}

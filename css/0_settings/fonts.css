@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Vecna';
+  src: url('/assets/fonts/vecna/Vecna.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vecna';
+  src: url('/assets/fonts/vecna/Vecna Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vecna';
+  src: url('/assets/fonts/vecna/Vecna Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vecna';
+  src: url('/assets/fonts/vecna/Vecna Bold Italic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

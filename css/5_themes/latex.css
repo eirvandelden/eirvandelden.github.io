@@ -1,0 +1,93 @@
+/* LaTeX-inspired visual theme — applied globally (no scoping class) */
+
+/* Small-caps headings */
+h1, h2 {
+  font-variant: small-caps;
+  font-weight: 400;
+}
+
+/* Paragraph indentation — LaTeX \parindent / \parskip=0 */
+p {
+  margin-bottom: 0.25rem;
+}
+
+p + p {
+  text-indent: 1.5rem;
+  margin-top: 0;
+}
+
+/* No indent after block elements — LaTeX \noindent */
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p,
+ul + p, ol + p, blockquote + p, pre + p,
+figure + p, .highlight + p, hr + p {
+  text-indent: 0;
+}
+
+/* Justified text + hyphenation */
+@media (min-width: 600px) {
+  p {
+    text-align: justify;
+    hyphens: auto;
+  }
+}
+
+/* Theorem/note box — blockquote as LaTeX theorem environment */
+blockquote {
+  background: var(--bg-1);
+  border-left: 3px solid var(--accent-blue);
+  border-right: 1px solid var(--bg-2);
+  border-top: 1px solid var(--bg-2);
+  border-bottom: 1px solid var(--bg-2);
+  font-style: italic;
+}
+
+blockquote::before {
+  content: "Note:";
+  font-variant: small-caps;
+  font-style: normal;
+  color: var(--accent-blue);
+}
+
+/* Booktabs-style tables — horizontal rules only */
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  border-top: 1.5px solid var(--dim-0);
+  border-bottom: 1px solid var(--dim-0);
+}
+
+tfoot {
+  border-top: 1.5px solid var(--dim-0);
+}
+
+thead th {
+  font-variant: small-caps;
+  font-weight: 400;
+}
+
+td, th {
+  border: none;
+}
+
+/* Post header: centered title block (\maketitle), italic meta */
+#post .post-header {
+  text-align: center;
+  border-bottom: 1px solid var(--dim-0);
+}
+
+#post .post-header .post-meta {
+  font-style: italic;
+}
+
+/* Post content paragraph indent */
+.post-content p + p {
+  text-indent: 1.5rem;
+}
+
+/* Decorative rules as LaTeX section separators */
+.post-navigation {
+  border-top: 1px solid var(--dim-0);
+  border-bottom: 1px solid var(--dim-0);
+}

@@ -1,0 +1,40 @@
+main {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 3rem 2.5rem;
+  background-color: #FAF6EE;
+}
+
+@media (prefers-color-scheme: dark) {
+  main {
+    background-color: var(--bg-1);
+  }
+}
+
+@media (max-width: 600px) {
+  main {
+    padding: 2rem 1.25rem;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 992px) {
+  main {
+    max-width: 85%;
+  }
+}
+
+/* Post section */
+#post {
+  padding-bottom: 3rem;
+}
+
+#page {
+  padding-bottom: 3rem;
+}
+
+#page .page-header {
+  text-align: center;
+  margin: 0 0 3rem 0;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--dim-0);
+}
