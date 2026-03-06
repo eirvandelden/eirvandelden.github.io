@@ -10,12 +10,15 @@
 }
 
 // Centered content container
-.post-listing,
-.container {
+main {
   max-width: 650px;
   margin: 0 auto;
   padding: 3rem 2.5rem;
-  background: transparent;
+  background-color: #FAF6EE;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: var(--bg-1);
+  }
 
   @media (max-width: $small-screen) {
     padding: 2rem 1.25rem;
@@ -35,8 +38,7 @@
 
 // Tablet
 @media (min-width: $small-screen) and (max-width: $medium-screen) {
-  .post-listing,
-  .container {
+  main {
     max-width: 85%;
   }
 }
