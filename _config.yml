@@ -71,3 +71,11 @@ plugins:
   - jemoji
 
 theme: jekyll-theme-minimal
+
+# Front matter defaults — auto-apply dnd_theme to all posts in _posts/dnd/
+defaults:
+  - scope:
+      path: "_posts/dnd"
+      type: posts
+    values:
+      dnd_theme: true
