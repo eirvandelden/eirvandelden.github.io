@@ -7,157 +7,58 @@ published: true
 dnd_theme: true
 ---
 
-<!-- Images are from https://www.tsrarchive.com/ -->
+These are Dungeons & Dragons books & accessories that I own. If we play at my place, they are at your disposal.
 
-These are Dungeons & Dragons books & accesories that I own. If we play at my place, they are at your disposal.
-At the bottom is a list of things I still want for D&D.
+<div data-controller="library">
 
-# 5th Edition
+<div class="book-filters">
+  <button class="book-filter-btn active" data-library-target="filterBtn" data-action="click->library#filter" data-filter="all">All</button>
+  <button class="book-filter-btn" data-library-target="filterBtn" data-action="click->library#filter" data-filter="5e">5e</button>
+  <button class="book-filter-btn" data-library-target="filterBtn" data-action="click->library#filter" data-filter="4e">4e</button>
+  <button class="book-filter-btn" data-library-target="filterBtn" data-action="click->library#filter" data-filter="3e">3e</button>
+  <button class="book-filter-btn" data-library-target="filterBtn" data-action="click->library#filter" data-filter="2e">2e</button>
+  <button class="book-filter-btn" data-library-target="filterBtn" data-action="click->library#filter" data-filter="third-party">3rd Party</button>
+  <button class="book-filter-btn" data-library-target="filterBtn" data-action="click->library#filter" data-filter="wanted">Wanted</button>
+</div>
 
-<!-- <img src="/img/library/5e-phb.jpg" style="width:200px;"> -->
+{% assign owned_books = site.data.books | where: "status", "owned" %}
+{% assign owned_editions = owned_books | map: "edition" | uniq %}
 
-<img src="/img/library/5e-phb.jpg" style="width:200px;">
-<img src="/img/library/5e-dmg.jpg" style="width:200px;">
-<img src="/img/library/5e-foesb.jpg" style="width:200px;">
-<img src="/img/library/5e-acc-rav.jpg" style="width:200px;">
-<img src="/img/library/5e-acc-sj-le.jpg" style="width:200px;">
-<img src="/img/library/5e-acc-rising-le.jpg" style="width:200px;">
-<img src="/img/library/5e-adv-hb-aver-le.jpg" style="width:200px;">
-<img src="/img/library/5e-acc-screen-re.jpg" style="width:200px;">
-<img src="/img/library/5e-dt-dung.jpg" style="width:200px;">
-<img src="/img/library/5e-dt-wild.jpg" style="width:200px;">
-<img src="/img/library/5e-acc-tac.jpg" style="width:200px;">
-<img src="/img/library/5e-acc-grid.jpg" style="width:200px;">
-<img src="/img/library/5e-map-rav.jpg" style="width:200px;">
-<img src="/img/library/5e-dice-rav.jpg" style="width:200px;">
-<img src="/img/library/5e-adv-hb-abyss.jpg" style="width:200px;">
-<img src="/img/library/5e-volo.jpg" style="width:200px;">
+{% for edition in owned_editions %}
+{% assign edition_books = owned_books | where: "edition", edition %}
+<div class="book-section" data-library-target="section" data-edition="{{ edition }}">
+  <h2 class="book-edition-header">
+    {%- case edition -%}
+    {%- when "5e" -%}5th Edition
+    {%- when "4e" -%}4th Edition
+    {%- when "3e" -%}3rd Edition
+    {%- when "2e" -%}2nd Edition
+    {%- when "third-party" -%}Third Party
+    {%- else -%}{{ edition }}
+    {%- endcase -%}
+  </h2>
+  <div class="book-grid">
+    {% for book in edition_books %}
+    <div class="book-card" title="{{ book.title }}">
+      <img src="{{ book.cover }}" alt="{{ book.title }}">
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}
 
+{% assign wanted_books = site.data.books | where: "status", "wanted" %}
+<div class="book-section" data-library-target="section" data-edition="wanted">
+  <h2 class="book-edition-header">Wanted</h2>
+  <div class="book-grid">
+    {% for book in wanted_books %}
+    <div class="book-card wanted" title="{{ book.title }}">
+      <img src="{{ book.cover }}" alt="{{ book.title }}">
+    </div>
+    {% endfor %}
+  </div>
+</div>
 
-# 4th Edition
+</div>
 
-<img src="/img/library/4e-core-phb.jpg" style="width:200px;">
-<img src="/img/library/4e-core-phb2.jpg" style="width:200px;">
-<img src="/img/library/4e-core-phb3.jpg" style="width:200px;">
-<img src="/img/library/4e-core-mm.jpg" style="width:200px;">
-<img src="/img/library/4e-core-mm2.jpg" style="width:200px;">
-<img src="/img/library/4e-core-mm3.jpg" style="width:200px;">
-<img src="/img/library/4e-core-dmg.jpg" style="width:200px;">
-<img src="/img/library/4e-core-dmg2.jpg" style="width:200px;">
-<img src="/img/library/4e-ess-hfl.jpg" style="width:200px;">
-<img src="/img/library/4e-ess-hfl.jpg" style="width:200px;">
-<img src="/img/library/4e-ess-hfk.jpg" style="width:200px;">
-<img src="/img/library/4e-ess-mv-box.jpg" style="width:200px;">
-<img src="/img/library/4e-ess-rc.jpg" style="width:200px;">
-<img src="/img/library/4e-ess-rc.jpg" style="width:200px;">
-<img src="/img/library/4e-redbox.jpg" style="width:200px;">
-<img src="/img/library/4e-core-slip.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-screen.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-dscreen.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-record.jpg" style="width:200px;">
-<img src="/img/library/4e-fr-hb-camp.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-hb-menzo.jpg" style="width:200px;">
-<img src="/img/library/4e-fr-hb-never.jpg" style="width:200px;">
-<img src="/img/library/4e-h1.jpg" style="width:200px;">
-<img src="/img/library/4e-h2.jpg" style="width:200px;">
-<img src="/img/library/4e-h3.jpg" style="width:200px;">
-<img src="/img/library/4e-p1.jpg" style="width:200px;">
-<img src="/img/library/4e-p2.jpg" style="width:200px;">
-<img src="/img/library/4e-p3.jpg" style="width:200px;">
-<img src="/img/library/4e-hs1.jpg" style="width:200px;">
-<img src="/img/library/4e-hs2.jpg" style="width:200px;">
-<img src="/img/library/4e-fr-tower.jpg" style="width:200px;">
-<img src="/img/library/4e-eb-seek.jpg" style="width:200px;">
-<img src="/img/library/4e-adv-hb-tomb.jpg" style="width:200px;">
-<img src="/img/library/4e-reward-hommlet.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-vile.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-hb-delve.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-hb-av.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-hb-av2.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-hb-mme.jpg" style="width:200px;">
-<img src="/img/library/4e-po-shadow.jpg" style="width:200px;">
-<img src="/img/library/4e-power-arcane.jpg" style="width:200px;">
-<img src="/img/library/4e-power-divine.jpg" style="width:200px;">
-<img src="/img/library/4e-wp-races.jpg" style="width:200px;">
-<img src="/img/library/4e-wp-worlds.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-hb-above.jpg" style="width:200px;">
-<img src="/img/library/4e-acc-hb-strat.jpg" style="width:200px;">
-<img src="/img/library/4e-ess-city.jpg" style="width:200px;">
-<img src="/img/library/4e-ess-dun.jpg" style="width:200px;">
-<img src="/img/library/4e-dn3.jpg" style="width:200px;">
-<img src="/img/library/4e-dn5.jpg" style="width:200px;">
-<img src="/img/library/4e-dn6.jpg" style="width:200px;">
-<img src="/img/library/4e-dn7.jpg" style="width:200px;">
-<img src="/img/library/4e-du1.jpg" style="width:200px;">
-<img src="/img/library/4e-du6.jpg" style="width:200px;">
-<img src="/img/library/4e-du7.jpg" style="width:200px;">
-
-# 3rd Edition
-
-<img src="/img/library/3f-hb-cs.jpg" style="width:200px;">
-<img src="/img/library/3d-hb-cs.jpg" style="width:200px;">
-<img src="/img/library/3e2-heart.jpg" style="width:200px;">
-
-# 2nd Edition
-
-<img src="/img/library/add-2e-core-phb-rev-1st.jpg" style="width:200px;">
-<img src="/img/library/add-2e-core-mm-7th.jpg" style="width:200px;">
-<img src="/img/library/add-2e-core-dmg-rev-1st.jpg" style="width:200px;">
-<img src="/img/library/fr-box-maz.jpg" style="width:200px;">
-
-# Third Party
-
-<img src="/img/library/mcdm-stronghold-and-followers.jpg" style="width:200px;">
-<img src="/img/library/the-monsters-know-what-theyre-doing.jpg" style="width:200px;">
-<img src="/img/library/how-to-defend-your-lair.png" style="width:200px;">
-<img src="/img/library/pf-2e-cover.jpeg" style="width:200px;">
-<img src="/img/library/13thage.jpg" style="width:200px;">
-<img src="/img/library/stargate-rpg.jpeg" style="width:200px;">
-
-
-## Wanted: 5th Edition
-
-This is the current edition, all books should be in print.
-
-<img src="/img/library/5e-adv-hb-tales.jpg" style="width:75px;"> Tales of the Yawning Portal
-<img src="/img/library/5e-adv-hb-curse.jpg" style="width:75px;"> Curse of Strahd
-<img src="/img/library/5e-adv-hb-tod.jpg" style="width:75px;"> Tyranny of Dragons
-
-## Wanted: 4th Editon
-
-This is an earlier edition; everything can only be found at the secondhand market.
-
-<img src="/img/library/4e-box-gloom.jpg" style="width:75px;"> The Shadowfell: Gloomwrought and beyond
-<img src="/img/library/4e-e1.jpg" style="width:75px;"> E1: Death's Reach
-<img src="/img/library/4e-e2.jpg" style="width:75px;"> E2: Kingdom of Ghouls
-<img src="/img/library/4e-e3.jpg" style="width:75px;"> E3: Price of Undeath
-<img src="/img/library/4e-ds-mar.jpg" style="width:75px;"> Marauders of the Dune Sea
-<img src="/img/library/4e-ess-dm-box.jpg" style="width:75px;"> Dungeon Master's Kit
-<img src="/img/library/4e-ds-hb-campaign.jpg" style="width:75px;"> Darksun Campaign Setting
-<img src="/img/library/4e-ds-hb-creature.jpg" style="width:75px;"> Darksun Creature Catalog
-<img src="/img/library/4e-eb-hb-camp.jpg" style="width:75px;"> Eberron Campaign Guide
-<img src="/img/library/4e-adv-hb-giants.jpg" style="width:75px;"> Revenge of the Giants
-<img src="/img/library/4e-adv-hb-halls.jpg" style="width:75px;"> Halls of Undermountain
-<img src="/img/library/4e-box-start.jpg" style="width:75px;"> Roleplaying game starter set
-<img src="/img/library/4e-power-martial.jpg" style="width:75px;"> Martial Power
-<img src="/img/library/4e-power-martial2.jpg" style="width:75px;"> Martial Power 2
-<img src="/img/library/4e-acc-hb-planes.jpg" style="width:75px;"> Manual of the Planes
-<img src="/img/library/4e-acc-hb-below.jpg" style="width:75px;"> Plane below
-<img src="/img/library/4e-acc-hb-demon.jpg" style="width:75px;"> Demonomicon
-<img src="/img/library/4e-acc-hb-chrom.jpg" style="width:75px;"> Draconomicon: Chromatic Dragons
-<img src="/img/library/4e-acc-hb-metal.jpg" style="width:75px;"> Draconomicon: Metallic Dragons
-<img src="/img/library/4e-power-primal.jpg" style="width:75px;"> Primal Power
-<img src="/img/library/4e-power-psionic.jpg" style="width:75px;"> Psionic Power
-<img src="/img/library/4e-po-chaos.jpg" style="width:75px;"> Heroes of Elemental Chaos
-<img src="/img/library/4e-po-feywild.jpg" style="width:75px;"> Heroes of the Feywild
-<img src="/img/library/4e-site-vr.jpg" style="width:75px;"> Vor Rukoth
-<img src="/img/library/4e-site-hammer.jpg" style="width:75px;"> Hammerfast
-<img src="/img/library/4e-acc-hb-dungann.jpg" style="width:75px;"> Dungeon Magazine Annual
-<img src="/img/library/4e-fr-hb-pg.jpg" style="width:75px;"> Forgotten Realms Players Guide
-<img src="/img/library/4e-eb-hb-pg.jpg" style="width:75px;"> Eberron's Players Guide
-
-## Wanted: 3rd Edition
-
-This is an earlier edition; everything can only be found at the secondhand market.
-
-<img src="/img/library/3e2-mon-drow.jpg" style="width:75px;"> Drow of the Underdark (3E)
+{% include library-stimulus.html %}

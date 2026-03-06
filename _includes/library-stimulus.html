@@ -1,0 +1,22 @@
+<script type="module">
+  import { Application, Controller } from "https://cdn.jsdelivr.net/npm/@hotwired/stimulus@3/dist/stimulus.js";
+
+  const app = Application.start();
+
+  app.register("library", class extends Controller {
+    static targets = ["section", "filterBtn"];
+
+    filter(event) {
+      const selected = event.currentTarget.dataset.filter;
+
+      this.filterBtnTargets.forEach(btn =>
+        btn.classList.toggle("active", btn.dataset.filter === selected)
+      );
+
+      this.sectionTargets.forEach(section => {
+        const show = selected === "all" || section.dataset.edition === selected;
+        section.classList.toggle("hidden", !show);
+      });
+    }
+  });
+</script>
