@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body{% if page.dnd_theme or page.categories contains 'dungeons-and-dragons' %} class="dnd-theme"{% endif %}>
+<body{% if page.dnd_theme %} class="dnd-theme"{% endif %}>
   {% include navigation.html %}
   {{ content }}
   {% include nav.html %}
