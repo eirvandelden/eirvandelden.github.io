@@ -4,6 +4,7 @@ title: "📚Library"
 categories: dungeons-and-dragons
 tags: [5e, 4e]
 published: true
+dnd_theme: true
 ---
 
 <!-- Images are from https://www.tsrarchive.com/ -->
