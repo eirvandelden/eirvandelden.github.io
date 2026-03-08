@@ -5,7 +5,9 @@
 <body{% if is_dnd %} class="dnd-theme"{% endif %}>
   {% include navigation.html %}
   {{ content }}
+  {% if page.layout == 'post' %}
   {% include nav.html %}
+  {% endif %}
   {% include footer.html %}
   {% include js.html %}
 </body>

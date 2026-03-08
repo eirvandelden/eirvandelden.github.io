@@ -1,0 +1,23 @@
+:root {
+  /* Typography */
+  --base-font-family:      'TeX Gyre Termes', 'TeX Gyre Pagella', 'Georgia', 'Times New Roman', serif;
+  --monospace-font-family: 'TeX Gyre Cursor', 'Courier New', monospace;
+  --base-font-size:        14.67px;
+  --small-font-size:       12.84px; /* 14.67 * 0.875 */
+  --base-line-height:      1.6;
+
+  /* Heading sizes (LaTeX proportions) */
+  --h1-fontsize: 1.728rem;
+  --h2-fontsize: 1.44rem;
+  --h3-fontsize: 1.2rem;
+  --h4-fontsize: 1.1rem;
+  --h5-fontsize: 1.0rem;
+  --h6-fontsize: 0.9rem;
+
+  /* Spacing */
+  --base-space-unit:       1.5rem;
+  --gutter-width:          1.5rem;
+
+  /* Breakpoints (for use in calc/clamp; media queries use literal values) */
+  /* small: 600px, medium: 992px, large: 1200px, larger: 1600px */
+}

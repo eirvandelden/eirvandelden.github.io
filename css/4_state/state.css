@@ -1,0 +1,52 @@
+.is-active {
+  color: var(--accent-blue);
+  border-bottom: 2px solid var(--accent-blue);
+}
+
+.primary-text-color {
+  color: var(--accent-blue);
+}
+
+.primary-bg-color {
+  background-color: var(--accent-blue);
+}
+
+.secondary-text-color {
+  color: var(--accent-cyan);
+}
+
+.secondary-bg-color {
+  background-color: var(--accent-cyan);
+}
+
+.success-text-color {
+  color: #65e892;
+}
+
+.success-bg-color {
+  background-color: #65e892;
+}
+
+.danger-text-color {
+  color: #f83e4b;
+}
+
+.danger-bg-color {
+  background-color: #f83e4b;
+}
+
+.info-text-color {
+  color: #09abf6;
+}
+
+.info-bg-color {
+  background-color: #09abf6;
+}
+
+.warning-text-color {
+  color: #f5a623;
+}
+
+.warning-bg-color {
+  background-color: #f5a623;
+}

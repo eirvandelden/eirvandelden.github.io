@@ -1,0 +1,615 @@
+/* ============================================================
+   D&D 4e Theme — Part 1: Parchment Book Aesthetic
+   Activated via body.dnd-theme (set when page.dnd_theme: true
+   or post is in dungeons-and-dragons category)
+   ============================================================ */
+
+body.dnd-theme {
+  background-color: var(--dnd-page-bg);
+  font-family: 'Source Serif 4', Georgia, serif;
+  color: #1a1a1a;
+}
+
+body.dnd-theme main {
+  background-color: var(--dnd-content-bg);
+}
+
+/* Drop caps for first paragraph */
+body.dnd-theme .post-content > p:first-of-type::first-letter {
+  font-family: 'Vecna', serif;
+  font-size: 4em;
+  font-weight: 700;
+  color: var(--dnd-drop-cap);
+  float: left;
+  line-height: 0.8;
+  margin: 0.05em 0.08em 0 0;
+}
+
+/* Remove LaTeX paragraph indentation on D&D pages */
+body.dnd-theme .post-content p + p {
+  text-indent: 0;
+  margin-bottom: 0.8em;
+}
+
+/* Decorative horizontal rules */
+body.dnd-theme .post-content hr,
+body.dnd-theme .dnd-divider {
+  border: none;
+  height: 2px;
+  background: linear-gradient(to right, transparent, var(--dnd-rule-color), transparent);
+  margin: 1.5em 0;
+}
+
+/* Chapter-style post title */
+body.dnd-theme #post .post-header h2 {
+  font-family: 'Vecna', serif;
+  font-size: 2.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--dnd-heading-color);
+  border-bottom: 2px solid var(--dnd-rule-color);
+  padding-bottom: 0.2em;
+  margin-bottom: 0.5em;
+  font-variant: normal;
+}
+
+/* Post header border */
+body.dnd-theme #post .post-header {
+  border-bottom-color: var(--dnd-rule-color);
+}
+
+/* Post title in listing */
+body.dnd-theme .post-title {
+  font-family: 'Vecna', serif;
+  font-variant: normal;
+  color: var(--dnd-heading-color);
+}
+
+/* Post meta bar */
+body.dnd-theme .post-meta {
+  font-family: 'Asul', sans-serif;
+  background: var(--dnd-flavor-bg);
+  padding: 4px 8px;
+  color: var(--dnd-heading-color);
+}
+
+body.dnd-theme .post-meta .post-date,
+body.dnd-theme .post-meta .post-cat {
+  color: var(--dnd-heading-color);
+}
+
+body.dnd-theme .post-meta .read-time {
+  color: var(--dnd-player-header);
+}
+
+/* Section headers h2 */
+body.dnd-theme .post-content h2 {
+  font-family: 'Marcellus SC', serif;
+  font-size: 1.4em;
+  color: var(--dnd-heading-color);
+  border-bottom: 1px solid var(--dnd-rule-color);
+  margin: 1.5em 0 0.5em;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+/* Sub-section headers h3 */
+body.dnd-theme .post-content h3 {
+  font-family: 'Marcellus SC', serif;
+  font-size: 1.15em;
+  color: var(--dnd-player-header);
+  font-weight: normal;
+  font-variant: normal;
+}
+
+/* Flavor text blockquote */
+body.dnd-theme .post-content blockquote {
+  background: var(--dnd-blockquote-bg);
+  border-left: 3px solid var(--dnd-rule-color);
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+  padding: 0.75em 1em;
+  font-style: italic;
+  color: #4a3a2a;
+}
+
+body.dnd-theme .post-content blockquote::before {
+  content: none;
+}
+
+/* In-content links */
+body.dnd-theme .post-content a {
+  color: var(--dnd-link-color);
+}
+
+body.dnd-theme .post-content a:hover,
+body.dnd-theme .post-content a:focus {
+  color: color-mix(in oklch, var(--dnd-link-color), white 20%);
+}
+
+/* Post navigation */
+body.dnd-theme .post-navigation {
+  border-color: var(--dnd-rule-color);
+}
+
+/* Archive — year headers */
+body.dnd-theme .archive .archive-year {
+  background: var(--dnd-player-header);
+  color: #fff;
+  font-family: 'Vecna', serif;
+}
+
+body.dnd-theme .archive #timeline::before {
+  background: var(--dnd-rule-color);
+}
+
+/* Tags — group titles */
+body.dnd-theme .tag-group-title,
+body.dnd-theme .cat-group-title {
+  background: var(--dnd-monster);
+  color: #fff;
+  font-family: 'Vecna', serif;
+}
+
+/* ============================================================
+   D&D 4e Theme — Part 2: Game Mechanical Components
+   Stat blocks, power cards, monsters, magic items, traps
+   ============================================================ */
+
+/* Shared stat block base */
+.dnd-power,
+.dnd-monster,
+.dnd-magic-item,
+.dnd-trap {
+  width: 100%;
+  max-width: 560px;
+  background: #fff;
+  color: #000;
+  font-family: 'Asul', Arial, sans-serif;
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.dnd-power p,
+.dnd-monster p,
+.dnd-magic-item p,
+.dnd-trap p {
+  padding-left: 15px;
+  color: #000;
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+.dnd-power table,
+.dnd-monster table,
+.dnd-magic-item table,
+.dnd-trap table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 1em;
+}
+
+.dnd-power table td,
+.dnd-monster table td,
+.dnd-magic-item table td,
+.dnd-trap table td {
+  vertical-align: top;
+  background: var(--dnd-flavor-bg);
+  border-bottom: 1px solid #fff;
+  padding: 0 10px;
+}
+
+.dnd-power table th,
+.dnd-monster table th,
+.dnd-magic-item table th,
+.dnd-trap table th {
+  background: var(--dnd-player-header);
+  color: #fff;
+  text-align: left;
+  padding: 0 0 0 5px;
+}
+
+.dnd-power ul,
+.dnd-monster ul,
+.dnd-magic-item ul,
+.dnd-trap ul {
+  list-style: disc;
+  margin: 1em 0 1em 30px;
+}
+
+.dnd-power blockquote,
+.dnd-monster blockquote,
+.dnd-magic-item blockquote,
+.dnd-trap blockquote {
+  background: var(--dnd-flavor-bg);
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+  padding: 0 0 0 22px;
+  font-style: normal;
+  color: #000;
+}
+
+.dnd-power blockquote::before,
+.dnd-monster blockquote::before,
+.dnd-magic-item blockquote::before,
+.dnd-trap blockquote::before {
+  content: none;
+}
+
+.dnd-power .flavor,
+.dnd-power p.flavor,
+.dnd-power span.flavor,
+.dnd-monster .flavor,
+.dnd-monster p.flavor,
+.dnd-monster span.flavor,
+.dnd-magic-item .flavor,
+.dnd-magic-item p.flavor,
+.dnd-magic-item span.flavor,
+.dnd-trap .flavor,
+.dnd-trap p.flavor,
+.dnd-trap span.flavor {
+  display: block;
+  background: var(--dnd-flavor-bg);
+  font-size: 0.875rem;
+  margin: 0;
+  padding: 2px 15px;
+}
+
+.dnd-power .alt,
+.dnd-power p.alt,
+.dnd-power span.alt,
+.dnd-power td.alt,
+.dnd-monster .alt,
+.dnd-monster p.alt,
+.dnd-monster span.alt,
+.dnd-monster td.alt,
+.dnd-magic-item .alt,
+.dnd-magic-item p.alt,
+.dnd-magic-item span.alt,
+.dnd-magic-item td.alt,
+.dnd-trap .alt,
+.dnd-trap p.alt,
+.dnd-trap span.alt,
+.dnd-trap td.alt {
+  background: var(--dnd-alt-row);
+}
+
+.dnd-power .powerstat,
+.dnd-power p.powerstat,
+.dnd-monster .powerstat,
+.dnd-monster p.powerstat,
+.dnd-magic-item .powerstat,
+.dnd-magic-item p.powerstat,
+.dnd-trap .powerstat,
+.dnd-trap p.powerstat {
+  background: #fff;
+  font-size: 0.875rem;
+  margin: 0;
+  padding: 0 0 0 15px;
+}
+
+.dnd-power .indent,
+.dnd-monster .indent,
+.dnd-magic-item .indent,
+.dnd-trap .indent  { text-indent: -15px; padding: 0 0 0 30px; }
+
+.dnd-power .indent1,
+.dnd-monster .indent1,
+.dnd-magic-item .indent1,
+.dnd-trap .indent1 { text-indent: -15px; padding: 0 0 0 45px; }
+
+.dnd-power .indent2,
+.dnd-monster .indent2,
+.dnd-magic-item .indent2,
+.dnd-trap .indent2 { text-indent: -15px; padding: 0 0 0 60px; }
+
+.dnd-power .rightalign,
+.dnd-monster .rightalign,
+.dnd-magic-item .rightalign,
+.dnd-trap .rightalign { text-align: right; }
+
+/* --- Power Cards --- */
+.dnd-power {
+  margin-bottom: 1.5em;
+}
+
+.dnd-power h1 {
+  font-size: 1.09em;
+  line-height: 2;
+  padding-left: 15px;
+  color: #fff;
+  background: #000;
+  margin: 0;
+  font-family: 'Asul', Arial, sans-serif;
+}
+
+.dnd-power h1 .level {
+  padding-right: 15px;
+  margin-top: 0;
+  text-align: right;
+  float: right;
+}
+
+.dnd-power.player h1   { background: var(--dnd-player-header); font-size: 1.35em; }
+.dnd-power.atwill h1   { background: var(--dnd-atwill); }
+.dnd-power.encounter h1 { background: var(--dnd-encounter); }
+.dnd-power.daily h1    { background: var(--dnd-daily); }
+.dnd-power.utility h1  { background: var(--dnd-utility); }
+
+/* --- Monster Stat Blocks --- */
+.dnd-monster {
+  margin-bottom: 1.5em;
+}
+
+.dnd-monster h1.monster {
+  background: var(--dnd-monster);
+  height: auto;
+  min-height: 38px;
+  font-size: 1.09em;
+  line-height: 2;
+  padding-left: 15px;
+  color: #fff;
+  margin: 0;
+  font-family: 'Asul', Arial, sans-serif;
+}
+
+.dnd-monster h1.monster .level {
+  padding-right: 15px;
+  text-align: right;
+  float: right;
+}
+
+.dnd-monster h2.monster {
+  font-size: 0.875rem;
+  padding-left: 15px;
+  color: #fff;
+  background: var(--dnd-monster);
+  min-height: 20px;
+  font-variant: small-caps;
+  padding-top: 3px;
+  margin: 0;
+  font-family: 'Asul', Arial, sans-serif;
+}
+
+.dnd-monster h3.monster {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #000;
+  background: var(--dnd-alt-row);
+  display: block;
+  margin: 0;
+  padding: 0 5px 0 10px;
+}
+
+.dnd-monster p.monster,
+.dnd-monster p.monstat {
+  background: var(--dnd-monster-row);
+  font-size: 0.875rem;
+  display: block;
+  margin: 0;
+  padding: 2px 15px;
+}
+
+/* --- Magic Items --- */
+.dnd-magic-item {
+  margin-bottom: 1.5em;
+}
+
+.dnd-magic-item h1 {
+  font-size: 1.35em;
+  line-height: 2;
+  padding-left: 15px;
+  color: #fff;
+  background: var(--dnd-player-header);
+  margin: 0;
+  font-family: 'Asul', Arial, sans-serif;
+}
+
+.dnd-magic-item h1 .level {
+  padding-right: 15px;
+  text-align: right;
+  float: right;
+}
+
+.dnd-magic-item h2.magicitem,
+.dnd-magic-item h2.mihead {
+  display: block;
+  background: var(--dnd-magic-item-tan);
+  color: #000;
+  font-variant: normal;
+  font-size: 0.875rem;
+  line-height: 18px;
+  padding: 0 0 0 15px;
+  margin: 0;
+  min-height: 18px;
+  font-family: 'Asul', Arial, sans-serif;
+}
+
+.dnd-magic-item table.magicitem {
+  width: 100%;
+  max-width: 560px;
+  margin-bottom: 0;
+}
+
+.dnd-magic-item table.magicitem td {
+  border: none;
+  font-size: 0.875rem;
+  background: var(--dnd-magic-item-cream);
+}
+
+.dnd-magic-item p.miflavor {
+  display: block;
+  background: var(--dnd-magic-item-tan);
+  font-size: 0.875rem;
+  font-style: italic;
+  color: #000;
+  margin: 0;
+  padding: 2px 15px;
+}
+
+.dnd-magic-item p.mistat {
+  display: block;
+  background: var(--dnd-magic-item-cream);
+  font-size: 0.875rem;
+  color: #000;
+  margin: 0;
+  padding: 0 0 0 15px;
+}
+
+.dnd-magic-item p.mitext,
+.dnd-magic-item ul.mitext {
+  background: #fff;
+  font-size: 0.875rem;
+  color: #000;
+  margin: 0;
+  padding: 0 0 0 5px;
+}
+
+.dnd-magic-item ul.mistat {
+  background: var(--dnd-magic-item-cream);
+  font-size: 0.875rem;
+  color: #000;
+  margin: 0;
+  padding: 2px 5px 2px 30px;
+}
+
+/* --- Traps & Hazards --- */
+.dnd-trap {
+  margin-bottom: 1.5em;
+}
+
+.dnd-trap h1.thHead {
+  background: var(--dnd-trap);
+  min-height: 38px;
+  font-size: 1.09em;
+  line-height: 2;
+  padding-left: 15px;
+  color: #fff;
+  margin: 0;
+  font-family: 'Asul', Arial, sans-serif;
+}
+
+.dnd-trap h1.thHead .thLevel {
+  margin-top: 0;
+  text-align: right;
+  float: right;
+  padding-right: 15px;
+}
+
+.dnd-trap h2.thHead {
+  display: block;
+  background: var(--dnd-trap-sub);
+  color: #fff;
+  font-variant: small-caps;
+  font-size: 0.875rem;
+  line-height: 18px;
+  padding: 0 0 0 15px;
+  margin: 0;
+  min-height: 18px;
+  font-family: 'Asul', Arial, sans-serif;
+}
+
+.dnd-trap p.thBody {
+  text-indent: -15px;
+  display: block;
+  background: var(--dnd-trap-body);
+  font-size: 0.875rem;
+  color: #000;
+  margin: 0;
+  padding: 0 0 0 30px;
+}
+
+.dnd-trap p.tbod {
+  text-indent: -15px;
+  display: block;
+  background: var(--dnd-trap-body);
+  font-size: 0.875rem;
+  color: #000;
+  margin: 0;
+  padding: 0 0 0 45px;
+}
+
+.dnd-trap p.thStat {
+  display: block;
+  background: var(--dnd-trap-body);
+  font-size: 0.875rem;
+  color: #000;
+  margin: 0;
+  padding: 0 0 0 15px;
+}
+
+.dnd-trap p.th2 {
+  display: block;
+  background: var(--dnd-monster-row);
+  font-size: 0.875rem;
+  color: #000;
+  margin: 0;
+  padding: 0 0 0 15px;
+}
+
+.dnd-trap .traplead {
+  display: block;
+  background: #fff;
+  margin: 0;
+  padding: 1px 15px;
+}
+
+.dnd-trap .trapblocktitle {
+  display: block;
+  background: var(--dnd-flavor-bg);
+  font-weight: 700;
+  margin: 0;
+  padding: 1px 15px;
+}
+
+.dnd-trap .trapblockbody {
+  display: block;
+  background: #fff;
+  margin: 0;
+  padding: 1px 15px 1px 30px;
+}
+
+/* --- DM section header --- */
+.dnd-section-header {
+  font-size: 1.25em;
+  padding-left: 15px;
+  color: #fff;
+  background: var(--dnd-monster);
+  min-height: 20px;
+  font-variant: small-caps;
+  padding-top: 5px;
+  margin: 0;
+  font-family: 'Asul', Arial, sans-serif;
+}
+
+/* --- Generic D&D table --- */
+.dnd-table {
+  width: 100%;
+  max-width: 560px;
+  font-family: 'Asul', Arial, sans-serif;
+  font-size: 0.875rem;
+  border-collapse: collapse;
+}
+
+.dnd-table th {
+  background: var(--dnd-player-header);
+  color: #fff;
+  text-align: left;
+  padding: 2px 10px;
+}
+
+.dnd-table td {
+  background: var(--dnd-flavor-bg);
+  border-bottom: 1px solid #fff;
+  padding: 2px 10px;
+  vertical-align: top;
+}
+
+.dnd-table tr:nth-child(even) td {
+  background: var(--dnd-alt-row);
+}

@@ -1,5 +1,6 @@
 <script type="module">
   import { Application, Controller } from "https://cdn.jsdelivr.net/npm/@hotwired/stimulus@3/dist/stimulus.js";
+  import { filterLibrarySections } from "{{ '/js/library_filter.js' | relative_url }}";
 
   const app = Application.start();
 
@@ -8,14 +9,10 @@
 
     filter(event) {
       const selected = event.currentTarget.dataset.filter;
-
-      this.filterBtnTargets.forEach(btn =>
-        btn.classList.toggle("active", btn.dataset.filter === selected)
-      );
-
-      this.sectionTargets.forEach(section => {
-        const show = selected === "all" || section.dataset.edition === selected;
-        section.classList.toggle("hidden", !show);
+      filterLibrarySections({
+        selected,
+        buttons: this.filterBtnTargets,
+        sections: this.sectionTargets
       });
     }
   });

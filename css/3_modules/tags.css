@@ -1,0 +1,65 @@
+ul.tag-cloud {
+  padding: 2em 0 3em;
+  margin: 0;
+  overflow: hidden;
+  list-style: none;
+}
+
+ul.tag-cloud li {
+  display: inline-block;
+  margin-right: 0.5em;
+}
+
+ul.tag-cloud li a.post-tag {
+  border-radius: 0.2em;
+}
+
+/* Tag list */
+.tag-list .tag-group {
+  margin-bottom: 2em;
+}
+
+.tag-list .tag-group .tag-group-title {
+  color: var(--accent-blue);
+  font-variant: small-caps;
+  font-weight: 400;
+}
+
+.tag-list .tag-group .tag-item {
+  padding-left: 1em;
+  margin-bottom: 0.5em;
+}
+
+.tag-list .tag-group .tag-item a {
+  color: var(--fg-1);
+}
+
+.tag-list .tag-group .tag-item a:hover,
+.tag-list .tag-group .tag-item a:focus {
+  color: var(--accent-blue);
+}
+
+/* Category list */
+.cat-list .cat-group {
+  margin-bottom: 2em;
+}
+
+.cat-list .cat-group .cat-group-title {
+  color: var(--accent-blue);
+  font-variant: small-caps;
+  font-weight: 400;
+}
+
+.cat-list .cat-group .cat-item {
+  padding-left: 1em;
+  margin-bottom: 0.5em;
+}
+
+.cat-list .cat-group .cat-item a {
+  color: var(--fg-1);
+}
+
+.cat-list .cat-group .cat-item a:hover,
+.cat-list .cat-group .cat-item a:focus {
+  color: var(--accent-blue);
+}
