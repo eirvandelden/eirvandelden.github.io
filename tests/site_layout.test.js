@@ -31,3 +31,12 @@ test('page layout keeps the page wrapper used by the migrated CSS', () => {
 
   assert.equal(tagsPage.includes('<main id="page">'), true);
 });
+
+test('utility color classes used by built pages remain defined', () => {
+  const stateCss = readBuiltFile('css/4_state/state.css');
+
+  assert.equal(stateCss.includes('.primary-text-color'), true);
+  assert.equal(stateCss.includes('.success-text-color'), true);
+  assert.equal(stateCss.includes('.danger-text-color'), true);
+  assert.equal(stateCss.includes('.info-text-color'), true);
+});
