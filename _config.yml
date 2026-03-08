@@ -72,6 +72,10 @@ plugins:
 
 theme: jekyll-theme-minimal
 
+exclude:
+  - AGENTS.md
+  - CLAUDE.md
+
 # Front matter defaults — auto-apply dnd_theme to all posts in _posts/dnd/
 defaults:
   - scope:
