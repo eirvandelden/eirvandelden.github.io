@@ -67,9 +67,6 @@ owner:
   flickr: #username
   codepen: #username
 
-plugins:
-  - jemoji
-
 theme: jekyll-theme-minimal
 
 exclude:
